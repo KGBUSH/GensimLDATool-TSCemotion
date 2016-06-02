@@ -1,0 +1,1 @@
+{"id":128,"startTime":2560.0,"endTime":2590.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"09687c56": {"detail": {"原来": 1, "布鲁日": 1, "之前": 1, "教父": 1}}, "444621db": {"detail": {"自以为是": 1, "老板": 1}}}}

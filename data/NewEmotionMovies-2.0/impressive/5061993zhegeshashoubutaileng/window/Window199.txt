@@ -1,0 +1,1 @@
+{"id":199,"startTime":3980.0,"endTime":4010.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"806accf2": {"detail": {"233333": 1}}, "4ea7d9c0": {"detail": {"23333333333": 1}}, "af316545": {"detail": {"loli": 1}}, "cfcaffd6": {"detail": {"4602": 1}}, "cdd320f1": {"detail": {"神经质": 1}}, "c945f3a1": {"detail": {"32": 1, "你们好": 1, "小伙伴": 1, "其他": 1}}}}

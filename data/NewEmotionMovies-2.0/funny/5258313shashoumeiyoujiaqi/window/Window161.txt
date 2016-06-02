@@ -1,0 +1,1 @@
+{"id":161,"startTime":3220.0,"endTime":3250.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"c9f71e1d": {"detail": {"不能": 1, "早点": 1, "说话": 1}}, "2f00b0ba": {"detail": {"搭话": 1, "姐俩": 1}}, "40580e57": {"detail": {"夭寿": 1, "侏儒": 1, "腹肌": 1}}, "cede4c2c": {"detail": {}}}}

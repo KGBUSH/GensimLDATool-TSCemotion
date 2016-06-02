@@ -1,0 +1,1 @@
+{"id":131,"startTime":2620.0,"endTime":2650.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"Dad4690b": {"detail": {"发光": 1, "眼睛": 1}}, "648fefa7": {"detail": {"闪婚": 1}}, "41b9436c": {"detail": {"剧情": 1, "太快": 1, "弹幕": 1, "来不及": 1}}, "2edbffc4": {"detail": {"偏見裡": 1, "閃婚": 1, "姐姐": 1, "可笑": 1, "傲慢": 1, "鄰居": 1, "最早": 1, "表兄": 1}}}}

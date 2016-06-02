@@ -1,0 +1,1 @@
+{"id":593,"startTime":11860.0,"endTime":11890.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D39ba8f2": {"detail": {"壁咚": 1}}, "36d1a7ce": {"detail": {"睡衣": 1, "漂亮": 1, "这套": 1}}, "81e8543a": {"detail": {"来说": 1, "对傲": 1, "吃软不吃硬": 1}}, "c65e0d99": {"detail": {"局面": 1, "傲娇": 1, "按头": 1}}}}

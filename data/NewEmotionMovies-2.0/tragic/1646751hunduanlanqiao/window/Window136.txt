@@ -1,0 +1,1 @@
+{"id":136,"startTime":2720.0,"endTime":2750.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"afa3aecf": {"detail": {"果然": 1, "恋爱": 1, "使人": 1, "疯狂": 1}}, "648fefa7": {"detail": {"后面": 1, "结成": 1, "直接": 1, "进度条": 1}}, "fa98e9a3": {"detail": {"姑娘": 1, "不要": 1, "QAQ": 1}}, "a039993a": {"detail": {"WTF": 1}}, "2edbffc4": {"detail": {}}}}

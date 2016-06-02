@@ -1,0 +1,1 @@
+{"id":149,"startTime":2980.0,"endTime":3010.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"3a0e57cc": {"detail": {"送到": 1, "少年": 1, "身边": 1, "就是": 1, "哪吒": 1, "英雄": 1}}, "Dbc4b19d": {"detail": {"手上": 1, "进度条": 1}}, "f21dfe6b": {"detail": {"哈哈哈哈": 2}}, "182c341f": {"detail": {"233333": 1}}, "c285c9a2": {"detail": {"233333333333333": 1}}}}

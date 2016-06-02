@@ -1,0 +1,1 @@
+{"id":325,"startTime":6500.0,"endTime":6530.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"ca48a279": {"detail": {"人才": 1, "看到": 2, "最后": 1, "只有": 1}}, "Dea80c11": {"detail": {"结束": 1, "卡滴": 1}}, "De3404a6": {"detail": {"2015813": 1}}, "e733ced9": {"detail": {"201481": 1}}, "5e12a52f": {"detail": {"彩蛋": 1, "真的": 1}}, "98deed00": {"detail": {"bgm": 1}}}}

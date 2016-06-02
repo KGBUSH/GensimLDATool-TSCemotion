@@ -1,0 +1,1 @@
+{"id":299,"startTime":5980.0,"endTime":6010.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"f55bc7de": {"detail": {"还有": 1}}, "5e1b641a": {"detail": {"一文不值": 1}}, "0b84ad16": {"detail": {"深深": 1, "觉得": 1, "时候": 1, "不会": 1, "北方": 1, "中枪": 1}}, "Dc561de9": {"detail": {"他们": 1, "国人": 1, "意淫": 1, "自己": 1, "政治家": 1}}}}

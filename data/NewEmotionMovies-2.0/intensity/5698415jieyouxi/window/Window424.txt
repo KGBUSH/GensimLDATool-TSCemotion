@@ -1,0 +1,1 @@
+{"id":424,"startTime":8480.0,"endTime":8510.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"76eda045": {"detail": {"听得": 1, "挺爽": 1}}, "d87fbd95": {"detail": {"表示": 1, "现在": 1, "电影院": 1, "最后": 1}}, "d223087e": {"detail": {"完结": 1, "撒花": 1}}}}

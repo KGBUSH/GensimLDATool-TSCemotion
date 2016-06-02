@@ -1,0 +1,1 @@
+{"id":348,"startTime":6960.0,"endTime":6990.0,"userAlive":3,"numOfDanmaku":5,"averageLength":2,"userFeature":{"22dabf3e": {"detail": {"好评": 1, "字幕": 1}}, "6575d733": {"detail": {"and": 1, "we": 1, "spineless": 1, "rules": 1, "wisdom": 1, "can": 1, "laugh": 2, "you": 2, "chock": 1, "your": 1, "hope": 1}}, "7126a93e": {"detail": {"23333": 1}}}}

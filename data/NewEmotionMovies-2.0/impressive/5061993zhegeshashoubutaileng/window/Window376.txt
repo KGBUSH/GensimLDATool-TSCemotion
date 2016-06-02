@@ -1,0 +1,1 @@
+{"id":376,"startTime":7520.0,"endTime":7550.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"ad5d5b45": {"detail": {"小萝莉": 1, "坚持": 1}}, "bada4303": {"detail": {"上线": 1, "演技": 1}}, "076beddc": {"detail": {"给钱": 1, "隔三差五": 1}}}}

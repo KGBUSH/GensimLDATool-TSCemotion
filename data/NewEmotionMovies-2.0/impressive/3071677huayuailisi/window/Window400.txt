@@ -1,0 +1,1 @@
+{"id":400,"startTime":8000.0,"endTime":8030.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"D7eb82ea": {"detail": {"撒花": 1}}, "Dce2ce91": {"detail": {"16": 1}}, "e12c022e": {"detail": {"101": 1}}, "Dd604fe1": {"detail": {"你们好": 1, "小伙伴": 1, "21": 1}}}}

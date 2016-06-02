@@ -1,0 +1,1 @@
+{"id":176,"startTime":3520.0,"endTime":3550.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"e35cb583": {"detail": {"敲门": 1, "幸福": 1}}, "952393b0": {"detail": {"地雷": 1}}, "28895480": {"detail": {"为什么": 1, "哈哈哈哈": 2, "地雷": 1, "航母": 1, "可以": 1, "哈哈哈": 1, "回收": 1}}, "f7f7cc5a": {"detail": {"跳雷": 1, "这是": 1}}, "f85b625d": {"detail": {"哈哈哈哈": 1}}}}

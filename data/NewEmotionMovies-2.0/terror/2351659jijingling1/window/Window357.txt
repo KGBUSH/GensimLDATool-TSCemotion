@@ -1,0 +1,1 @@
+{"id":357,"startTime":7140.0,"endTime":7170.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"0a4e4d92": {"detail": {"因为": 1, "高校": 1, "恐怖": 1, "来看": 1}}, "D1234eed": {"detail": {"三角": 1, "大刀": 1}}, "a171a763": {"detail": {"2016": 1, "215": 1}}, "d17cc5c3": {"detail": {"没有": 1}}, "cfa211e8": {"detail": {"最晚": 1, "2016": 1, "01": 1, "23": 1}}}}

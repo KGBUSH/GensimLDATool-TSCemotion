@@ -1,0 +1,1 @@
+{"id":364,"startTime":7280.0,"endTime":7310.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"D7133e7b": {"detail": {"好吐槽": 1}}, "5e1b641a": {"detail": {"肯尼迪": 1, "先生": 1}}, "9686550d": {"detail": {"23333": 1}}}}

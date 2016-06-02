@@ -1,0 +1,1 @@
+{"id":471,"startTime":9420.0,"endTime":9450.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"a7ad3f91": {"detail": {"美兰": 1, "开始": 1, "读书": 1}}, "882967a2": {"detail": {"梅兰": 1, "坚强": 1}}, "f438b6b9": {"detail": {"脆弱": 1, "互相支持": 1, "思嘉": 2, "玫兰妮": 1, "时候": 1}}, "9686550d": {"detail": {"绿宝石": 1, "眼睛": 1}}, "59d1de23": {"detail": {"好美": 1, "眼睛": 1}}}}

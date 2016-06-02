@@ -1,0 +1,1 @@
+{"id":255,"startTime":5100.0,"endTime":5130.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"195c7281": {"detail": {"贾晓晨": 1, "就是": 1, "这货泡": 1}}, "dc0dec09": {"detail": {"怎么": 1, "一刀": 1}}, "eb7727cc": {"detail": {"断片": 1}}, "9b23b6d9": {"detail": {"虚竹": 1}}, "3898d7cb": {"detail": {"结婚": 1}}}}

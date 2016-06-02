@@ -1,0 +1,1 @@
+{"id":422,"startTime":8440.0,"endTime":8470.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"80cbeb65": {"detail": {"名单": 1, "这个": 1, "几首": 1, "多长": 1, "到底": 1}}, "12ffe7de": {"detail": {"毕竟": 1, "人多": 1}}}}

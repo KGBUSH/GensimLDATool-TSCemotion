@@ -1,0 +1,1 @@
+{"id":248,"startTime":4960.0,"endTime":4990.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D4073455": {"detail": {"2333": 1}}, "7564c5f5": {"detail": {"233333": 1}}, "c0d899e3": {"detail": {"gosh": 1}}, "79e62738": {"detail": {"枪声": 1, "听到": 1}}, "622c387f": {"detail": {}}}}

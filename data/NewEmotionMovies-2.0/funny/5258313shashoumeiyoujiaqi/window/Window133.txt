@@ -1,0 +1,1 @@
+{"id":133,"startTime":2660.0,"endTime":2690.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"a5ee6b9c": {"detail": {"ww": 1, "仙人跳": 1}}, "7d1bdc7c": {"detail": {"仙人跳": 1}}, "c0d899e3": {"detail": {"2333333333": 1}}, "ec9dd758": {"detail": {"什么": 1, "打头": 1}}, "Ddc7779d": {"detail": {"喜欢": 1}}}}

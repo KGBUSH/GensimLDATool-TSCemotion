@@ -1,0 +1,1 @@
+{"id":251,"startTime":5020.0,"endTime":5050.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"4673bfab": {"detail": {"木有": 1}}, "4a5a508a": {"detail": {"彩蛋": 1, "真木有": 1}}, "a9e723e8": {"detail": {"再说": 1}}, "8888ae8a": {"detail": {"教义": 2, "的话": 2, "辅助": 1, "违背": 2, "堕胎": 1, "办法": 1}}}}

@@ -1,0 +1,1 @@
+{"id":275,"startTime":5500.0,"endTime":5530.0,"userAlive":1,"numOfDanmaku":1,"averageLength":8,"userFeature":{"03c13574": {"detail": {"找人": 1, "替身": 1, "就是": 1, "故事": 1, "不停": 1, "咒怨": 1, "死亡": 1, "其实": 1}}}}

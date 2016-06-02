@@ -1,0 +1,1 @@
+{"id":124,"startTime":2480.0,"endTime":2510.0,"userAlive":2,"numOfDanmaku":2,"averageLength":7,"userFeature":{"665270b3": {"detail": {"女主": 1, "这酷": 1, "感觉": 1, "脸配": 1, "硬汉": 1, "性格": 1, "温柔": 1, "带感": 1, "柔弱": 1}}, "c5e77f1f": {"detail": {"那个": 1, "后面": 1, "移动": 1, "迷宫": 1, "gab": 1}}}}

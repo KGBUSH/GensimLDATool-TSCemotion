@@ -1,0 +1,1 @@
+{"id":145,"startTime":2900.0,"endTime":2930.0,"userAlive":3,"numOfDanmaku":4,"averageLength":3,"userFeature":{"74b97685": {"detail": {"不是": 1}}, "042b6a2a": {"detail": {"眼神": 1, "李有": 1, "这么": 1, "带感": 1}}, "e4c84893": {"detail": {"伯顿": 1, "文化衫": 1, "蒂姆": 1, "人猿": 1, "这中": 1, "还是": 1, "冷漠": 1, "星球": 1, "jpg": 1}}}}

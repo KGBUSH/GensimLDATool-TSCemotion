@@ -1,0 +1,1 @@
+{"id":176,"startTime":3520.0,"endTime":3550.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"D60b0892": {"detail": {"报复": 1}}, "e20ded7c": {"detail": {"复仇": 1, "回来": 1}}, "88fd25f4": {"detail": {"鸡冠": 1, "低头": 1}}, "4e0f0d02": {"detail": {"男孩子": 1}}, "4dd50564": {"detail": {}}, "3d40b1cb": {"detail": {"历史": 1, "突然": 1, "老师": 1, "女主像": 1, "我们": 1, "觉得": 1}}}}

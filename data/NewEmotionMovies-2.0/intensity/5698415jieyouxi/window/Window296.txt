@@ -1,0 +1,1 @@
+{"id":296,"startTime":5920.0,"endTime":5950.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"41fe4999": {"detail": {"事实上": 1, "好像": 1, "那样": 1, "不会": 1}}, "c49a2498": {"detail": {"打脸": 1, "坐等": 1, "前面": 1}}, "c5f1c5d6": {"detail": {"三分之一": 1}}, "a2ed8a88": {"detail": {"圈套": 1, "感觉": 1}}}}

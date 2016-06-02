@@ -1,0 +1,1 @@
+{"id":265,"startTime":5300.0,"endTime":5330.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"87f18b35": {"detail": {"世袭制": 1, "社会": 1}}, "Da7ba3ad": {"detail": {"没有": 1, "这么": 1, "冷静": 1, "手机": 1}}}}

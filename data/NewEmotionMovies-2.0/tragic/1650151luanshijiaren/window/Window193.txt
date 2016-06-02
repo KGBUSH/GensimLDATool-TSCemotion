@@ -1,0 +1,1 @@
+{"id":193,"startTime":3860.0,"endTime":3890.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"1efcaba1": {"detail": {"屏幕": 1, "受不了": 1}}, "D6b58758": {"detail": {}}, "6cff22f9": {"detail": {"可怕": 1}}, "Df322a33": {"detail": {"怎么": 1, "屠宰场": 1, "感觉": 1}}, "7e178c6b": {"detail": {"痛死": 1, "感觉": 1}}, "c665e261": {"detail": {"TERRIBLE": 1}}}}

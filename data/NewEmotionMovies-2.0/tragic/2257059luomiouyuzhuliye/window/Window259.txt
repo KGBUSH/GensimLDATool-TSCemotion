@@ -1,0 +1,1 @@
+{"id":259,"startTime":5180.0,"endTime":5210.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"bb4e125c": {"detail": {"为什么": 1, "觉得": 1, "这个": 1, "主不": 1, "好看": 1}}, "D89a1870": {"detail": {}}, "D8e63a1f": {"detail": {"听说": 1, "安心": 1, "什么": 1}}, "b5268e55": {"detail": {}}, "Db9ba979": {"detail": {"这才": 1, "第三天": 1}}}}

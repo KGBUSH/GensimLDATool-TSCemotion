@@ -1,0 +1,1 @@
+{"id":111,"startTime":2220.0,"endTime":2250.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"648fefa7": {"detail": {"急死人": 1}}, "c242b1ec": {"detail": {"哈哈": 1}}, "Db320ef1": {"detail": {"费雯丽": 1, "一生": 1}}}}

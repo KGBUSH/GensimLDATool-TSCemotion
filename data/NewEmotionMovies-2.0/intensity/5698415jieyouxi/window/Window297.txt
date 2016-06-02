@@ -1,0 +1,1 @@
+{"id":297,"startTime":5940.0,"endTime":5970.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"665270b3": {"detail": {"快逃": 1}}, "c49a2498": {"detail": {"打脸": 1, "坐等": 1, "前面": 1}}, "c5f1c5d6": {"detail": {"三分之一": 1}}, "085d02e4": {"detail": {"这么": 1, "大声": 1}}}}

@@ -1,0 +1,1 @@
+{"id":199,"startTime":3980.0,"endTime":4010.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2,"userFeature":{"4c4f9a2b": {"detail": {"确实": 1}}, "576d5ddf": {"detail": {"萝莉": 1, "不错": 1}}, "D2876b9f": {"detail": {"fucking": 1, "不离": 1}}, "1750f452": {"detail": {"男二": 1, "里面": 1, "红龙": 1}}, "00d3ad89": {"detail": {"伏地": 1}}, "b3c3e2f4": {"detail": {"fking": 1, "听懂": 1, "全剧": 1}}}}

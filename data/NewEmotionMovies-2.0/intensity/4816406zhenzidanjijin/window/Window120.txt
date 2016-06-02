@@ -1,0 +1,1 @@
+{"id":120,"startTime":2400.0,"endTime":2430.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"e723dc51": {"detail": {"丹哥": 1, "打戏": 1, "最帅": 1}}, "6ce2f73d": {"detail": {"不错": 1, "铁马": 1, "确实": 1}}, "e10ac15b": {"detail": {"这些": 1, "别说": 1, "子弹": 1, "不错": 1, "武打片": 1, "其实": 1}}, "3e20461d": {"detail": {"房子": 1}}}}

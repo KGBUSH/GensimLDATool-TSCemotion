@@ -1,0 +1,1 @@
+{"id":193,"startTime":3860.0,"endTime":3890.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"37554d47": {"detail": {"任务": 1, "脱手": 1, "第一次": 1}}, "b0b4e23e": {"detail": {"聊个": 1}}, "4865cf38": {"detail": {"liaosme": 1}}, "c3eb8d24": {"detail": {}}, "Da3eb071": {"detail": {}}, "bac7aadb": {"detail": {"东西": 1, "买不起": 1, "吃土": 1}}}}

@@ -1,0 +1,1 @@
+{"id":81,"startTime":1620.0,"endTime":1650.0,"userAlive":5,"numOfDanmaku":6,"averageLength":0,"userFeature":{"8527e787": {"detail": {}}, "815c34dc": {"detail": {"567": 1}}, "707cce57": {"detail": {"抱妹": 1}}, "fb5c99cd": {"detail": {"里面": 1, "战斗力": 1, "惊人": 1}}, "3e20461d": {"detail": {}}}}

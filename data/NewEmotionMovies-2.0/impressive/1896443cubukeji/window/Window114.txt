@@ -1,0 +1,1 @@
+{"id":114,"startTime":2280.0,"endTime":2310.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"0d20c2b5": {"detail": {"看样子": 1, "尊重": 1, "空间": 1, "什么": 1, "私人": 1, "知道": 1}}, "D02ab542": {"detail": {"婴儿": 1, "萌萌": 1}}, "D87d2ce0": {"detail": {"2333": 1, "文艺": 1, "老板": 1}}, "D4b83b0d": {"detail": {}}}}

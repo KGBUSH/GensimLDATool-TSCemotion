@@ -1,0 +1,1 @@
+{"id":695,"startTime":13900.0,"endTime":13930.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"a5f7e20d": {"detail": {"舍不得": 1, "依然": 1, "离开": 1}}, "D69af885": {"detail": {"还有": 1}}, "Df1b44d1": {"detail": {"虐哭": 1}}, "c665e261": {"detail": {"没有": 1, "画面": 1, "应该": 1}}}}

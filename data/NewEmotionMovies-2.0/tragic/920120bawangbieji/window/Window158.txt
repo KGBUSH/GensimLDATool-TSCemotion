@@ -1,0 +1,1 @@
+{"id":158,"startTime":3160.0,"endTime":3190.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2,"userFeature":{"37f922d1": {"detail": {"无论": 1, "这妹": 1, "几周": 1, "目都": 1, "觉得": 1}}, "2752a3e7": {"detail": {"qi": 1}}, "985df05c": {"detail": {"这个": 1, "好看": 1}}, "46e229a0": {"detail": {}}, "94996d36": {"detail": {"qi": 1, "不是": 1, "念栖": 1}}, "eab3a750": {"detail": {"污污污": 1}}}}

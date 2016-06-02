@@ -1,0 +1,1 @@
+{"id":132,"startTime":2640.0,"endTime":2670.0,"userAlive":2,"numOfDanmaku":2,"averageLength":4,"userFeature":{"ae365581": {"detail": {"手上": 1, "注意": 1, "写真": 1, "那本": 1}}, "bb15ec39": {"detail": {"经济": 1, "新闻": 1, "控制": 1, "讽刺": 1, "当今": 1}}}}

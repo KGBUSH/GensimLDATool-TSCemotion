@@ -1,0 +1,1 @@
+{"id":314,"startTime":6280.0,"endTime":6310.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"65ed83c1": {"detail": {"片尾曲": 1, "节奏": 1, "电影": 1, "一样": 1}}, "cf6eb4af": {"detail": {"突然": 1, "燃了": 1, "好多": 1}}}}

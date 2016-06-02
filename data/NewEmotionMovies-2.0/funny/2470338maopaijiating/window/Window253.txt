@@ -1,0 +1,1 @@
+{"id":253,"startTime":5060.0,"endTime":5090.0,"userAlive":5,"numOfDanmaku":7,"averageLength":1,"userFeature":{"564f32ad": {"detail": {"打死": 1, "承包": 1}}, "40cc37b3": {"detail": {"233333333333333333333": 1}}, "D588a085": {"detail": {"医生": 1, "社工": 1}}, "2ef03f6c": {"detail": {"好像": 1, "冯德伦": 1}}, "c89ec4f7": {"detail": {}}}}

@@ -1,0 +1,1 @@
+{"id":287,"startTime":5740.0,"endTime":5770.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"10b69203": {"detail": {"气愤": 1, "只有": 1}}, "dd7abc72": {"detail": {"彩蛋": 1}}}}

@@ -1,0 +1,1 @@
+{"id":123,"startTime":2460.0,"endTime":2490.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"8b235deb": {"detail": {"running": 1, "man": 1}}, "b5a6e231": {"detail": {"说实话": 1, "这个": 1, "电影": 1, "何在": 1, "意义": 1}}, "D880a100": {"detail": {"字母": 1}}, "43478054": {"detail": {"23333333333333333333333": 1}}}}

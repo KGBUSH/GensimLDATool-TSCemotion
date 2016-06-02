@@ -1,0 +1,1 @@
+{"id":476,"startTime":9520.0,"endTime":9550.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D2f42bc4": {"detail": {}}, "b304bab0": {"detail": {"发发发": 1}}, "112d32db": {"detail": {"大家": 1, "2333": 1, "演技": 1}}, "a82aefdc": {"detail": {"活着": 1, "医生": 1}}, "De55e669": {"detail": {"瑞特": 1, "帅得": 1, "头发": 1, "掉下来": 1, "时候": 1}}}}

@@ -1,0 +1,1 @@
+{"id":274,"startTime":5480.0,"endTime":5510.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"a3754d0a": {"detail": {"可惜": 2}}, "D051945d": {"detail": {"为什么": 1, "多人来": 1, "那么": 1, "应聘": 1}}, "Dde58514": {"detail": {"回来": 1}}, "78707d3c": {"detail": {"回去": 1, "办事": 1}}, "D3ce4f5b": {"detail": {"为啥": 1, "一段": 1}}, "Df6dbd94": {"detail": {"感动": 1}}}}

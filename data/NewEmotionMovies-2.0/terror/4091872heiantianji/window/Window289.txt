@@ -1,0 +1,1 @@
+{"id":289,"startTime":5780.0,"endTime":5810.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"fc2f161a": {"detail": {"这里": 1, "特意": 1, "合影留念": 1}}}}

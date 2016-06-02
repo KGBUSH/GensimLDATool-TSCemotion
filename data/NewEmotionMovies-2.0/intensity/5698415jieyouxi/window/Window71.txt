@@ -1,0 +1,1 @@
+{"id":71,"startTime":1420.0,"endTime":1450.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"2a1979d6": {"detail": {"见福": 1}}, "a5c976bb": {"detail": {"黑米": 1}}, "8c035795": {"detail": {"前方": 1, "足控": 1, "福利": 1}}}}

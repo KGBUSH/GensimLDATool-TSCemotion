@@ -1,0 +1,1 @@
+{"id":633,"startTime":12660.0,"endTime":12690.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"0b779143": {"detail": {"Nooooooooo": 1}}, "f1e272be": {"detail": {"妒忌": 1}}, "81e8543a": {"detail": {"破坏": 1, "环境": 1}}, "8576a965": {"detail": {"2333": 1, "互成": 1, "四个": 1, "可以": 1, "cp": 1, "梅兰": 1, "其实": 1}}}}

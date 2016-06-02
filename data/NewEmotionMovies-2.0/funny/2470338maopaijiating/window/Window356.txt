@@ -1,0 +1,1 @@
+{"id":356,"startTime":7120.0,"endTime":7150.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"c844532f": {"detail": {"舅舅家": 1}}, "3fe5f95f": {"detail": {"存活": 1, "确认": 1}}, "0be0d981": {"detail": {"各位": 1, "再见": 1}}, "66559e89": {"detail": {"撒花": 1}}}}

@@ -1,0 +1,1 @@
+{"id":239,"startTime":4780.0,"endTime":4810.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"554425de": {"detail": {}}, "59f6f43d": {"detail": {"辅助": 1}}, "02cdf6cd": {"detail": {"flag": 1, "有人": 1, "起来": 1, "弓箭": 1}}, "f88005ee": {"detail": {"这些": 1}}, "273a891d": {"detail": {"水里": 1, "不了": 1, "重力": 1, "老大": 1, "根本": 1}}}}

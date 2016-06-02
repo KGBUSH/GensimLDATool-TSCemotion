@@ -1,0 +1,1 @@
+{"id":363,"startTime":7260.0,"endTime":7290.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"898308c2": {"detail": {"yuu": 1}}}}

@@ -1,0 +1,1 @@
+{"id":323,"startTime":6460.0,"endTime":6490.0,"userAlive":2,"numOfDanmaku":2,"averageLength":5,"userFeature":{"3ea3e980": {"detail": {"第二个": 1, "本片": 1, "联系": 1, "故事": 2, "第一个": 1}}, "7d46a073": {"detail": {"201412162214": 1, "不会": 1, "绝对": 1, "第二次": 1, "片子": 1}}}}

@@ -1,0 +1,1 @@
+{"id":135,"startTime":2700.0,"endTime":2730.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"00f3c6a0": {"detail": {"达人秀": 1, "美国": 1}}, "c4577461": {"detail": {"说射": 1, "真射": 1, "他们": 1, "前面": 1, "一箭": 1}}, "eaebd54f": {"detail": {"紧张": 1}}, "D0108ec2": {"detail": {}}, "81597553": {"detail": {"转身": 1, "导师": 1}}}}

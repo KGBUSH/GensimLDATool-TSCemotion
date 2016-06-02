@@ -1,0 +1,1 @@
+{"id":333,"startTime":6660.0,"endTime":6690.0,"userAlive":1,"numOfDanmaku":2,"averageLength":1,"userFeature":{"9e3ae596": {"detail": {"坚持": 1, "听到": 1, "这里": 1}}}}

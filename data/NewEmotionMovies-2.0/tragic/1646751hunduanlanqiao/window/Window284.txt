@@ -1,0 +1,1 @@
+{"id":284,"startTime":5680.0,"endTime":5710.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"303f7441": {"detail": {"开虐": 1}}, "287cbbe2": {"detail": {"结局": 1, "告诉": 1, "一定": 1, "接受": 1, "真的": 1, "传统": 1, "英式": 1, "家族": 1}}, "a273d4d5": {"detail": {}}}}

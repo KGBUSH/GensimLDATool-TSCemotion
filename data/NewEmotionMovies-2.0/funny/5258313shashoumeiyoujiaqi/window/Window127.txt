@@ -1,0 +1,1 @@
+{"id":127,"startTime":2540.0,"endTime":2570.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2,"userFeature":{"95a3f0b7": {"detail": {}}, "19171625": {"detail": {"确定": 1, "悲剧": 1, "不是": 1}}, "Dc005662": {"detail": {"转折": 1}}, "9861aae2": {"detail": {"杀手": 1, "正常": 1, "行业": 1, "比较": 1, "规矩": 1}}, "2f00b0ba": {"detail": {"老板": 1, "真欠": 1}}, "c0d899e3": {"detail": {"no": 1}}}}

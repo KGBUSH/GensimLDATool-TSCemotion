@@ -1,0 +1,1 @@
+{"id":333,"startTime":6660.0,"endTime":6690.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"e011997c": {"detail": {"什么": 1, "干活": 1}}, "a5f7e20d": {"detail": {"女人": 1, "23333333333333": 1}}, "b92a511f": {"detail": {}}, "a7ad3f91": {"detail": {"丑人": 1, "作怪": 1}}, "fb9846cf": {"detail": {"关心": 1, "这个": 1, "丫饭": 1, "吃不饱": 1}}}}

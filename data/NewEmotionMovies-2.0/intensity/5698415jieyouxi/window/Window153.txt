@@ -1,0 +1,1 @@
+{"id":153,"startTime":3060.0,"endTime":3090.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"4708b36a": {"detail": {"好油": 1, "头发": 1}}, "f481246e": {"detail": {"聪明": 1, "男主": 1, "还是": 1}}, "4fa234f3": {"detail": {"一个": 1, "那么": 1, "OTL": 1, "只有": 1}}}}

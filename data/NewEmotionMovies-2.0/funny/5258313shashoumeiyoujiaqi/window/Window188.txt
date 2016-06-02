@@ -1,0 +1,1 @@
+{"id":188,"startTime":3760.0,"endTime":3790.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3,"userFeature":{"D72b0ffc": {"detail": {"潜伏": 1}}, "576d5ddf": {"detail": {"可以": 1, "演员": 1}}, "b10dcab9": {"detail": {"的话": 1, "加入": 1, "路过": 1, "可以": 1, "行人": 1, "幽默": 1, "要是": 1}}, "e90a0231": {"detail": {"杀猪": 1, "屠夫": 1, "可以": 1, "换成": 1}}, "Df2e84df": {"detail": {"没人": 1}}}}

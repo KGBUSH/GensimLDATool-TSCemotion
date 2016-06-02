@@ -1,0 +1,1 @@
+{"id":361,"startTime":7220.0,"endTime":7250.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"958975b1": {"detail": {"印象": 1, "这段": 1, "最深": 1}}, "3ad93b44": {"detail": {"舞鞋": 1}}, "12ae93fc": {"detail": {"胖次": 1}}, "01ccb887": {"detail": {"衣服": 1}}, "203b2f97": {"detail": {"QAQ": 1}}}}

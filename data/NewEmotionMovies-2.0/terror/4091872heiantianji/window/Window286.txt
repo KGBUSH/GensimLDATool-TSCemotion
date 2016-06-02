@@ -1,0 +1,1 @@
+{"id":286,"startTime":5720.0,"endTime":5750.0,"userAlive":2,"numOfDanmaku":2,"averageLength":5,"userFeature":{"6c45d432": {"detail": {"科技": 1, "一股": 1, "恐怖": 1, "感觉": 1, "感并": 1, "不会": 1, "外星人": 1, "透着": 1}}, "6129f161": {"detail": {"不好": 1, "整个": 1}}}}

@@ -1,0 +1,1 @@
+{"id":216,"startTime":4320.0,"endTime":4350.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"fb53004a": {"detail": {"什么": 1, "穿山甲": 1, "到底": 1}}, "De5c5c1c": {"detail": {}}, "6905bda1": {"detail": {"什么": 1, "穿山甲": 1}}}}

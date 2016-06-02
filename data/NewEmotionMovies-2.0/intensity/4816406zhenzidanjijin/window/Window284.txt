@@ -1,0 +1,1 @@
+{"id":284,"startTime":5680.0,"endTime":5710.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"d4debdda": {"detail": {}}, "c6e5490d": {"detail": {"这一棍": 1, "以后": 1, "第二部": 1}}}}

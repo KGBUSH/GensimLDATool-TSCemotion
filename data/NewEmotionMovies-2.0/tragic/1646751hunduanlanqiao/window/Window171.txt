@@ -1,0 +1,1 @@
+{"id":171,"startTime":3420.0,"endTime":3450.0,"userAlive":7,"numOfDanmaku":8,"averageLength":1,"userFeature":{"91491350": {"detail": {"婚纱": 1}}, "c7643b8b": {"detail": {}}, "D46836ea": {"detail": {}}, "c242b1ec": {"detail": {"没钱": 1, "捉急": 1, "日子": 1}}, "f3cd7349": {"detail": {"还要": 1, "木钱": 1}}, "648fefa7": {"detail": {"纠结": 1}}, "Dde17327": {"detail": {"借钱": 1}}}}

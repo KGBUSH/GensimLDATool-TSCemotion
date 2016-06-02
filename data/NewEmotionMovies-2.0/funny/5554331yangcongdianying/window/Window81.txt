@@ -1,0 +1,1 @@
+{"id":81,"startTime":1620.0,"endTime":1650.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"cb5bca06": {"detail": {"性瘾": 1, "恐怖": 1, "美国": 1, "故事": 1}}, "a08a52cc": {"detail": {"喜欢": 1, "参加": 1, "游戏": 1}}, "D880a100": {"detail": {}}, "b4f9a0eb": {"detail": {"不是": 1}}}}

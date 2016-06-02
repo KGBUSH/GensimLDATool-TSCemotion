@@ -1,0 +1,1 @@
+{"id":121,"startTime":2420.0,"endTime":2450.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"f3f448e1": {"detail": {"外码": 1, "南京": 1}}, "4a27edb3": {"detail": {}}, "Dd0d5e9d": {"detail": {"好美": 1}}}}

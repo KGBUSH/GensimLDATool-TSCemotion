@@ -1,0 +1,1 @@
+{"id":311,"startTime":6220.0,"endTime":6250.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"8df954de": {"detail": {"之一": 1}}, "53b8f9e4": {"detail": {"嘿嘿嘿": 1}}, "3e20461d": {"detail": {"好多": 1, "开头": 1, "螳螂": 1, "形意": 1, "这段": 1, "拦势": 1}}}}

@@ -1,0 +1,1 @@
+{"id":167,"startTime":3340.0,"endTime":3370.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"85303ff4": {"detail": {"asshole": 1, "stupid": 2, "打字": 1, "双手": 1, "全是": 1}}, "Dc86e1f6": {"detail": {}}, "88da9864": {"detail": {"讽刺": 1}}, "cf0299a1": {"detail": {"孩子": 1, "虽然": 1, "这是": 1, "政府": 1, "中国": 1, "没人管": 1, "自己": 1, "我们": 1}}}}

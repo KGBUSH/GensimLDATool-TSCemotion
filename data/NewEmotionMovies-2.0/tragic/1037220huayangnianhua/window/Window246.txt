@@ -1,0 +1,1 @@
+{"id":246,"startTime":4920.0,"endTime":4950.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"Da70c75e": {"detail": {"漂亮": 1, "这件": 1}}, "Df74ef18": {"detail": {"日本": 1, "老婆": 1, "离婚": 1, "应该": 1, "周先生": 1, "就是": 1, "寄信": 1}}, "D7e53aa5": {"detail": {"41": 1}}, "2e146c0a": {"detail": {}}, "Dfb38533": {"detail": {}}, "ac993b51": {"detail": {"卡住": 1}}}}

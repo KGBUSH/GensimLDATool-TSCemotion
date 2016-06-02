@@ -1,0 +1,1 @@
+{"id":295,"startTime":5900.0,"endTime":5930.0,"userAlive":7,"numOfDanmaku":8,"averageLength":1,"userFeature":{"841a05e5": {"detail": {"基本": 1, "好剧": 1}}, "52f02767": {"detail": {"NOAA": 1}}, "980ffab0": {"detail": {"升华": 1, "悲而悲": 1, "疼感": 1}}, "D498cdd6": {"detail": {"卧槽": 1}}, "4bd4a4c7": {"detail": {"当然": 1}}, "dbdc9d7e": {"detail": {}}, "D0caf698": {"detail": {"擦擦": 2}}}}

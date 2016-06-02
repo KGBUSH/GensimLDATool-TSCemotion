@@ -1,0 +1,1 @@
+{"id":116,"startTime":2320.0,"endTime":2350.0,"userAlive":6,"numOfDanmaku":8,"averageLength":1,"userFeature":{"8a21b10d": {"detail": {}}, "19f277a1": {"detail": {"长得": 1, "花花": 1, "好像": 1, "这个": 1}}, "78875e9a": {"detail": {"小哥": 1, "乳头": 1}}, "baa29284": {"detail": {"降头": 1}}, "D73beb89": {"detail": {"念经": 1, "这人": 1, "笔记本": 1}}, "998c3a18": {"detail": {"一定": 1, "奥巴马": 1}}}}

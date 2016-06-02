@@ -1,0 +1,1 @@
+{"id":173,"startTime":3460.0,"endTime":3490.0,"userAlive":1,"numOfDanmaku":1,"averageLength":6,"userFeature":{"8540047e": {"detail": {"真是": 1, "魔鬼": 1, "的话": 1, "地雷": 1, "讲道理": 1, "发明": 1}}}}

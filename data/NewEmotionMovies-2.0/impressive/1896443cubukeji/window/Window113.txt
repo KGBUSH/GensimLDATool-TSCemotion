@@ -1,0 +1,1 @@
+{"id":113,"startTime":2260.0,"endTime":2290.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"fe1f6fdc": {"detail": {"妹子": 1, "好评": 1}}, "D87d2ce0": {"detail": {"2333": 1, "文艺": 1, "老板": 1}}}}

@@ -1,0 +1,1 @@
+{"id":189,"startTime":3780.0,"endTime":3810.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"ff6ac8ea": {"detail": {"拉去": 1}}, "De4f864a": {"detail": {"这个": 1, "看起来": 1, "垃圾": 1, "但罗": 1}}, "700cc1bd": {"detail": {"以前": 1, "想起": 1, "看到": 1, "看过": 1, "这里": 1}}}}

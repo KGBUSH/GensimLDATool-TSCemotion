@@ -1,0 +1,1 @@
+{"id":451,"startTime":9020.0,"endTime":9050.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"1efcaba1": {"detail": {"被劫": 1, "劫色": 1}}, "d905548d": {"detail": {"阴暗面": 1, "弱化": 1, "没有": 1, "几乎": 1, "已经": 1, "电影": 1}}, "4fef3031": {"detail": {"3k": 1, "上线": 1, "前方": 1, "即将": 1}}, "84af0129": {"detail": {"彪悍": 1}}}}

@@ -1,0 +1,1 @@
+{"id":179,"startTime":3580.0,"endTime":3610.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"aa2f0e85": {"detail": {"here": 1, "my": 1, "comes": 1, "man23333333333": 1}}, "c349a724": {"detail": {"清奇": 1, "回路": 1}}, "e6d2fd9d": {"detail": {"弹幕": 1}}, "246313ae": {"detail": {"可以": 1, "心头肉": 1, "一起": 1, "罗密欧": 1}}}}

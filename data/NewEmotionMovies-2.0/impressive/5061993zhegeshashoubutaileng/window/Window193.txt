@@ -1,0 +1,1 @@
+{"id":193,"startTime":3860.0,"endTime":3890.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"a3be517b": {"detail": {"弟弟": 2, "正太": 1, "qwq": 1}}, "8422e87c": {"detail": {"提伯斯": 1}}, "97d30c06": {"detail": {"同款": 1, "兔子": 1}}}}

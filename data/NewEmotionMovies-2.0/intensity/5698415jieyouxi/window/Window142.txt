@@ -1,0 +1,1 @@
+{"id":142,"startTime":2840.0,"endTime":2870.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"5bd75401": {"detail": {"23333": 1, "经纪人": 1, "导师": 1, "化妆师": 1}}, "a8a47c88": {"detail": {"23333333": 1}}, "d87fbd95": {"detail": {"导师": 1}}, "5aa5bbf7": {"detail": {"可以": 1, "出道": 1}}}}

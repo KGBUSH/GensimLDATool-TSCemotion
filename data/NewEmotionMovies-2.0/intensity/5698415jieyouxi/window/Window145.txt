@@ -1,0 +1,1 @@
+{"id":145,"startTime":2900.0,"endTime":2930.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"30f869f2": {"detail": {"那个": 1, "妹子": 1}}, "97666798": {"detail": {"果然": 1, "孤儿": 1, "厉害": 1}}, "5c4f4843": {"detail": {"好听": 1, "音译": 1, "还是": 1, "感觉": 1}}}}

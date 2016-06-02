@@ -1,0 +1,1 @@
+{"id":93,"startTime":1860.0,"endTime":1890.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"5c1545cf": {"detail": {"何在": 1, "意义": 1, "一段": 1}}, "0620af0d": {"detail": {"此处": 1, "凸起": 1, "胸前": 1}}, "4080e691": {"detail": {"83": 1, "你们好": 1, "小伙伴": 1}}, "f85b625d": {"detail": {"哈哈哈哈": 1}}, "a08a52cc": {"detail": {"真的": 1}}}}

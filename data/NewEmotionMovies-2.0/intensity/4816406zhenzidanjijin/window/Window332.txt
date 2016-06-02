@@ -1,0 +1,1 @@
+{"id":332,"startTime":6640.0,"endTime":6670.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"001c35a4": {"detail": {"林正英": 1, "师徒": 1}}, "6a26a52f": {"detail": {}}, "f773702b": {"detail": {"元彪": 1, "不是": 1}}, "6db0a938": {"detail": {"杀人": 1, "功夫": 1}}, "d223ad1d": {"detail": {"圆彪": 1, "2333333": 1}}, "2034997e": {"detail": {"不错": 1, "一段": 1}}}}

@@ -1,0 +1,1 @@
+{"id":60,"startTime":1200.0,"endTime":1230.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"3f55fea2": {"detail": {"文化": 1}}, "dc86c54e": {"detail": {"电话亭": 1, "狙击": 1, "男主": 1}}, "Dc965c13": {"detail": {"23333": 1}}, "1431ad82": {"detail": {"笑点": 2, "时候": 1, "什么": 2, "剧情": 1, "开始": 1}}}}

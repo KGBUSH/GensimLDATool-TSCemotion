@@ -1,0 +1,1 @@
+{"id":358,"startTime":7160.0,"endTime":7190.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"07dd99ee": {"detail": {"最后": 1, "坚持": 1}}, "305a1b12": {"detail": {"原来": 1, "音乐": 1, "惊世": 1, "这里": 1}}}}

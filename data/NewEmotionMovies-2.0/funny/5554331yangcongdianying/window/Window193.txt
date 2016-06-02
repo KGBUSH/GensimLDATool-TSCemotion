@@ -1,0 +1,1 @@
+{"id":193,"startTime":3860.0,"endTime":3890.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"Dc2ac818": {"detail": {}}, "D74c71cb": {"detail": {"美女": 1}}, "3c755afb": {"detail": {"彩虹": 1, "这个": 1, "哈哈哈哈": 2, "衣服": 1}}, "204a27b5": {"detail": {"蜘蛛侠": 1, "终极": 1, "这是": 1, "配音": 1}}, "655c9249": {"detail": {"为什么": 1, "感觉": 1, "声音": 1}}}}

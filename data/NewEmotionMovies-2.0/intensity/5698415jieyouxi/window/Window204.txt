@@ -1,0 +1,1 @@
+{"id":204,"startTime":4080.0,"endTime":4110.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"c9fd2da7": {"detail": {"天呐": 1, "居然": 1, "一起": 1, "跟着": 1}}, "D8c0c792": {"detail": {"可怜": 1}}, "bc7e6033": {"detail": {"等等": 1, "林中": 1, "小屋": 1}}, "e8760207": {"detail": {"紧张": 1}}}}

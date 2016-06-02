@@ -1,0 +1,1 @@
+{"id":135,"startTime":2700.0,"endTime":2730.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"c4003e03": {"detail": {"生意": 1, "新闻": 1, "不是": 1, "中立": 1}}, "fa8477ab": {"detail": {"点心": 1, "感觉": 1, "主播": 1}}}}

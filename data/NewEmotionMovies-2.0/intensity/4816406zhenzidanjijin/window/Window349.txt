@@ -1,0 +1,1 @@
+{"id":349,"startTime":6980.0,"endTime":7010.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"12e808df": {"detail": {"司机": 1}}, "d4debdda": {"detail": {}}, "0b135c36": {"detail": {"交警": 1, "香港": 1}}, "75ef7cab": {"detail": {"司机": 1, "车技": 1, "一路": 1}}, "cdf8d43a": {"detail": {"交警": 1, "周星星": 1}}}}

@@ -1,0 +1,1 @@
+{"id":251,"startTime":5020.0,"endTime":5050.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"cede4c2c": {"detail": {"再次出现": 1, "作死": 1, "能手": 1}}, "77cf87ab": {"detail": {"女主": 1, "死亡": 1, "想起": 1, "录像": 1}}, "b600efce": {"detail": {"可惜": 1}}, "8137a0a9": {"detail": {"女主": 1, "喜欢": 1}}, "9861aae2": {"detail": {"好萌": 1, "兔牙": 1}}}}

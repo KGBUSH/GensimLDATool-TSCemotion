@@ -1,0 +1,1 @@
+{"id":270,"startTime":5400.0,"endTime":5430.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"9657caa6": {"detail": {"ed": 1, "用心": 1, "特么": 1}}, "Da241ba1": {"detail": {"帆船": 1, "阳光": 1, "美女": 1, "海滩": 1}}, "053efad9": {"detail": {"还有": 1}}, "47d93920": {"detail": {"帆船": 1}}, "c4342b14": {"detail": {"逃离": 1, "拉斯维加斯": 1}}}}

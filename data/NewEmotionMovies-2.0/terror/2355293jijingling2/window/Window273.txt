@@ -1,0 +1,1 @@
+{"id":273,"startTime":5460.0,"endTime":5490.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"696e1bfd": {"detail": {"完结": 1, "背部": 1, "撒花": 1}}, "342d1645": {"detail": {"存活": 1, "确认": 1}}}}

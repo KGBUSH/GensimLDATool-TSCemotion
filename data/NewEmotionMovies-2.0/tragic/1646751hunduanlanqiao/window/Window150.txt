@@ -1,0 +1,1 @@
+{"id":150,"startTime":3000.0,"endTime":3030.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"e19c8b12": {"detail": {"What": 1, "shit": 1}}, "c242b1ec": {"detail": {"夫人": 1, "原谅": 1, "不会": 1}}, "4209cd00": {"detail": {"夫人": 1, "不要": 1, "然后": 1}}, "f8e09757": {"detail": {"女主": 1, "好好": 1, "真的": 1, "身材": 1}}}}

@@ -1,0 +1,1 @@
+{"id":237,"startTime":4740.0,"endTime":4770.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"7775dc2c": {"detail": {"一拳": 1}}, "ca2ec5e7": {"detail": {"一个": 1, "还有": 1, "地雷": 1}}}}

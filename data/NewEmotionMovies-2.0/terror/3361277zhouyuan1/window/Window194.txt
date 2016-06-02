@@ -1,0 +1,1 @@
+{"id":194,"startTime":3880.0,"endTime":3910.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"69d75436": {"detail": {"他爸": 1}}, "d2aced3d": {"detail": {}}, "818d4245": {"detail": {"窗子": 1}}, "D191dae0": {"detail": {}}, "82cb07e4": {"detail": {"遮起来": 1, "镜子": 1, "专业": 1}}, "2f560bb6": {"detail": {"入伙": 1}}}}

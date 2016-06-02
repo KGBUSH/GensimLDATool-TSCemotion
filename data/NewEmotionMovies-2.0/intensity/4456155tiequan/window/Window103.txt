@@ -1,0 +1,1 @@
+{"id":103,"startTime":2060.0,"endTime":2090.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"Dfb589c0": {"detail": {"真好": 1, "有枪": 1}}, "8a0e6b09": {"detail": {"泪目": 1}}, "Df64d005": {"detail": {"他妈的": 1, "男主": 1, "基友": 1}}}}

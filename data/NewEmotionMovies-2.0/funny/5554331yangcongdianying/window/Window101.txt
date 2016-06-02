@@ -1,0 +1,1 @@
+{"id":101,"startTime":2020.0,"endTime":2050.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"77153f4b": {"detail": {"看片": 1, "指日可待": 1}}, "acb6fcd6": {"detail": {"布蘭妮": 1}}, "Db3f6d90": {"detail": {"白色": 1}}, "59d467e0": {"detail": {}}, "cf0299a1": {"detail": {"看到": 1, "小伙伴": 1, "242": 1}}}}

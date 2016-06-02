@@ -1,0 +1,1 @@
+{"id":112,"startTime":2240.0,"endTime":2270.0,"userAlive":2,"numOfDanmaku":2,"averageLength":6,"userFeature":{"b30cffe1": {"detail": {"女主": 1, "脸上": 1, "开头": 1, "别人": 1, "不是": 1, "互相": 1, "喷好": 1, "吸烟区": 1}}, "9048d776": {"detail": {"别人": 1, "吸烟区": 1, "吸烟": 1, "没事找事": 1}}}}

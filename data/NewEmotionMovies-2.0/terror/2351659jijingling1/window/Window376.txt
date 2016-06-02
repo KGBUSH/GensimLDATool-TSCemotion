@@ -1,0 +1,1 @@
+{"id":376,"startTime":7520.0,"endTime":7550.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"feb192fb": {"detail": {"证明": 1, "存活": 1, "201589": 1, "前面": 1, "开心": 1}}, "66ae283a": {"detail": {"2016211": 1, "130": 1}}}}

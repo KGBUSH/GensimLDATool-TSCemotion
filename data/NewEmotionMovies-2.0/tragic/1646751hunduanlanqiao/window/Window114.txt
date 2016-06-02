@@ -1,0 +1,1 @@
+{"id":114,"startTime":2280.0,"endTime":2310.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"Dbf0cd30": {"detail": {"愿意": 1, "团向": 1, "FFF": 1, "不是": 1, "咋办": 1, "施压": 1, "上校": 1}}, "892851ef": {"detail": {"喜感": 1, "字母": 1}}, "a6d5b49a": {"detail": {"五郎": 1}}}}

@@ -1,0 +1,1 @@
+{"id":360,"startTime":7200.0,"endTime":7230.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"12ae93fc": {"detail": {"胖次": 1}}, "eb56e063": {"detail": {"有点": 1, "羞耻": 1}}, "01ccb887": {"detail": {"衣服": 1}}, "93565ea2": {"detail": {"下雨天": 1, "欢脱": 1, "这么": 1, "这里": 1, "拘束": 1}}, "f1fde6a8": {"detail": {"真是": 1, "羞涩": 1}}}}

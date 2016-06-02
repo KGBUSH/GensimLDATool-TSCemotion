@@ -1,0 +1,1 @@
+{"id":278,"startTime":5560.0,"endTime":5590.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"fe933daa": {"detail": {"萌币": 1}}, "a404b47d": {"detail": {"这么": 1, "失色": 1, "对戏": 1, "好棒": 1, "一定": 1, "竟然": 1, "年龄": 1, "真的": 1, "德曼": 1}}, "5e5cd407": {"detail": {"怎么": 1, "水原": 1, "提到": 1}}}}

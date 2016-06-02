@@ -1,0 +1,1 @@
+{"id":307,"startTime":6140.0,"endTime":6170.0,"userAlive":3,"numOfDanmaku":5,"averageLength":2,"userFeature":{"731b9bbd": {"detail": {"女主": 1, "最后": 1}}, "648fefa7": {"detail": {"自杀": 1, "进度条": 2}}, "c0fff870": {"detail": {"女主": 1, "多好": 1, "地方": 1, "工作": 1, "地点": 1, "相遇": 1}}}}

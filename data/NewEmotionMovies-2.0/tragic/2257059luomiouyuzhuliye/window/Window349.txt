@@ -1,0 +1,1 @@
+{"id":349,"startTime":6980.0,"endTime":7010.0,"userAlive":2,"numOfDanmaku":4,"averageLength":4,"userFeature":{"22dabf3e": {"detail": {"好评": 1, "字幕": 1}}, "6575d733": {"detail": {"and": 2, "we": 2, "everlasting": 1, "rules": 1, "peace": 1, "one": 1, "wisdom": 1, "chock": 1, "are": 1, "in": 1, "you": 1, "now": 1, "your": 1, "hope": 1}}}}

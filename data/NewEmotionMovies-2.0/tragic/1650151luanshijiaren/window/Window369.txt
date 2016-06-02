@@ -1,0 +1,1 @@
+{"id":369,"startTime":7380.0,"endTime":7410.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"D8d2d573": {"detail": {"很棒": 2, "黑奴": 1, "波克": 1}}, "30fe76f4": {"detail": {"为何": 1, "想起": 1, "小红": 1}}, "6588d8f0": {"detail": {"白头": 1, "书中": 1, "波克": 1}}, "84af0129": {"detail": {}}}}

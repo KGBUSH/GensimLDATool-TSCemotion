@@ -1,0 +1,1 @@
+{"id":63,"startTime":1260.0,"endTime":1290.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"9048d776": {"detail": {"好像": 1, "哈哈哈": 1, "确实": 1, "小孩子": 1}}, "D098657b": {"detail": {}}, "c7f77e0c": {"detail": {"等国": 1, "起泡": 1, "欧美": 1, "致癌物": 1, "很少": 1, "一般": 1}}, "2d90472f": {"detail": {"孙子": 1, "多动症": 1}}, "f81a3ff2": {"detail": {"233333": 1}}}}

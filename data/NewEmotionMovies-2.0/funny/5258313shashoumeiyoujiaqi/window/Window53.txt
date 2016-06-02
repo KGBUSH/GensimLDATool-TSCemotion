@@ -1,0 +1,1 @@
+{"id":53,"startTime":1060.0,"endTime":1090.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"7afaa1a2": {"detail": {"我忍": 1}}, "d2002356": {"detail": {"没沫": 1, "牙膏": 1}}, "836aa3ba": {"detail": {"23333": 1, "想起": 1, "室友": 1}}, "e34cd34e": {"detail": {"不会": 1, "av": 1}}, "2c78592f": {"detail": {"杀手": 1, "隐形眼镜": 1}}}}

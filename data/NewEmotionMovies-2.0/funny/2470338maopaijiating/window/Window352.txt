@@ -1,0 +1,1 @@
+{"id":352,"startTime":7040.0,"endTime":7070.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"3e160841": {"detail": {"20151206": 1, "大爱": 1}}, "65d92bab": {"detail": {"这部": 1, "爱死": 1, "电影": 1}}, "97a129a5": {"detail": {"2016130": 1, "完结": 1, "撒花": 1}}}}

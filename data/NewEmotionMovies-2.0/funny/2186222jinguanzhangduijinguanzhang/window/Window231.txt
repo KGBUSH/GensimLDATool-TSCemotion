@@ -1,0 +1,1 @@
+{"id":231,"startTime":4620.0,"endTime":4650.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"7ef88231": {"detail": {"超级": 1, "装扮": 1, "想起": 1, "马里奥": 1, "三个": 1}}, "c9d06107": {"detail": {"为啥": 1, "马里奥": 1}}, "4468ecab": {"detail": {"馆长": 1, "跆拳道": 1, "击败": 1, "很久以前": 1}}}}

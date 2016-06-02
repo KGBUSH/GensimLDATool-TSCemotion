@@ -1,0 +1,1 @@
+{"id":230,"startTime":4600.0,"endTime":4630.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"3b8d77f4": {"detail": {"即视感": 1, "红领巾": 1}}, "40462906": {"detail": {"服装": 1, "好像": 1, "大跃进": 1, "海报": 1}}}}

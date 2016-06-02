@@ -1,0 +1,1 @@
+{"id":151,"startTime":3020.0,"endTime":3050.0,"userAlive":4,"numOfDanmaku":5,"averageLength":3,"userFeature":{"2c693ae4": {"detail": {"墨西哥": 1}}, "e7d3e675": {"detail": {"居然": 1, "还有": 1, "其他": 1, "小伙伴": 1}}, "48edc935": {"detail": {"这个": 2, "表达": 2, "片子": 2, "不行": 2, "智商": 2, "赤裸裸": 2, "跟不上": 2}}, "ded766eb": {"detail": {"没有": 1, "难熬": 1, "李好": 1}}}}

@@ -1,0 +1,1 @@
+{"id":301,"startTime":6020.0,"endTime":6050.0,"userAlive":7,"numOfDanmaku":7,"averageLength":1,"userFeature":{"Dfb68a98": {"detail": {"卧槽": 1}}, "D586540f": {"detail": {"可以": 1, "病死": 1}}, "81e8543a": {"detail": {"心酸": 1}}, "39176c5f": {"detail": {"爸爸": 1}}, "9fdedd13": {"detail": {"痴呆": 1}}, "D98ae7cc": {"detail": {"卧槽": 1, "好虐": 1}}, "12993ef4": {"detail": {"眼泪": 1, "下来": 1}}}}

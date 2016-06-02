@@ -1,0 +1,1 @@
+{"id":104,"startTime":2080.0,"endTime":2110.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"D7208e71": {"detail": {"啪啪": 1}}, "774b65a9": {"detail": {"女主": 1, "嘴巴": 1, "好看": 1}}, "3d0b8f58": {"detail": {"可爱": 1}}, "f92c2d74": {"detail": {"真真假假": 1}}, "12886b4b": {"detail": {"同意": 1}}, "ec9dd758": {"detail": {"抱怨": 1, "女孩": 1, "这人": 1, "哈哈哈哈": 1}}}}

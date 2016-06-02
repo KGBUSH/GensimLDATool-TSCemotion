@@ -1,0 +1,1 @@
+{"id":141,"startTime":2820.0,"endTime":2850.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"c957db06": {"detail": {"女主": 1, "主角": 1, "说话": 1, "头上": 1, "光环": 1, "好好": 1, "看看": 1}}, "5bd75401": {"detail": {"23333": 1, "经纪人": 1, "导师": 1, "化妆师": 1}}, "97666798": {"detail": {"大鹏": 1, "展翅": 1}}, "d87fbd95": {"detail": {}}}}

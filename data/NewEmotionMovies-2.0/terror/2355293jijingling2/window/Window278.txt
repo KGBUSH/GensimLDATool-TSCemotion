@@ -1,0 +1,1 @@
+{"id":278,"startTime":5560.0,"endTime":5590.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"6c9cb0be": {"detail": {"哥们": 1, "彩蛋": 1, "别跑": 1}}, "9b95c89a": {"detail": {"201613": 1, "留个": 1, "痕迹": 1}}, "56cd87f1": {"detail": {"201613": 1}}, "d048bbbd": {"detail": {"彩蛋": 1}}}}

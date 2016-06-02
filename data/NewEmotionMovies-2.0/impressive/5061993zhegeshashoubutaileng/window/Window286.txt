@@ -1,0 +1,1 @@
+{"id":286,"startTime":5720.0,"endTime":5750.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"D42f5087": {"detail": {"差点": 1}}, "Dffa5317": {"detail": {"萝莉作": 1}}, "78fa6b78": {"detail": {"看不下去": 1, "想到": 1, "觉得": 1, "结局": 1}}, "5af40b98": {"detail": {"算了": 1, "这样": 1}}}}

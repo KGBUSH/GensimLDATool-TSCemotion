@@ -1,0 +1,1 @@
+{"id":182,"startTime":3640.0,"endTime":3670.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"305392bb": {"detail": {"姑娘": 1}}, "2fcd317c": {"detail": {"妈妈": 1, "看到": 1, "消息": 1}}, "c242b1ec": {"detail": {"妈妈": 1, "知道": 1}}}}

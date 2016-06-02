@@ -1,0 +1,1 @@
+{"id":603,"startTime":12060.0,"endTime":12090.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D02860a3": {"detail": {"嘴炮": 1, "厉害": 1}}, "770204e9": {"detail": {"刚才": 1, "明明": 1, "高兴": 1}}, "Dbb930ec": {"detail": {"粗硬": 1, "征服": 1}}, "6cff22f9": {"detail": {"尼玛": 1}}, "c65e0d99": {"detail": {"好好": 1, "不要": 1, "一起": 1}}}}

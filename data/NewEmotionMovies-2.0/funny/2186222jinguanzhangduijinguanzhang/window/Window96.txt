@@ -1,0 +1,1 @@
+{"id":96,"startTime":1920.0,"endTime":1950.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"fa49a222": {"detail": {"猥亵": 1, "不要": 1}}, "95b9b73f": {"detail": {"不可": 1, "亵玩": 1}}, "79f187f4": {"detail": {}}, "12e43351": {"detail": {"亵玩": 1}}}}

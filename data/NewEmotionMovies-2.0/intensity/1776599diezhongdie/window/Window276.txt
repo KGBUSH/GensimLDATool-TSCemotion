@@ -1,0 +1,1 @@
+{"id":276,"startTime":5520.0,"endTime":5550.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"d22c8300": {"detail": {"手机": 1, "诺基亚": 1}}, "e7a4e0f0": {"detail": {"2333333333333": 1}}, "b7f4cdba": {"detail": {"居然": 1, "太不科學": 1, "包廂": 1}}, "D56db189": {"detail": {"危险": 1, "黑人": 1}}, "52268350": {"detail": {"nokia": 1}}, "963e0542": {"detail": {"ohshit": 1}}}}

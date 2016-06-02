@@ -1,0 +1,1 @@
+{"id":122,"startTime":2440.0,"endTime":2470.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"2d90472f": {"detail": {"似的": 1, "小孩": 1}}, "eec15b9c": {"detail": {"编剧": 1, "字数": 1}}}}

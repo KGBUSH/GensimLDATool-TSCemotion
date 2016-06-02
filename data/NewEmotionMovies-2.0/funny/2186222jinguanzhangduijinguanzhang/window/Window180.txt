@@ -1,0 +1,1 @@
+{"id":180,"startTime":3600.0,"endTime":3630.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"eaf69480": {"detail": {"脸上": 1, "包贴": 1, "姚明": 1, "表情": 1}}, "12e43351": {"detail": {"大叔": 1}}, "4468ecab": {"detail": {"仇杀": 1}}, "41a4455b": {"detail": {"贞德": 1}}, "eea38a6f": {"detail": {"看片": 1, "hiahiahia": 1, "指日可待": 1}}, "Da169434": {"detail": {"sakura": 1}}}}

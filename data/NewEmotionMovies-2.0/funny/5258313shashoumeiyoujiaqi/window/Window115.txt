@@ -1,0 +1,1 @@
+{"id":115,"startTime":2300.0,"endTime":2330.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"8a35ac42": {"detail": {}}, "622c387f": {"detail": {"他杀": 1, "是不是": 1, "ray": 1}}, "bf6368bf": {"detail": {"哈哈哈": 1, "演技": 1}}, "233dcbcc": {"detail": {"相爱": 1}}, "58231a95": {"detail": {"为了": 1, "什么": 1, "这是": 1}}, "9048d776": {"detail": {"会演": 1, "23333333333333": 1}}}}

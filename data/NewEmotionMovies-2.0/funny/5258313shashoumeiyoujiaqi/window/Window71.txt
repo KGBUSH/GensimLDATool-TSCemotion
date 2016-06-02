@@ -1,0 +1,1 @@
+{"id":71,"startTime":1420.0,"endTime":1450.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"2eb3909b": {"detail": {"斯内普": 1}}, "e2a46ee8": {"detail": {"绝对": 1, "不是": 1, "恶魔": 1}}, "915995d6": {"detail": {"那个": 1, "矮人": 1, "这个": 1, "昂兰": 1, "尼斯": 1, "提利": 1}}}}

@@ -1,0 +1,1 @@
+{"id":175,"startTime":3500.0,"endTime":3530.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"D6a5c0d9": {"detail": {"黑帮": 1, "火拼": 1}}, "De4e4496": {"detail": {"神经": 1}}, "afbef1c7": {"detail": {"悲剧": 1, "要来": 1}}}}

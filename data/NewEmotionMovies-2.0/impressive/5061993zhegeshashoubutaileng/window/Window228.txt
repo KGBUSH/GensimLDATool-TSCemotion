@@ -1,0 +1,1 @@
+{"id":228,"startTime":4560.0,"endTime":4590.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"480590e6": {"detail": {"喜感": 1, "莫名": 1}}, "6b74b060": {"detail": {"造型": 1, "现在": 1, "流行": 1}}, "206bfe07": {"detail": {"太污": 1}}, "7e250695": {"detail": {"不是": 1, "纹身": 1, "所以": 1}}, "b84be51e": {"detail": {"美美": 1}}, "Dfb01d9d": {"detail": {"巫婆": 1}}}}

@@ -1,0 +1,1 @@
+{"id":264,"startTime":5280.0,"endTime":5310.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"f84870a5": {"detail": {"很棒": 1, "没人": 1, "你们": 1, "片子": 1}}, "D18b6982": {"detail": {"浪费时间": 1, "1016": 1, "小伙伴": 1, "一起": 1}}, "12d9b67b": {"detail": {"道理": 1}}, "bd267a91": {"detail": {"杀手": 1, "生活": 1, "一二三": 1}}, "D070bf97": {"detail": {"没看": 1, "只是": 1}}}}

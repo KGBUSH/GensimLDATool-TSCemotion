@@ -1,0 +1,1 @@
+{"id":263,"startTime":5260.0,"endTime":5290.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"7bb81d1a": {"detail": {"彩蛋": 1, "坐等": 1, "福利": 1}}, "30a4d8d8": {"detail": {"最后": 1, "合影留念": 1}}, "d17b9f27": {"detail": {}}, "2a38b018": {"detail": {"2015115": 1, "存活": 1}}}}

@@ -1,0 +1,1 @@
+{"id":115,"startTime":2300.0,"endTime":2330.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"Daa0ff1a": {"detail": {"怎么": 1, "弹幕": 1}}, "D6d04e2c": {"detail": {"2333": 1}}}}

@@ -1,0 +1,1 @@
+{"id":151,"startTime":3020.0,"endTime":3050.0,"userAlive":3,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D40bf39b": {"detail": {"bullshit": 1, "leaving": 1}}, "95f9811d": {"detail": {"我要": 1, "简直": 1, "胡扯": 1}}, "e05262de": {"detail": {"哈哈哈": 3}}}}

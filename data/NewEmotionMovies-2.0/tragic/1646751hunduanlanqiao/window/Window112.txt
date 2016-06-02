@@ -1,0 +1,1 @@
+{"id":112,"startTime":2240.0,"endTime":2270.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"c016d0e2": {"detail": {"组织": 1, "谈谈": 1}}, "648fefa7": {"detail": {"组织": 1}}}}

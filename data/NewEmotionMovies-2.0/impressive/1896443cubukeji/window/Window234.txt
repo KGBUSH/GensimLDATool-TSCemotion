@@ -1,0 +1,1 @@
+{"id":234,"startTime":4680.0,"endTime":4710.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"192ec7a8": {"detail": {"小哥": 1, "情商": 1}}, "0dd563da": {"detail": {"透气": 1}}, "fe487f19": {"detail": {"起来": 1}}, "a066cdb3": {"detail": {"失败": 1, "想要": 1, "大叔": 1, "逃避": 1, "害怕": 1}}}}

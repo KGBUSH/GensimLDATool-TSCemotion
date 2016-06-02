@@ -1,0 +1,1 @@
+{"id":259,"startTime":5180.0,"endTime":5210.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"88eb2ff7": {"detail": {"弟弟": 1, "不好": 1, "但是": 1}}, "D707934d": {"detail": {"没关": 1, "弹幕": 1}}, "D2bbbd22": {"detail": {"共用": 1, "耳钉": 1, "两人": 1, "同个": 1}}, "D051945d": {"detail": {"怎么": 1, "那个": 1, "那么": 1, "孩子": 1}}}}

@@ -1,0 +1,1 @@
+{"id":558,"startTime":11160.0,"endTime":11190.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"70a608cd": {"detail": {"哪像": 1}}, "12993ef4": {"detail": {"狂魔": 1, "爱女": 1}}, "7ee555a8": {"detail": {"狂魔": 1, "爱女": 1}}, "33aa990a": {"detail": {"狂魔": 1, "变脸": 1}}, "a1d48d72": {"detail": {"哈哈哈": 2, "233333333333333333": 1}}, "Dfb0cba1": {"detail": {"漂亮": 1}}}}

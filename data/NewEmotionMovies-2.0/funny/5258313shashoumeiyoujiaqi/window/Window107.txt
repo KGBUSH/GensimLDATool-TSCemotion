@@ -1,0 +1,1 @@
+{"id":107,"startTime":2140.0,"endTime":2170.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"0bfc5325": {"detail": {"2333333333333333333333": 1}}, "c3aab67c": {"detail": {"女人": 1}}, "e3c583d1": {"detail": {"闪避": 1, "值满": 1}}, "c0d899e3": {"detail": {"good": 1}}}}

@@ -1,0 +1,1 @@
+{"id":166,"startTime":3320.0,"endTime":3350.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"042b6a2a": {"detail": {"嘿嘿嘿": 1, "打字": 1, "单手": 1}}, "85303ff4": {"detail": {"stupid": 1, "打字": 1, "双手": 1, "全是": 1}}, "891a39c0": {"detail": {"画风": 1, "一样": 1}}, "291cbc35": {"detail": {"早就": 1, "不是": 1, "第三世界": 1, "沒有": 1, "國了": 1}}}}

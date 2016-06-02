@@ -1,0 +1,1 @@
+{"id":185,"startTime":3700.0,"endTime":3730.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"d94df8f1": {"detail": {"鞋子": 1, "2333": 1}}, "af6cfedf": {"detail": {"没有": 1, "手机": 1, "耐克": 1}}, "D8577816": {"detail": {"妹子": 1}}, "12490c06": {"detail": {"2333": 1}}, "665e8592": {"detail": {"23": 1}}, "a720a584": {"detail": {}}}}

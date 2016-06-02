@@ -1,0 +1,1 @@
+{"id":358,"startTime":7160.0,"endTime":7190.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D531078f": {"detail": {"良心": 1, "制作组": 1}}, "a171a763": {"detail": {"2016": 1, "215": 1}}, "ece9b642": {"detail": {"好奇": 1, "第二部": 1, "什么": 1}}, "739ffad2": {"detail": {"复仇": 1, "终于": 1}}, "88063e5b": {"detail": {"201613": 1}}}}

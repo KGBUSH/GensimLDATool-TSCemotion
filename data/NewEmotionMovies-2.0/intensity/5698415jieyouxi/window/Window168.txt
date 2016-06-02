@@ -1,0 +1,1 @@
+{"id":168,"startTime":3360.0,"endTime":3390.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"e21aaa38": {"detail": {"加火莲裙": 1, "lina": 1, "至宝": 1}}, "5eae226d": {"detail": {"提前": 1, "腿毛": 1, "怪不得": 1, "弄光": 1}}, "6c40c8de": {"detail": {"保护": 1, "为了": 1, "冰女": 1}}, "35044222": {"detail": {"你们": 1, "感动": 1}}}}

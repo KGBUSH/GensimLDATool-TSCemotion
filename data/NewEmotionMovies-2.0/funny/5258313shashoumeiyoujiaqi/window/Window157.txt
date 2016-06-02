@@ -1,0 +1,1 @@
+{"id":157,"startTime":3140.0,"endTime":3170.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"899aa24b": {"detail": {"上天": 1}}, "1ecbf4c7": {"detail": {"越战": 1}}, "a9e3e195": {"detail": {"提到": 1, "越南": 2, "对话": 1, "美国": 2}}, "1d1929f1": {"detail": {"为啥": 1, "纠结": 1, "男主": 1, "巴基斯坦": 1, "233": 1}}, "e3c583d1": {"detail": {"越南人": 1, "什么": 1, "老是": 1}}}}

@@ -1,0 +1,1 @@
+{"id":85,"startTime":1700.0,"endTime":1730.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"72aaaf53": {"detail": {}}, "5659493b": {"detail": {"189": 1, "小伙伴": 1, "没人": 1, "支声": 1}}, "66a13ebb": {"detail": {"开始": 1, "什么": 1, "电影": 1, "明白": 1, "才刚": 1}}, "1431ad82": {"detail": {"时候": 1, "什么": 1, "搞笑": 1}}, "749392b1": {"detail": {}}}}

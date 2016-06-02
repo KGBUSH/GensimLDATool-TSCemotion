@@ -1,0 +1,1 @@
+{"id":298,"startTime":5960.0,"endTime":5990.0,"userAlive":1,"numOfDanmaku":2,"averageLength":2,"userFeature":{"D19f1d93": {"detail": {"我要": 1, "彩蛋": 1, "说好": 1, "最后": 1}}}}

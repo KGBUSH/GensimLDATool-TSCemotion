@@ -1,0 +1,1 @@
+{"id":229,"startTime":4580.0,"endTime":4610.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"b84be51e": {"detail": {"动手": 1}}, "Dfb01d9d": {"detail": {"巫婆": 1}}, "6b74b060": {"detail": {"造型": 1, "现在": 1, "流行": 1}}}}

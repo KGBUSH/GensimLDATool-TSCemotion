@@ -1,0 +1,1 @@
+{"id":139,"startTime":2780.0,"endTime":2810.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"b2dc5e2b": {"detail": {"2333333": 1}}, "638b5fe4": {"detail": {"这片": 1, "满赞": 1}}, "D6d04e2c": {"detail": {"23333333333": 1}}, "e52a20dd": {"detail": {"巧克力": 1, "hhhhhhhhhh": 1}}, "42b75161": {"detail": {"然后": 1}}, "d9bc3e9d": {"detail": {"2333333333": 1}}}}

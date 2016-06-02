@@ -1,0 +1,1 @@
+{"id":289,"startTime":5780.0,"endTime":5810.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"65200182": {"detail": {}}, "c636fe75": {"detail": {"打死": 1, "出来": 1, "彩蛋": 1, "保证": 1}}}}

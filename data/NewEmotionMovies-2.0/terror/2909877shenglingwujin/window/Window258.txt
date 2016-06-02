@@ -1,0 +1,1 @@
+{"id":258,"startTime":5160.0,"endTime":5190.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"a9e723e8": {"detail": {"做人": 1, "有始有终": 1}}}}

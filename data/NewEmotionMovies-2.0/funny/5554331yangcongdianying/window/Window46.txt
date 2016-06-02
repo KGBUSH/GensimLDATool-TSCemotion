@@ -1,0 +1,1 @@
+{"id":46,"startTime":920.0,"endTime":950.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"4bd4b462": {"detail": {"鼠标": 1, "IE30": 1}}, "Db880d75": {"detail": {"没人": 1}}, "af4f1763": {"detail": {"小号": 1, "ZWB": 1}}}}

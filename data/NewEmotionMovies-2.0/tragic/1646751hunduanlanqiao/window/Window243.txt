@@ -1,0 +1,1 @@
+{"id":243,"startTime":4860.0,"endTime":4890.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"4746e182": {"detail": {"爷爷": 1, "消费": 1}}, "06246ef4": {"detail": {"狗狗": 2, "辛苦": 1, "心疼": 1}}, "77d88922": {"detail": {}}, "648fefa7": {"detail": {"虐狗": 1}}, "D7aa8d3c": {"detail": {"老爷爷": 1, "那些": 1, "弹幕": 1, "你们": 1}}}}

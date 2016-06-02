@@ -1,0 +1,1 @@
+{"id":277,"startTime":5540.0,"endTime":5570.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"f24cc92f": {"detail": {"第二部": 1}}, "Daf38acd": {"detail": {"特效": 1, "Duang": 1, "五毛钱": 1}}, "b89ada53": {"detail": {"存活": 1}}, "01237015": {"detail": {"补完": 1, "2015828": 1, "暑假": 1}}}}

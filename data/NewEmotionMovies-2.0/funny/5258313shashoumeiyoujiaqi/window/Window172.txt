@@ -1,0 +1,1 @@
+{"id":172,"startTime":3440.0,"endTime":3470.0,"userAlive":4,"numOfDanmaku":4,"averageLength":4,"userFeature":{"1f9b8ab2": {"detail": {"十岁": 1, "时候": 1, "卧槽": 1, "脸盲": 1}}, "1c2cbabc": {"detail": {"有点像": 1, "女警": 1}}, "be8f8b98": {"detail": {"一直": 1, "赎罪": 1, "年轻": 1, "小孩": 1, "杀手": 1, "想要": 1, "误杀": 1}}, "03fa0119": {"detail": {"杀手": 1, "这个": 1, "不太": 1}}}}

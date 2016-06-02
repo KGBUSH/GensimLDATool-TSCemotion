@@ -1,0 +1,1 @@
+{"id":58,"startTime":1160.0,"endTime":1190.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"88127dbf": {"detail": {"love": 1, "娜塔莉": 1, "much": 1, "so": 1}}, "D801148d": {"detail": {"可怜": 1}}, "e73206a7": {"detail": {"超级": 1, "萝莉": 1, "演技": 1}}, "af316545": {"detail": {"心疼": 1}}}}

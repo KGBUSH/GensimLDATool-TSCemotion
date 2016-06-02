@@ -1,0 +1,1 @@
+{"id":696,"startTime":13920.0,"endTime":13950.0,"userAlive":5,"numOfDanmaku":5,"averageLength":0,"userFeature":{"a9c0694f": {"detail": {"主旋律": 1}}, "D69af885": {"detail": {"还有": 1}}, "078d4aff": {"detail": {}}, "c665e261": {"detail": {"有人": 1}}, "7442869a": {"detail": {"2014109": 1}}}}

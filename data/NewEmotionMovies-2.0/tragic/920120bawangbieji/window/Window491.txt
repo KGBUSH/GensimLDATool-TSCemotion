@@ -1,0 +1,1 @@
+{"id":491,"startTime":9820.0,"endTime":9850.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"8f426f49": {"detail": {"20160115": 1}}, "d0a1b3ff": {"detail": {"当真": 1, "风华绝代": 1}}, "ac4675ea": {"detail": {"伤疤": 1, "天朝": 1, "黑暗": 1}}, "5b577e10": {"detail": {"加衣": 1, "生命": 1, "记得": 1, "谢谢": 1, "若冷": 1, "天堂": 1, "出现": 1}}}}

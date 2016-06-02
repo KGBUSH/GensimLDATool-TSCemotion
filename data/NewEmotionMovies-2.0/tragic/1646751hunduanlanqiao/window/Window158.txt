@@ -1,0 +1,1 @@
+{"id":158,"startTime":3160.0,"endTime":3190.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"D52f5204": {"detail": {"应该": 1, "帽子": 1}}, "afa3aecf": {"detail": {"为何": 1, "一战": 1, "不到": 1, "那会儿": 1, "工作": 1}}, "Dde17327": {"detail": {}}, "f3cd7349": {"detail": {"时候": 1, "工作": 1}}}}

@@ -1,0 +1,1 @@
+{"id":293,"startTime":5860.0,"endTime":5890.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"Db1df7e5": {"detail": {"音乐": 1, "超棒": 1}}}}

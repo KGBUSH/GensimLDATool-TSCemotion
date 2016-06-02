@@ -1,0 +1,1 @@
+{"id":291,"startTime":5820.0,"endTime":5850.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"888f570b": {"detail": {"因为": 1, "不是": 1, "韩剧": 1}}, "648fefa7": {"detail": {"太好了": 1}}}}

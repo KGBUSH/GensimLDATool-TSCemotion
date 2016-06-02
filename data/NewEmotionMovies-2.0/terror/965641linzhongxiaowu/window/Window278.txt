@@ -1,0 +1,1 @@
+{"id":278,"startTime":5560.0,"endTime":5590.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"f24cc92f": {"detail": {"菜单": 1, "有没有": 1}}}}

@@ -1,0 +1,1 @@
+{"id":139,"startTime":2780.0,"endTime":2810.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"Dbf0cd30": {"detail": {"女主": 1, "我能": 1, "咋办": 1}}, "731b9bbd": {"detail": {"23333": 1}}, "D3db1720": {"detail": {"梅兰": 1, "这是": 1}}, "cd385d02": {"detail": {"没有": 1, "结婚": 2, "他们": 2}}, "a8111cb9": {"detail": {"那个": 1, "夫人": 1, "阻拦": 1, "不会": 1}}}}

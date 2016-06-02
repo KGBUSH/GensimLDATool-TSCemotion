@@ -1,0 +1,1 @@
+{"id":346,"startTime":6920.0,"endTime":6950.0,"userAlive":2,"numOfDanmaku":3,"averageLength":2,"userFeature":{"966957b1": {"detail": {"治愈": 1, "感觉": 1}}, "6575d733": {"detail": {"to": 1, "warm": 1, "song": 2, "sing": 1, "us": 2, "keep": 1}}}}

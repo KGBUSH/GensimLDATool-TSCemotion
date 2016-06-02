@@ -1,0 +1,1 @@
+{"id":244,"startTime":4880.0,"endTime":4910.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"db300594": {"detail": {"这张": 1, "大叔": 1, "好攻": 1}}, "D75d2604": {"detail": {"为什么": 1, "一个": 1, "人妖": 2, "受腿": 1, "其中": 1, "坐在": 1}}, "D7e172fe": {"detail": {}}, "D61384e4": {"detail": {"关智斌": 1, "最帅": 1}}}}

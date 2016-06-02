@@ -1,0 +1,1 @@
+{"id":301,"startTime":6020.0,"endTime":6050.0,"userAlive":4,"numOfDanmaku":5,"averageLength":0,"userFeature":{"b5268e55": {"detail": {}}, "De55e669": {"detail": {"李子": 1, "心疼": 1}}, "Ddbdf8f4": {"detail": {"心疼": 1}}, "420e8798": {"detail": {}}}}

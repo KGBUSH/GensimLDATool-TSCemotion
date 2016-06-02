@@ -1,0 +1,1 @@
+{"id":263,"startTime":5260.0,"endTime":5290.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"9f64f866": {"detail": {"最帅": 1}}, "1c5ed838": {"detail": {"造型": 1, "可爱": 1}}, "7cb18897": {"detail": {"威胁": 1, "义务": 1, "这个": 1, "好心": 1, "只是": 1, "不是": 1, "神父": 1}}, "D1e1f5c0": {"detail": {"憋死": 1, "要死": 1, "一起": 1}}, "ffc0a6a6": {"detail": {"草泥马": 1}}}}

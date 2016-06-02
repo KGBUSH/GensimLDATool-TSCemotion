@@ -1,0 +1,1 @@
+{"id":661,"startTime":13220.0,"endTime":13250.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"789327ec": {"detail": {}}, "7aa89052": {"detail": {"人家": 1, "不是": 1, "多次": 1}}, "De031944": {"detail": {"思嘉": 1, "耽误": 1, "爱情": 1}}, "a1d48d72": {"detail": {}}, "eefd2dce": {"detail": {"斯嘉莉": 1, "自恋": 1, "还用说": 1, "看不出来": 1, "男人": 1, "觉得": 1}}}}

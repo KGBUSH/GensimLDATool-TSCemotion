@@ -1,0 +1,1 @@
+{"id":339,"startTime":6780.0,"endTime":6810.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"Dfd3986f": {"detail": {"白色": 1}}, "b84be51e": {"detail": {"不离手": 1, "盆景": 1}}, "ac1492e7": {"detail": {"白色": 1}}, "6cba466d": {"detail": {"防爆": 1}}, "3920ad14": {"detail": {"一个": 1, "要么": 2, "伤心": 1, "只会": 1}}, "Da2ceaa8": {"detail": {"万年青": 1}}}}

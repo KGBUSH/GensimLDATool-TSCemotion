@@ -1,0 +1,1 @@
+{"id":277,"startTime":5540.0,"endTime":5570.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"Dad835c4": {"detail": {"没人": 1}}, "82691a07": {"detail": {"射线": 1, "眼中": 1, "石化": 1, "宇宙": 1, "使用": 1}}, "2d2445a0": {"detail": {"射线": 1, "石化": 1}}}}

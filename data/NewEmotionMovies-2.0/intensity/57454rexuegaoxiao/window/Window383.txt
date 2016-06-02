@@ -1,0 +1,1 @@
+{"id":383,"startTime":7660.0,"endTime":7690.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"Ddd48809": {"detail": {"坚持": 1}}, "D380a8fd": {"detail": {"最美": 1, "栗子": 1}}, "Dc6d369f": {"detail": {"野村": 1}}, "dea1e157": {"detail": {"20": 1}}, "9debde5e": {"detail": {"栗子": 1}}}}

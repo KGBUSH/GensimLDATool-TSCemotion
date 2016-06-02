@@ -1,0 +1,1 @@
+{"id":253,"startTime":5060.0,"endTime":5090.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"4a5a508a": {"detail": {"一发": 1}}, "a9e723e8": {"detail": {"2015117": 1}}, "4673bfab": {"detail": {"镜头": 1, "美国": 1, "粗现": 1, "电影": 1, "什么": 1, "最后": 1, "貌似": 1}}}}

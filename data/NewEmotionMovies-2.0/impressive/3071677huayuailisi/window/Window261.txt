@@ -1,0 +1,1 @@
+{"id":261,"startTime":5220.0,"endTime":5250.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"bbcd410e": {"detail": {"开始": 1, "爱丽丝": 1, "工作": 1}}, "58350e00": {"detail": {"萌扯": 1, "2333": 1, "男主好": 1, "衣角": 1}}, "0de4c1fb": {"detail": {"摄影师": 1, "这里": 1, "就是": 1, "筱田升": 1}}}}

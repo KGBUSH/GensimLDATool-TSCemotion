@@ -1,0 +1,1 @@
+{"id":374,"startTime":7480.0,"endTime":7510.0,"userAlive":4,"numOfDanmaku":4,"averageLength":4,"userFeature":{"18c8a379": {"detail": {"27": 1, "2p": 1, "我们": 1, "小伙伴": 1}}, "1255c48e": {"detail": {"cctv": 1, "mtv": 1, "感谢": 1}}, "61084a61": {"detail": {"更是": 1, "剧情": 1, "很赞": 1, "二代": 1, "游戏": 1, "配乐": 1}}, "5bec3dd3": {"detail": {"编曲": 1, "很赞": 1, "2016220": 1}}}}

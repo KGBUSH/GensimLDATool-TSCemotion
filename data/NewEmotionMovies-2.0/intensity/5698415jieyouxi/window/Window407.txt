@@ -1,0 +1,1 @@
+{"id":407,"startTime":8140.0,"endTime":8170.0,"userAlive":2,"numOfDanmaku":2,"averageLength":5,"userFeature":{"d87fbd95": {"detail": {"122": 1, "一次": 1, "再次": 1, "2016310": 1, "应该": 1, "弹幕": 1, "观看": 1}}, "97a7eaa5": {"detail": {"老霉": 1, "为了": 1, "safesound": 1}}}}

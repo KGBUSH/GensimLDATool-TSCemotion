@@ -1,0 +1,1 @@
+{"id":162,"startTime":3240.0,"endTime":3270.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"062c5d30": {"detail": {"真是": 1, "姑妈": 1, "发型": 1}}, "9e1df0c8": {"detail": {"天朝": 1, "我们": 1, "肉食鸡": 1}}, "c665e261": {"detail": {"火鸡": 1, "还有": 1, "蝴蝶结": 1}}}}

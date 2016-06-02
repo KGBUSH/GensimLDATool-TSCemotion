@@ -1,0 +1,1 @@
+{"id":352,"startTime":7040.0,"endTime":7070.0,"userAlive":1,"numOfDanmaku":1,"averageLength":6,"userFeature":{"6575d733": {"detail": {"而且": 1, "版本": 1, "一个": 1, "不是": 1, "专辑": 1, "电影片": 1}}}}

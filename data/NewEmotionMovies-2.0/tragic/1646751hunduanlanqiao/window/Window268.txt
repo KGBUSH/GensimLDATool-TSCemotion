@@ -1,0 +1,1 @@
+{"id":268,"startTime":5360.0,"endTime":5390.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"afa3aecf": {"detail": {"家里": 1, "开放": 1}}, "648fefa7": {"detail": {"思潮": 1, "家庭": 1}}, "Db7924c5": {"detail": {"刺激": 1}}}}

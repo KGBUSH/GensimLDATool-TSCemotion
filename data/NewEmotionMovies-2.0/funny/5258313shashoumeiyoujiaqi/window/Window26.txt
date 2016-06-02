@@ -1,0 +1,1 @@
+{"id":26,"startTime":520.0,"endTime":550.0,"userAlive":2,"numOfDanmaku":2,"averageLength":6,"userFeature":{"8f8d156c": {"detail": {"比利时": 1, "还有": 1, "巧克力": 1, "乐队": 1}}, "9fb17218": {"detail": {"胖子": 1, "看看": 1, "主要": 1, "街头": 1, "一群": 1, "粗鲁": 1, "除了": 1, "美国": 1}}}}

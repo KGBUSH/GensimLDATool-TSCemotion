@@ -1,0 +1,1 @@
+{"id":113,"startTime":2260.0,"endTime":2290.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"Dbf0cd30": {"detail": {"愿意": 1, "团向": 1, "FFF": 1, "不是": 1, "咋办": 1, "施压": 1, "上校": 1}}, "c016d0e2": {"detail": {"组织": 1, "谈谈": 1}}, "c242b1ec": {"detail": {"组织": 1, "考察": 1, "一下": 1, "233": 1}}, "648fefa7": {"detail": {"组织": 1}}}}

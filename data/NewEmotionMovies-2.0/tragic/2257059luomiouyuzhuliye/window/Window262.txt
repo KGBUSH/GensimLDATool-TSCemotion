@@ -1,0 +1,1 @@
+{"id":262,"startTime":5240.0,"endTime":5270.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"519ba2aa": {"detail": {"路德": 1, "好帅": 1, "卧槽": 1, "保罗": 1, "啊啊啊": 1}}, "c7643b8b": {"detail": {"挺帅": 1}}, "D19f21cb": {"detail": {"不过": 1, "悲剧": 1, "男主": 1}}, "b4b60951": {"detail": {"时真帅": 1, "没什么": 1, "虽然": 1, "年轻": 1, "现在": 1, "变化": 1}}}}

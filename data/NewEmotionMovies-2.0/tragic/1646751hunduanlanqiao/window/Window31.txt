@@ -1,0 +1,1 @@
+{"id":31,"startTime":620.0,"endTime":650.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"85bd2a22": {"detail": {"弹幕": 1, "组成": 1}}, "1679e38e": {"detail": {"喜欢": 1, "女神": 1}}, "648fefa7": {"detail": {"20157234": 1, "小伙伴": 1}}, "b4bc2c8e": {"detail": {"Sara": 2}}, "Df469e5a": {"detail": {"七夕": 1, "晚上": 1, "单身": 1, "自己": 1}}, "89b90b5a": {"detail": {"男主去": 1}}}}

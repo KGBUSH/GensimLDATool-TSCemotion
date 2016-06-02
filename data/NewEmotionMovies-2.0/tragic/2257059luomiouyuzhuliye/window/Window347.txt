@@ -1,0 +1,1 @@
+{"id":347,"startTime":6940.0,"endTime":6970.0,"userAlive":2,"numOfDanmaku":5,"averageLength":3,"userFeature":{"6575d733": {"detail": {"打错": 1, "song": 1, "is": 1, "there": 1, "us": 1, "keep": 1, "那句": 1, "to": 1, "尴尬": 1, "warm": 1, "can": 1, "laugh": 1, "卧槽": 1, "such": 1, "you": 1, "suck": 1, "chill": 2}}, "7126a93e": {"detail": {"23333": 1}}}}

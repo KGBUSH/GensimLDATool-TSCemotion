@@ -1,0 +1,1 @@
+{"id":357,"startTime":7140.0,"endTime":7170.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"dee29d1e": {"detail": {}}, "316aef57": {"detail": {}}, "7ef2bfb9": {"detail": {"这些": 1, "感觉": 1, "警察": 1, "他们": 1, "干嘛": 1, "并不知道": 1}}, "220107cd": {"detail": {"杀人": 1}}, "3920ad14": {"detail": {"要死": 1}}, "9a6a8d15": {"detail": {}}}}

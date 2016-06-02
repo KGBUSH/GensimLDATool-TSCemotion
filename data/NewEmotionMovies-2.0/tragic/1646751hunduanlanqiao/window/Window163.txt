@@ -1,0 +1,1 @@
+{"id":163,"startTime":3260.0,"endTime":3290.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"669f1f9c": {"detail": {"真是": 1, "自尊心": 1, "愚蠢": 1}}, "648fefa7": {"detail": {"自尊心": 1, "该死": 1}}}}

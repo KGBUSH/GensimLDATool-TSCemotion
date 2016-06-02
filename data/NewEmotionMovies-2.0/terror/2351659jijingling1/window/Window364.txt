@@ -1,0 +1,1 @@
+{"id":364,"startTime":7280.0,"endTime":7310.0,"userAlive":3,"numOfDanmaku":4,"averageLength":1,"userFeature":{"6c9cb0be": {"detail": {}}, "144b676a": {"detail": {"有人": 1}}, "898308c2": {"detail": {"slient": 1, "yuu": 1, "hill": 1}}}}

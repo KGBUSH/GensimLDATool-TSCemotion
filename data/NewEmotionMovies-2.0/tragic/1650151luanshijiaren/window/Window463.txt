@@ -1,0 +1,1 @@
+{"id":463,"startTime":9260.0,"endTime":9290.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"882967a2": {"detail": {"我爱你": 1, "瑞德": 1}}, "D8392aea": {"detail": {}}, "84af0129": {"detail": {"美兰": 1, "美哭": 1}}, "c1d2de2e": {"detail": {"这么": 1, "蛮帅": 1}}, "e6f72e20": {"detail": {"好帅": 1, "啊啊啊": 1}}, "dc7b25bb": {"detail": {"弹幕": 1}}}}

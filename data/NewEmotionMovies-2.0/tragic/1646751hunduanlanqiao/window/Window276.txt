@@ -1,0 +1,1 @@
+{"id":276,"startTime":5520.0,"endTime":5550.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"25c34b29": {"detail": {"一定": 1, "就要": 1, "出血": 1}}, "648fefa7": {"detail": {"粗来": 1, "大姨妈": 1, "处女": 1, "一个个": 1}}, "1f552990": {"detail": {"10": 1, "出血": 1}}, "ee397f8d": {"detail": {"常识": 1, "有没有": 1, "出血": 1}}}}

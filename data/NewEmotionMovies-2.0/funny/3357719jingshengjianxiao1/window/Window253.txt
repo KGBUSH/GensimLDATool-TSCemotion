@@ -1,0 +1,1 @@
+{"id":253,"startTime":5060.0,"endTime":5090.0,"userAlive":7,"numOfDanmaku":7,"averageLength":1,"userFeature":{"ea88be0e": {"detail": {"彩蛋": 1}}, "9af37b90": {"detail": {"彩蛋": 1, "真有": 1}}, "757500c4": {"detail": {"真长": 1, "ed": 1}}, "Ddb8053a": {"detail": {"快进": 1, "决定": 1}}, "2c6ce241": {"detail": {}}, "b527b9f1": {"detail": {"彩蛋": 1}}, "7ad24adf": {"detail": {"彩蛋": 1}}}}

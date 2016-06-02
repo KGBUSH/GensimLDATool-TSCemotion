@@ -1,0 +1,1 @@
+{"id":153,"startTime":3060.0,"endTime":3090.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"dfca172d": {"detail": {"2333333333": 1}}, "8a35ac42": {"detail": {"小矮人": 1, "什么": 1, "是不是": 1}}}}

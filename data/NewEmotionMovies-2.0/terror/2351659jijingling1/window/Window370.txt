@@ -1,0 +1,1 @@
+{"id":370,"startTime":7400.0,"endTime":7430.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"a2b1ed41": {"detail": {"好听": 1, "音乐": 1, "所有": 1, "别说": 1}}, "ce84b61c": {"detail": {}}, "c9d45295": {"detail": {"哑巴": 1}}, "a96d647f": {"detail": {"不然": 1, "总算": 1, "看不懂": 1, "一些": 2, "弹幕": 1, "配合": 1}}, "898308c2": {"detail": {"silent": 1, "hill": 1}}}}

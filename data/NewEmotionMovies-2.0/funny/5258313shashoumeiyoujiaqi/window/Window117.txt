@@ -1,0 +1,1 @@
+{"id":117,"startTime":2340.0,"endTime":2370.0,"userAlive":1,"numOfDanmaku":1,"averageLength":6,"userFeature":{"dbb726a2": {"detail": {"主角": 1, "告诉": 1, "站住": 1, "前面": 1, "同行": 1, "遇到": 1}}}}

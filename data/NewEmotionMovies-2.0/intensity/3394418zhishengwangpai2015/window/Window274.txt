@@ -1,0 +1,1 @@
+{"id":274,"startTime":5480.0,"endTime":5510.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D4ec4fe4": {"detail": {"后面": 1}}, "804cf79e": {"detail": {"彩蛋": 1, "有没有": 1}}, "61642ea2": {"detail": {"一名": 1, "这位": 1, "童鞋": 1, "坚挺": 1, "样子": 1}}, "852181a8": {"detail": {"哈哈哈哈": 1}}, "93db2161": {"detail": {"还有": 1}}}}

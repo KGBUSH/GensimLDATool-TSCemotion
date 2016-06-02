@@ -1,0 +1,1 @@
+{"id":229,"startTime":4580.0,"endTime":4610.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"20242f8d": {"detail": {"妹子": 1, "真心": 1}}, "ec9dd758": {"detail": {"怎么": 1, "妹子": 1, "生气": 1}}, "e3c583d1": {"detail": {"妹子": 1, "好萌": 1}}, "9048d776": {"detail": {"警局": 1, "这些": 1, "真的": 1, "233333333333": 1}}}}

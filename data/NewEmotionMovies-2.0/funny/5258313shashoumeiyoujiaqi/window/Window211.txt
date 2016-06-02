@@ -1,0 +1,1 @@
+{"id":211,"startTime":4220.0,"endTime":4250.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"57cb26e2": {"detail": {"伏地": 1}}, "9f405f54": {"detail": {"UZI": 1}}}}

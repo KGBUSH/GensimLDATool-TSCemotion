@@ -1,0 +1,1 @@
+{"id":252,"startTime":5040.0,"endTime":5070.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"576d5ddf": {"detail": {"瘪三": 1}}, "c3eb8d24": {"detail": {}}, "4c0deb8d": {"detail": {"23333": 1}}, "0a1b8f94": {"detail": {"妹子": 1, "中指": 1, "一手": 1}}, "cede4c2c": {"detail": {"再次出现": 1, "作死": 1, "能手": 1}}}}

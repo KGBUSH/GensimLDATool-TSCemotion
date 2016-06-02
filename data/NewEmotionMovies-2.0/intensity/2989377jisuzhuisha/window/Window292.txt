@@ -1,0 +1,1 @@
+{"id":292,"startTime":5840.0,"endTime":5870.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"4224c2c1": {"detail": {"真不错": 1}}, "D32db3af": {"detail": {"music": 1, "这剧": 1, "好看": 1, "带感": 1}}, "Db1df7e5": {"detail": {"音乐": 1, "超棒": 1}}}}

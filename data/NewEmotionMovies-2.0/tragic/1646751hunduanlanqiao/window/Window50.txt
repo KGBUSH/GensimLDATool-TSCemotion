@@ -1,0 +1,1 @@
+{"id":50,"startTime":1000.0,"endTime":1030.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"dcd62cce": {"detail": {"女主": 1, "换成": 1, "所以": 1, "当不了": 1, "纸条": 1, "嘴里塞": 1, "尼玛": 1}}, "af7de178": {"detail": {"隐私权": 1}}, "1db05f84": {"detail": {"怎么": 1, "没有": 1, "弹幕": 1}}, "fb9846cf": {"detail": {"时候": 1, "隐私": 1, "全吧": 1}}}}

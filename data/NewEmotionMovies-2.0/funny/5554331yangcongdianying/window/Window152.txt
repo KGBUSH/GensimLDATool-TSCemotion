@@ -1,0 +1,1 @@
+{"id":152,"startTime":3040.0,"endTime":3070.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"df81d5e4": {"detail": {"大神": 1, "不是": 1, "现状": 1, "现在": 1, "网吧": 1}}, "042b6a2a": {"detail": {"2333": 1}}, "a08a52cc": {"detail": {"晚期": 1, "二者": 1}}, "5b416067": {"detail": {"承包": 1, "弹幕": 1}}}}

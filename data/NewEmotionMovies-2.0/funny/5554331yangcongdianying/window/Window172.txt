@@ -1,0 +1,1 @@
+{"id":172,"startTime":3440.0,"endTime":3470.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"06349b7b": {"detail": {"电影": 1, "从头": 1, "到位": 1}}}}

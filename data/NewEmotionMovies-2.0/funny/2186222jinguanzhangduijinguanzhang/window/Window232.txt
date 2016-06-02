@@ -1,0 +1,1 @@
+{"id":232,"startTime":4640.0,"endTime":4670.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"c9d06107": {"detail": {"为啥": 1, "马里奥": 1}}, "96f41504": {"detail": {"上线": 1, "香川": 1}}, "eca192b6": {"detail": {"这个": 1, "角度": 1, "陈小春": 1, "有点像": 1}}}}

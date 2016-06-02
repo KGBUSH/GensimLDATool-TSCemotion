@@ -1,0 +1,1 @@
+{"id":235,"startTime":4700.0,"endTime":4730.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"28895480": {"detail": {"爆炸": 1, "然后": 1}}, "b29fef4b": {"detail": {"一个": 1, "激动": 1, "是不是": 1, "自爆": 1, "后来": 1}}, "ca2ec5e7": {"detail": {"233333333333333333": 1}}, "12d9cbd0": {"detail": {"讽刺": 1}}, "a2d70821": {"detail": {"好帅": 1}}}}

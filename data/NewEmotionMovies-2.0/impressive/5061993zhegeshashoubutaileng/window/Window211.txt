@@ -1,0 +1,1 @@
+{"id":211,"startTime":4220.0,"endTime":4250.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"f1bb01e1": {"detail": {"后面": 1}}, "39dd19a9": {"detail": {"怎么": 1, "没人": 1}}, "23b820bb": {"detail": {"本萝莉": 1, "别怕": 1}}}}

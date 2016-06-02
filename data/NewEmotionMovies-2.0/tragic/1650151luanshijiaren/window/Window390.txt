@@ -1,0 +1,1 @@
+{"id":390,"startTime":7800.0,"endTime":7830.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"D586540f": {"detail": {"爸爸": 1, "看见": 1, "要是": 1}}, "588a7e1b": {"detail": {"堕落": 1, "女孩": 1, "白人": 1}}}}

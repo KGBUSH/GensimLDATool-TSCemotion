@@ -1,0 +1,1 @@
+{"id":322,"startTime":6440.0,"endTime":6470.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"3ea3e980": {"detail": {"第二个": 1, "本片": 1, "联系": 1, "故事": 2, "第一个": 1}}, "ae16c898": {"detail": {"好听": 1}}, "7d46a073": {"detail": {"片尾曲": 1, "这么": 1, "OTZ": 1, "终于": 1, "欢乐": 1, "CRY": 1}}, "9621ab04": {"detail": {"存活": 1, "确认": 1}}}}

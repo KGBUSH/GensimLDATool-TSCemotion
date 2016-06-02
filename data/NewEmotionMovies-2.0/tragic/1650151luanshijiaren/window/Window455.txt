@@ -1,0 +1,1 @@
+{"id":455,"startTime":9100.0,"endTime":9130.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"5e1b641a": {"detail": {"不是": 1, "撕开": 1, "衣服": 1}}, "Dffdae13": {"detail": {"表跑": 1}}, "Dc46109b": {"detail": {"大叔": 1, "好棒": 1}}, "D8d2d573": {"detail": {"我要": 1, "十个": 1}}, "a6c26d33": {"detail": {"捡回来": 1}}, "Dd2b6778": {"detail": {"原来": 1, "大山": 1}}}}

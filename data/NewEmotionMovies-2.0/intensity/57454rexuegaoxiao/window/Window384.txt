@@ -1,0 +1,1 @@
+{"id":384,"startTime":7680.0,"endTime":7710.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"3ebd9a0c": {"detail": {"小栗旬": 1, "我爱你": 1}}, "D6447bcb": {"detail": {"吾辈": 1, "20150515": 1, "还是": 1, "熊猫": 1, "看不惯": 2, "满脸": 1, "栗子": 1, "打斗": 1}}, "Dc6d369f": {"detail": {"野村": 1}}, "Deb9a220": {"detail": {"20141206": 1}}, "6cc4ac32": {"detail": {"栗子": 1}}}}

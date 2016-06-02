@@ -1,0 +1,1 @@
+{"id":215,"startTime":4300.0,"endTime":4330.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"c9d75067": {"detail": {"诱惑": 1, "00": 1, "制服": 1}}, "De5c5c1c": {"detail": {"电视台": 1, "要炸": 1}}}}

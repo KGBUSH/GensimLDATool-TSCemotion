@@ -1,0 +1,1 @@
+{"id":152,"startTime":3040.0,"endTime":3070.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3,"userFeature":{"4fa234f3": {"detail": {"一个": 1, "那么": 1, "OTL": 1, "只有": 1}}, "327a4a12": {"detail": {"头发": 1, "一样": 1, "方便面": 1}}, "7771aed7": {"detail": {"椅子": 1}}, "be99b3fa": {"detail": {"那个": 1, "设计师": 1, "可惜": 1, "其实": 1, "qwq": 1}}, "4708b36a": {"detail": {"好油": 1, "头发": 1}}}}

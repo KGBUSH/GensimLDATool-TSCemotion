@@ -1,0 +1,1 @@
+{"id":288,"startTime":5760.0,"endTime":5790.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D8dec911": {"detail": {"飞飞": 1}}, "d85b89b4": {"detail": {"彩蛋": 1}}, "03b5d209": {"detail": {"总结": 1, "狗控": 1}}, "Dd8822b6": {"detail": {"不错": 1}}, "8ece15f7": {"detail": {"3QQQQQQQ": 1}}}}

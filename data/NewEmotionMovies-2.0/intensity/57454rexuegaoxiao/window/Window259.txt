@@ -1,0 +1,1 @@
+{"id":259,"startTime":5180.0,"endTime":5210.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"97cf5d7e": {"detail": {"什么": 1}}, "a2c7b1e2": {"detail": {"马仔": 1, "想当": 1, "老爸": 1, "现在": 1, "跟着": 1, "成功": 1, "儿子": 1}}, "f11a9cd3": {"detail": {"还有": 1, "五个": 1, "306": 1, "20150927": 1, "居然": 1, "凌晨": 1}}}}

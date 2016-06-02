@@ -1,0 +1,1 @@
+{"id":464,"startTime":9280.0,"endTime":9310.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"80ca64a8": {"detail": {"QAQ": 1}}, "a7ad3f91": {"detail": {}}, "cabe0dd8": {"detail": {"3k": 1, "书里": 1, "政府": 1, "参加": 1, "党反": 1}}, "Dffdae13": {"detail": {"感动": 1}}, "84af0129": {"detail": {"美兰": 1, "美哭": 1}}}}

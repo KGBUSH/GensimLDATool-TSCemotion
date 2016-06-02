@@ -1,0 +1,1 @@
+{"id":150,"startTime":3000.0,"endTime":3030.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"bc0277c2": {"detail": {"城市": 1, "妈妈": 1, "同一个": 1}}, "13376da6": {"detail": {}}, "64ba6cf7": {"detail": {"wa": 1, "kungao": 1}}, "D72bda67": {"detail": {"故意": 1, "漏下": 1}}, "7ef75b56": {"detail": {"机智": 1, "陈太太": 1}}, "cdae8db4": {"detail": {"一天": 1, "一夜": 1}}}}

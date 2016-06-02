@@ -1,0 +1,1 @@
+{"id":350,"startTime":7000.0,"endTime":7030.0,"userAlive":1,"numOfDanmaku":3,"averageLength":3,"userFeature":{"6575d733": {"detail": {"嗷嗷": 4, "we": 1, "everlasting": 1, "in": 1, "that": 2, "神曲": 1, "peace": 1, "choke": 2, "hope": 1, "you": 2}}}}

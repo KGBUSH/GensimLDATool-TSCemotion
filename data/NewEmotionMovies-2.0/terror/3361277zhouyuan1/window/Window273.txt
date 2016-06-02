@@ -1,0 +1,1 @@
+{"id":273,"startTime":5460.0,"endTime":5490.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"b6e18583": {"detail": {"片尾": 1, "正常": 1, "这么": 1, "科学": 1}}, "43d6d40d": {"detail": {"免疫": 1}}, "de305c25": {"detail": {"治愈": 1, "歌曲": 1}}}}

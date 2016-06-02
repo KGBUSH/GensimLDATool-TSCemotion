@@ -1,0 +1,1 @@
+{"id":168,"startTime":3360.0,"endTime":3390.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"8ccc0f73": {"detail": {"明天": 1, "还要": 1, "快睡吧": 1, "上班": 1}}, "148aef14": {"detail": {"等等": 1, "这个": 1, "岁月": 1, "杀手": 1, "太冷": 1, "男主": 1, "杀猪刀": 1}}, "D51724d6": {"detail": {"我来": 1}}, "c3eb8d24": {"detail": {"消音器": 1}}}}

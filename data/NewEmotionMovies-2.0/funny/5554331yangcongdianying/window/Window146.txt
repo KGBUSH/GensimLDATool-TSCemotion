@@ -1,0 +1,1 @@
+{"id":146,"startTime":2920.0,"endTime":2950.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"5850b27a": {"detail": {"脸盲": 1, "说话": 1, "不要": 1}}, "af7b69ec": {"detail": {"HHHHHHHH": 1}}, "2f10107a": {"detail": {"多多": 1}}, "1c13b734": {"detail": {"有些": 1, "勇敢者": 1, "游戏": 1, "恶搞": 1}}, "e6b56dac": {"detail": {"大龄": 1}}}}

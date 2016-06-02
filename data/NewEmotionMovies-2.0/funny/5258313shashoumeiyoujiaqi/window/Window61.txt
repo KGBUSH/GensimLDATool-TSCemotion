@@ -1,0 +1,1 @@
+{"id":61,"startTime":1220.0,"endTime":1250.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"4900d79a": {"detail": {"剧情": 1, "太慢": 1, "瞌睡": 1}}, "4c4f9a2b": {"detail": {"边缘": 1, "这个": 1, "将军": 1, "明日": 1}}, "a75b878b": {"detail": {"边缘": 1, "这个": 1, "将军": 1, "明日": 1, "就是": 1}}}}

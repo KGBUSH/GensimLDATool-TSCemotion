@@ -1,0 +1,1 @@
+{"id":309,"startTime":6180.0,"endTime":6210.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"36aca4c9": {"detail": {"闺蜜": 1, "妈呀": 1, "结局": 1, "太好了": 1, "闺蜜个": 1}}, "648fefa7": {"detail": {}}, "Dab2b896": {"detail": {"玛雅": 1}}, "5ec9c9f5": {"detail": {"不会": 1, "自杀": 1, "滑铁卢": 1}}, "ef9fb19b": {"detail": {"23333333333": 1}}}}

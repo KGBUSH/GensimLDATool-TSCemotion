@@ -1,0 +1,1 @@
+{"id":656,"startTime":13120.0,"endTime":13150.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"a8497f8a": {"detail": {"一个": 2, "照顾": 1, "托付给": 1}}, "5e1b641a": {"detail": {"不知": 1, "真的": 1}}, "cb8a449a": {"detail": {"圣母": 1}}, "D751c693": {"detail": {"说话": 1, "他们": 1, "梅兰": 1, "知道": 1, "解围": 1}}, "03fdac59": {"detail": {"女主": 1, "各种": 1}}}}

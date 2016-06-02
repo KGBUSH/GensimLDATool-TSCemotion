@@ -1,0 +1,1 @@
+{"id":386,"startTime":7720.0,"endTime":7750.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"01e3a972": {"detail": {"确认": 1, "存货": 1}}, "67f2d4fb": {"detail": {"好看": 1}}, "da9201d0": {"detail": {"2016130": 1}}}}

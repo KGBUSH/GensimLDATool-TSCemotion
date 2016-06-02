@@ -1,0 +1,1 @@
+{"id":243,"startTime":4860.0,"endTime":4890.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"219c7310": {"detail": {"删节": 1, "开始": 1, "部分": 1, "兴奋": 1}}, "29491477": {"detail": {"0904": 1, "22": 1}}, "713f8d6e": {"detail": {"可是": 1, "喜欢": 1, "扯淡": 1}}, "7999c3cd": {"detail": {"怎么": 1}}, "69790751": {"detail": {"终于": 1, "两天": 1}}}}

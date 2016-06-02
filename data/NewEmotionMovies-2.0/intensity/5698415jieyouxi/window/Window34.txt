@@ -1,0 +1,1 @@
+{"id":34,"startTime":680.0,"endTime":710.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"c69fe107": {"detail": {"不怕": 1, "艾滋": 1}}, "273a891d": {"detail": {"妹妹": 1, "漂亮": 1, "眼睛": 1}}}}

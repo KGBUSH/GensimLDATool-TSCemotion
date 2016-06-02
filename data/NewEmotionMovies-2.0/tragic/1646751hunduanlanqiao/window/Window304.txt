@@ -1,0 +1,1 @@
+{"id":304,"startTime":6080.0,"endTime":6110.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"afa3aecf": {"detail": {"Kitty": 1, "真棒": 1}}, "D01169fa": {"detail": {"东莞": 1, "马拉": 1}}, "c6c32427": {"detail": {"各种": 1, "场子": 1}}, "964408ea": {"detail": {}}}}

@@ -1,0 +1,1 @@
+{"id":204,"startTime":4080.0,"endTime":4110.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"cfed8596": {"detail": {"起来": 1}}, "59170ffc": {"detail": {"23333333333333": 1}}, "af7b69ec": {"detail": {"Hhhh": 1, "打仗": 1}}, "070ed92f": {"detail": {"凯斯": 1}}, "266b58a8": {"detail": {"江湖": 1, "地方": 1, "有人": 1}}, "D9f3ba6f": {"detail": {"垮掉": 1, "一代": 1}}}}

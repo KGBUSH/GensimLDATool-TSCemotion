@@ -1,0 +1,1 @@
+{"id":77,"startTime":1540.0,"endTime":1570.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"ea5dcafb": {"detail": {"不是": 1, "美元": 1}}, "a0e7f51d": {"detail": {"哥哥": 1, "怎么办": 1}}}}

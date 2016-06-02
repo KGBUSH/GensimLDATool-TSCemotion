@@ -1,0 +1,1 @@
+{"id":303,"startTime":6060.0,"endTime":6090.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"648fefa7": {"detail": {"造就": 1, "性格": 1, "命运": 1, "时代": 1, "悲剧": 1}}, "ef9fb19b": {"detail": {"裙子": 1, "好看": 1}}}}

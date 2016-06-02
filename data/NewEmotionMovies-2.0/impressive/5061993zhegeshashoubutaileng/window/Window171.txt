@@ -1,0 +1,1 @@
+{"id":171,"startTime":3420.0,"endTime":3450.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"aeb0522f": {"detail": {"老伯伯": 1, "这个": 1}}, "407ae22c": {"detail": {}}}}

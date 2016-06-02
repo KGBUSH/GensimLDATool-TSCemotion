@@ -1,0 +1,1 @@
+{"id":150,"startTime":3000.0,"endTime":3030.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"Df73b70a": {"detail": {}}, "2c693ae4": {"detail": {"墨西哥": 1}}, "ded766eb": {"detail": {"没有": 1, "难熬": 1, "李好": 1}}, "afbef1c7": {"detail": {"背景": 1, "巴西": 1}}}}

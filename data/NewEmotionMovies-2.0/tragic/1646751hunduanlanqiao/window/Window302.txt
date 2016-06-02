@@ -1,0 +1,1 @@
+{"id":302,"startTime":6040.0,"endTime":6070.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"afa3aecf": {"detail": {"性格": 1, "其实": 1, "悲剧": 1}}, "648fefa7": {"detail": {}}, "9598b5df": {"detail": {}}, "D783ff74": {"detail": {"基帝": 1}}}}

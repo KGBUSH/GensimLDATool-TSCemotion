@@ -1,0 +1,1 @@
+{"id":210,"startTime":4200.0,"endTime":4230.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"71b6f6df": {"detail": {"一打": 1, "大叔": 1, "这样": 1}}, "D4d486c4": {"detail": {"猥亵": 1, "幼女": 1}}}}

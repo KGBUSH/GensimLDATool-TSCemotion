@@ -1,0 +1,1 @@
+{"id":149,"startTime":2980.0,"endTime":3010.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"e05262de": {"detail": {"2333333333333333333333": 1}}, "85942748": {"detail": {"chunk": 1, "镇里": 1, "伊丽莎白": 1}}, "a864f7bc": {"detail": {}}, "f28f0ce8": {"detail": {"打牌": 1}}, "a08a52cc": {"detail": {"欺负": 1, "这样": 1, "不带": 1}}}}

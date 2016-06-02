@@ -1,0 +1,1 @@
+{"id":220,"startTime":4400.0,"endTime":4430.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"c3eb8d24": {"detail": {"打脸": 1, "前方": 1}}, "a32b2af1": {"detail": {"杀手": 1, "三代": 1, "老中青": 1}}, "c0d899e3": {"detail": {"hhh": 1}}}}

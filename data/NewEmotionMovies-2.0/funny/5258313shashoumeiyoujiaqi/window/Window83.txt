@@ -1,0 +1,1 @@
+{"id":83,"startTime":1660.0,"endTime":1690.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2,"userFeature":{"D4def6eb": {"detail": {"me": 1, "too": 1}}, "444621db": {"detail": {"中国": 1, "这样": 1}}, "96325009": {"detail": {"口袋": 1, "老大娘": 1}}, "1ecbf4c7": {"detail": {"原谅": 1, "看不懂": 1}}, "7afba1ad": {"detail": {"人性": 1, "而已": 1}}, "9d0d07c2": {"detail": {"剧情": 1, "完全": 1}}}}

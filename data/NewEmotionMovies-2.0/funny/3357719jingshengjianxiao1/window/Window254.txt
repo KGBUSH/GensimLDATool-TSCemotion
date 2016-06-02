@@ -1,0 +1,1 @@
+{"id":254,"startTime":5080.0,"endTime":5110.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"D1a1107e": {"detail": {}}, "9af37b90": {"detail": {"还有": 1, "等待": 1, "多少": 1}}, "0fcac1d9": {"detail": {"摇起来": 1, "23333": 1, "bgm": 1, "跟着": 1}}}}

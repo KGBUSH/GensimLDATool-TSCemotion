@@ -1,0 +1,1 @@
+{"id":132,"startTime":2640.0,"endTime":2670.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"7d1bdc7c": {"detail": {"仙人跳": 1}}, "9624392a": {"detail": {"看笑": 1, "终于": 1}}, "923396ad": {"detail": {"张开": 1, "跪下": 1, "怎样": 1}}, "11a793dd": {"detail": {"嘴炮": 1, "杀手": 1, "满级": 1}}, "9351dd1d": {"detail": {"朋友": 1, "空白": 1, "打死": 1}}}}

@@ -1,0 +1,1 @@
+{"id":280,"startTime":5600.0,"endTime":5630.0,"userAlive":1,"numOfDanmaku":1,"averageLength":10,"userFeature":{"74ee9f0d": {"detail": {"打中": 1, "爆头": 1, "小孩": 1, "老大": 1, "以为": 1, "面目全非": 1, "误伤": 1, "自杀": 1, "侏儒": 1, "然后": 1}}}}

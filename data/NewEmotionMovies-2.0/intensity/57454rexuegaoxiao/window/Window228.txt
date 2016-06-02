@@ -1,0 +1,1 @@
+{"id":228,"startTime":4560.0,"endTime":4590.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"D2f73c67": {"detail": {"老鼠": 1, "蟑螂": 1}}, "da0ddaea": {"detail": {"装逼": 1, "无限": 1, "开启": 1, "模式": 1}}, "b524635f": {"detail": {"对头": 1}}, "D294b01c": {"detail": {"裤子": 1}}, "a88211f5": {"detail": {"后宫": 1}}, "d6bd5927": {"detail": {"对头": 1}}}}

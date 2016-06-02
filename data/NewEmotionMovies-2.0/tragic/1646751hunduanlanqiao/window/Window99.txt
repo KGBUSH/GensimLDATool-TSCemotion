@@ -1,0 +1,1 @@
+{"id":99,"startTime":1980.0,"endTime":2010.0,"userAlive":6,"numOfDanmaku":8,"averageLength":1,"userFeature":{"886b86c0": {"detail": {"好配": 1}}, "cb9bd9c4": {"detail": {"不能": 1, "打着": 1, "接吻": 1}}, "669f1f9c": {"detail": {"快去": 1}}, "648fefa7": {"detail": {"眼神": 1, "韩剧": 1, "经典": 1}}, "5ce15915": {"detail": {}}, "ff20c963": {"detail": {"罗马": 1, "假日": 1, "一天": 1}}}}

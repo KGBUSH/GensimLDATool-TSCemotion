@@ -1,0 +1,1 @@
+{"id":156,"startTime":3120.0,"endTime":3150.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"0bfc5325": {"detail": {"一些": 1, "只是": 1, "滑稽": 1, "面粉": 1, "也许": 1}}, "1ecbf4c7": {"detail": {"面粉": 1}}, "77cf87ab": {"detail": {"台词": 1}}, "1d1929f1": {"detail": {"为啥": 1, "纠结": 1, "男主": 1, "巴基斯坦": 1, "233": 1}}, "5d78ee11": {"detail": {"吸粉": 1}}}}

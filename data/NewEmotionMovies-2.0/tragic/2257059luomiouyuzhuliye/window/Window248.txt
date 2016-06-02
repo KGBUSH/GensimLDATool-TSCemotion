@@ -1,0 +1,1 @@
+{"id":248,"startTime":4960.0,"endTime":4990.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"Df71937e": {"detail": {"英音": 1, "男女": 1, "其他人": 1, "除了": 1, "美音": 1, "主是": 1}}, "459f42ef": {"detail": {"床单": 1, "印象": 1}}, "b5268e55": {"detail": {"完婚": 3}}}}

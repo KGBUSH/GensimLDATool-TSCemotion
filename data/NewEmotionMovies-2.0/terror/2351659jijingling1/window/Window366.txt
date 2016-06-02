@@ -1,0 +1,1 @@
+{"id":366,"startTime":7320.0,"endTime":7350.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"915e88c9": {"detail": {"没有": 1, "竟然": 1, "彩蛋": 1}}, "efffebc3": {"detail": {"承包": 1, "我来": 1}}, "5c8ab973": {"detail": {"拉拉": 1, "阿拉": 1}}, "a7a7ccfb": {"detail": {"雾草": 1}}}}

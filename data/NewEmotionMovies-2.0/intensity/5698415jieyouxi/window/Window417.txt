@@ -1,0 +1,1 @@
+{"id":417,"startTime":8340.0,"endTime":8370.0,"userAlive":1,"numOfDanmaku":5,"averageLength":3,"userFeature":{"7221474f": {"detail": {"and": 1, "be": 2, "eyes": 1, "right": 1, "Just": 1, "light": 1, "ll": 2, "safe": 1, "all": 1, "morning": 1, "sound": 1, "close": 1, "you": 1, "Come": 1, "your": 1, "You": 1}}}}

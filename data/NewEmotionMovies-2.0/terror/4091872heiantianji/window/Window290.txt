@@ -1,0 +1,1 @@
+{"id":290,"startTime":5800.0,"endTime":5830.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"70e2eee7": {"detail": {"存活": 1}}, "D3107778": {"detail": {"差評": 1, "Hub": 1, "porn": 1}}}}

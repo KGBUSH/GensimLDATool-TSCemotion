@@ -1,0 +1,1 @@
+{"id":114,"startTime":2280.0,"endTime":2310.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"a02f4fac": {"detail": {"TAT": 1, "后面": 1, "记错": 1, "那段": 1}}, "7cb8e432": {"detail": {"女主超": 1, "孤儿": 1}}, "9390bf0a": {"detail": {"露露": 1}}}}

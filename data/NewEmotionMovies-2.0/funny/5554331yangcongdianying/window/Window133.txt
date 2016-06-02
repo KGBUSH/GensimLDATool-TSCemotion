@@ -1,0 +1,1 @@
+{"id":133,"startTime":2660.0,"endTime":2690.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"Dde8b14a": {"detail": {"AVI": 1}}, "5e312bf6": {"detail": {"好评": 1, "杂志": 1}}}}

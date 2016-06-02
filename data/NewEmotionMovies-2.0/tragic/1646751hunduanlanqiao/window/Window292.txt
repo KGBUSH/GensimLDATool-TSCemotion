@@ -1,0 +1,1 @@
+{"id":292,"startTime":5840.0,"endTime":5870.0,"userAlive":1,"numOfDanmaku":1,"averageLength":7,"userFeature":{"2261d969": {"detail": {"信物": 1, "出戏": 1, "好看": 1, "凹凸": 1, "一个": 1, "定情": 1, "不能": 1}}}}

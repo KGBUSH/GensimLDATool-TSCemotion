@@ -1,0 +1,1 @@
+{"id":288,"startTime":5760.0,"endTime":5790.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"04314d52": {"detail": {"休想": 1}}, "25236da9": {"detail": {"休想": 1}}, "e8a66a02": {"detail": {"休想": 1}}, "de873caf": {"detail": {"没见": 1, "这么": 1, "加油": 1, "心疼": 1}}, "a018b2aa": {"detail": {"bitch": 1}}}}

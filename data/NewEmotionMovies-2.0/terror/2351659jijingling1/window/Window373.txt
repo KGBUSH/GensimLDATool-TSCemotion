@@ -1,0 +1,1 @@
+{"id":373,"startTime":7460.0,"endTime":7490.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"2f9a196f": {"detail": {"一节": 1, "神曲": 1}}, "d1089035": {"detail": {"休想": 1}}, "e9a7ffa0": {"detail": {"好好": 1, "音樂": 1}}, "18c8a379": {"detail": {"27": 1, "2p": 1, "我们": 1, "小伙伴": 1}}}}

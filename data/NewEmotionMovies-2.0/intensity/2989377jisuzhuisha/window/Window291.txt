@@ -1,0 +1,1 @@
+{"id":291,"startTime":5820.0,"endTime":5850.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"D19f1d93": {"detail": {"可以": 1, "进度条": 1}}, "0362902f": {"detail": {}}}}

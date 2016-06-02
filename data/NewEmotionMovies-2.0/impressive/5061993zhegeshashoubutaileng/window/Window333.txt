@@ -1,0 +1,1 @@
+{"id":333,"startTime":6660.0,"endTime":6690.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"6813b618": {"detail": {"队长": 1, "开枪": 1}}, "cd644856": {"detail": {"23333333": 1}}, "4ea7d9c0": {"detail": {}}, "c4d1071b": {"detail": {"队友": 1, "伤害": 1}}, "a38fba55": {"detail": {"停火": 1, "自己": 1, "草泥马": 1}}}}

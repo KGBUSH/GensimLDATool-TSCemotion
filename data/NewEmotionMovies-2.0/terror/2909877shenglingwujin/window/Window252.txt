@@ -1,0 +1,1 @@
+{"id":252,"startTime":5040.0,"endTime":5070.0,"userAlive":3,"numOfDanmaku":4,"averageLength":1,"userFeature":{"f03a4587": {"detail": {"一发": 1, "最后": 1}}, "4a5a508a": {"detail": {"彩蛋": 1, "一发": 1, "真木有": 1}}, "a9e723e8": {"detail": {"2015117": 1}}}}

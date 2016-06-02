@@ -1,0 +1,1 @@
+{"id":116,"startTime":2320.0,"endTime":2350.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"fa685032": {"detail": {"一下": 1, "什么": 1, "毒品": 1, "习惯": 1}}, "4af25c41": {"detail": {"23333": 1, "23333333333333333333": 1}}, "c69d441d": {"detail": {"没醒": 1, "感觉": 1, "从来": 1, "一直": 1}}}}

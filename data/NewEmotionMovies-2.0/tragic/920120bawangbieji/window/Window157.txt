@@ -1,0 +1,1 @@
+{"id":157,"startTime":3140.0,"endTime":3170.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"8358d4d8": {"detail": {"京韵大鼓": 1}}, "bbaf9676": {"detail": {"这个": 1, "名字": 1, "233333333": 1, "菊仙": 1, "莫名": 1}}, "19b89767": {"detail": {"觉得": 1, "目前": 1, "张丰毅": 1}}, "e42e398a": {"detail": {}}, "f864d728": {"detail": {"身段": 1}}}}

@@ -1,0 +1,1 @@
+{"id":159,"startTime":3180.0,"endTime":3210.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"Da53fc24": {"detail": {"真是": 1, "飘逸": 1, "动作": 1}}}}

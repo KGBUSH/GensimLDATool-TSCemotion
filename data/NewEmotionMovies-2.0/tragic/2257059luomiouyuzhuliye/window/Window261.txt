@@ -1,0 +1,1 @@
+{"id":261,"startTime":5220.0,"endTime":5250.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"286d3c68": {"detail": {"一脸": 1, "压着": 1, "要不是": 1, "莱昂纳多": 1, "就是": 1}}, "d6a5d6a6": {"detail": {"可恶": 1, "神探": 1, "夏洛克": 1, "新娘": 1}}, "fa722616": {"detail": {"看见": 1, "丘山": 1}}}}

@@ -1,0 +1,1 @@
+{"id":300,"startTime":6000.0,"endTime":6030.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"5e1b641a": {"detail": {"一文不值": 1}}, "81e8543a": {"detail": {"心酸": 1}}, "39176c5f": {"detail": {"爸爸": 1}}, "f55bc7de": {"detail": {"还有": 2}}, "31ba0628": {"detail": {"不是": 1, "还有": 1, "奶牛": 1, "233333333333": 1}}, "9fdedd13": {"detail": {}}}}

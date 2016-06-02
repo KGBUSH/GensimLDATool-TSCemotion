@@ -1,0 +1,1 @@
+{"id":196,"startTime":3920.0,"endTime":3950.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"1dc82cea": {"detail": {"一辈子": 1}}, "074780f4": {"detail": {"2033": 1, "2234": 1, "20151116": 2}}, "Dedf4970": {"detail": {"好多钱": 1}}, "a92a15a9": {"detail": {"大事不好": 1}}, "a24f3bb3": {"detail": {"woc": 1}}}}

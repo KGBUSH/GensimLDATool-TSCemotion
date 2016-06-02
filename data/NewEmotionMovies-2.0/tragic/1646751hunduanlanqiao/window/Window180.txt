@@ -1,0 +1,1 @@
+{"id":180,"startTime":3600.0,"endTime":3630.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"648fefa7": {"detail": {"板蓝根": 1}}, "9248db35": {"detail": {"现实生活": 1, "费雯丽": 1, "想象": 1, "角色": 1}}, "c242b1ec": {"detail": {"这么": 1, "不带": 1}}, "22822411": {"detail": {"不能": 1, "取名字": 1, "英国人": 1, "重复": 1}}}}

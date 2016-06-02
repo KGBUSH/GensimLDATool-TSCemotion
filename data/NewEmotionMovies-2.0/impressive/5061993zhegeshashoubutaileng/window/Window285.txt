@@ -1,0 +1,1 @@
+{"id":285,"startTime":5700.0,"endTime":5730.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"d2419c28": {"detail": {"贬义词": 1, "Chinaman": 1}}, "aeb0522f": {"detail": {"眼神": 1, "这个": 1, "满分": 1}}, "206bfe07": {"detail": {"好萌": 1, "刚刚": 1, "动作": 1}}, "199fc971": {"detail": {"黑帮": 1, "不是": 1, "黑个": 1, "好人": 1, "什么": 1, "国人": 1}}}}

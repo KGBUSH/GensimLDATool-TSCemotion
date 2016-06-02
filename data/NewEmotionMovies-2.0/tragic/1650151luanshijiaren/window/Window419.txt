@@ -1,0 +1,1 @@
+{"id":419,"startTime":8380.0,"endTime":8410.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"a9c0694f": {"detail": {"算不算": 1}}, "b3cb8c1a": {"detail": {"我关": 1, "弹幕": 1}}, "De55e669": {"detail": {"奶妈": 1}}, "D73ad4ff": {"detail": {"看不起": 1, "忠于": 1, "黑人": 2, "原主": 1, "自由": 1}}}}

@@ -1,0 +1,1 @@
+{"id":264,"startTime":5280.0,"endTime":5310.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"c0cd5704": {"detail": {"前来": 1, "拜访": 1, "一家": 1, "春道": 1}}, "e518b81c": {"detail": {"屏大东": 1, "截图": 2, "棒棒": 1, "昂昂": 1}}, "fa48c5c5": {"detail": {"挺帅": 1, "小伙子": 1}}, "db68030b": {"detail": {"嗷嗷": 3}}, "600be42f": {"detail": {"好帅": 1}}}}

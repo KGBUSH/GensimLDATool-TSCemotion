@@ -1,0 +1,1 @@
+{"id":257,"startTime":5140.0,"endTime":5170.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"4a5a508a": {"detail": {"无聊": 1, "是不是": 1, "只有": 1}}, "a9e723e8": {"detail": {"娼妓": 1}}}}

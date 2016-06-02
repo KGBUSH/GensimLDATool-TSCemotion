@@ -1,0 +1,1 @@
+{"id":261,"startTime":5220.0,"endTime":5250.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"648fefa7": {"detail": {"you": 1, "OK": 1, "are": 1}}, "29561c5c": {"detail": {"好怕": 1, "哪里": 1, "到底": 1, "发现": 1}}, "bf16ffcc": {"detail": {"一定": 1, "谈些": 1, "私下": 1, "捂脸": 1, "什么": 1}}}}

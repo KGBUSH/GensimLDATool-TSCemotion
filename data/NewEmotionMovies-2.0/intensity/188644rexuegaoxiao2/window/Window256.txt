@@ -1,0 +1,1 @@
+{"id":256,"startTime":5120.0,"endTime":5150.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"51b6ad70": {"detail": {"专家": 1, "谈判": 1}}, "3618cb94": {"detail": {"下手": 2, "对源治": 2, "第二季": 1, "第一季": 1, "老爸": 1}}, "351368b6": {"detail": {}}}}

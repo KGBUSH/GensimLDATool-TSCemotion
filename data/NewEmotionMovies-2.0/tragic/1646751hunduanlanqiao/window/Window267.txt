@@ -1,0 +1,1 @@
+{"id":267,"startTime":5340.0,"endTime":5370.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"afa3aecf": {"detail": {"家里": 1, "开放": 1}}, "59bd1431": {"detail": {"叔叔": 1}}}}

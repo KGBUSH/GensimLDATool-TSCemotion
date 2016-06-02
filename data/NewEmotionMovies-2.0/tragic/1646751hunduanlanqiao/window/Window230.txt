@@ -1,0 +1,1 @@
+{"id":230,"startTime":4600.0,"endTime":4630.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"afa3aecf": {"detail": {"卧槽": 1, "要命": 1}}, "648fefa7": {"detail": {"爱过": 1}}, "77d88922": {"detail": {"悲凉": 1}}, "c242b1ec": {"detail": {"不是": 1}}, "f3cd7349": {"detail": {"一个": 2, "道歉": 1, "伤心": 1, "一直": 1}}}}

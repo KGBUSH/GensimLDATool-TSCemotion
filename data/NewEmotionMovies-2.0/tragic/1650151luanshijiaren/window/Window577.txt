@@ -1,0 +1,1 @@
+{"id":577,"startTime":11540.0,"endTime":11570.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"b9e12679": {"detail": {"自作孽": 1}}, "882967a2": {"detail": {"帮斯嘉丽": 1, "瑞德": 1}}, "f438b6b9": {"detail": {"如果": 1, "进去": 1, "一起": 1, "瑞德": 1}}, "fb9846cf": {"detail": {"强颜欢笑": 1, "艾希礼": 1}}}}

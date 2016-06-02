@@ -1,0 +1,1 @@
+{"id":173,"startTime":3460.0,"endTime":3490.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"9f64f866": {"detail": {"水瓶座": 1, "戒指": 1}}, "D95c3187": {"detail": {}}, "a9c724d2": {"detail": {"害怕": 1}}, "D5d688e8": {"detail": {"暴风雨": 1}}}}

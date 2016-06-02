@@ -1,0 +1,1 @@
+{"id":170,"startTime":3400.0,"endTime":3430.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"68c9c01c": {"detail": {"女主": 1, "喜欢": 1, "啊啊啊": 2}}, "5eae226d": {"detail": {"这个": 1}}, "3afc847c": {"detail": {"手上": 1, "哈喇子": 1}}, "0d043715": {"detail": {}}, "D0108ec2": {"detail": {"什么": 1, "感动": 1}}}}

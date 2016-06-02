@@ -1,0 +1,1 @@
+{"id":301,"startTime":6020.0,"endTime":6050.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"cbd4d09d": {"detail": {"一起": 2}}, "36aca4c9": {"detail": {"男主": 1, "也好": 1, "QAQ": 1}}, "9598b5df": {"detail": {}}, "b67fb7cf": {"detail": {"无私": 1, "kitty": 1}}, "648fefa7": {"detail": {}}}}

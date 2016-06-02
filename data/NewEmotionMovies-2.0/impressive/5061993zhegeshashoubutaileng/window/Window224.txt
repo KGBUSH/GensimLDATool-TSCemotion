@@ -1,0 +1,1 @@
+{"id":224,"startTime":4480.0,"endTime":4510.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"1e4f4e3e": {"detail": {"小包": 1}}, "e516f7b0": {"detail": {"上衣": 1, "短款": 1, "23333333333333": 1}}, "49550569": {"detail": {"保暖": 1}}, "1844fcbf": {"detail": {"快递": 1, "顺丰": 1}}, "fb1edf19": {"detail": {"快递": 1, "顺风": 1}}}}

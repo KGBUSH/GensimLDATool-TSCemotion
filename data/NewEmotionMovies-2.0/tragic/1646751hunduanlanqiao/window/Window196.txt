@@ -1,0 +1,1 @@
+{"id":196,"startTime":3920.0,"endTime":3950.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"36aca4c9": {"detail": {"kitty": 1, "QAQ": 1, "简直": 1}}, "Daf1dda0": {"detail": {"闺蜜": 1, "真是": 1, "走运": 1, "这种": 1, "遇上": 1}}, "c242b1ec": {"detail": {"可以": 1, "撒谎": 1, "火柴": 1}}, "59bd1431": {"detail": {"百合": 1, "大法": 1}}}}

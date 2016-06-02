@@ -1,0 +1,1 @@
+{"id":20,"startTime":400.0,"endTime":430.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"ee6bba43": {"detail": {"不好": 1, "外国人": 1, "皮肤": 1}}, "055848ab": {"detail": {"马猴": 1, "烧酒": 1, "小樱": 1, "233333": 1}}, "16f3f6df": {"detail": {"表姐": 1, "不够": 1, "好看": 1}}, "273a891d": {"detail": {"雀斑": 1, "他们": 1, "好多": 1}}}}

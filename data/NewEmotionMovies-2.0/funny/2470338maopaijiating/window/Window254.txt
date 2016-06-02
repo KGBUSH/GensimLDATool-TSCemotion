@@ -1,0 +1,1 @@
+{"id":254,"startTime":5080.0,"endTime":5110.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"564f32ad": {"detail": {"打死": 1, "承包": 1}}, "17d99f82": {"detail": {"暂停": 1, "表情": 1}}, "D588a085": {"detail": {"医生": 1, "社工": 1}}, "De6d7766": {"detail": {"23333333333333333333": 1}}, "47a659a6": {"detail": {"暂停": 1, "艾玛神": 1, "表情": 1}}}}

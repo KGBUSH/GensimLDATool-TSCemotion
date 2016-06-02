@@ -1,0 +1,1 @@
+{"id":640,"startTime":12800.0,"endTime":12830.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"aa3b6e28": {"detail": {"互相": 1, "伤害": 1}}, "Dd2b6778": {"detail": {}}, "D246ddc7": {"detail": {"思嘉太": 1, "两个": 1, "一起": 1, "不懂事": 1, "应该": 1, "这时候": 1}}, "D46a985c": {"detail": {}}}}

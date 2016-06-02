@@ -1,0 +1,1 @@
+{"id":242,"startTime":4840.0,"endTime":4870.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"06349b7b": {"detail": {"需要": 1, "勇气": 1, "多大": 1}}, "Da3c3ace": {"detail": {"居然": 1, "扯蛋": 1}}, "e18d1ef7": {"detail": {}}, "7999c3cd": {"detail": {"怎么": 1}}, "D4febef5": {"detail": {"太扯": 1}}}}

@@ -1,0 +1,1 @@
+{"id":325,"startTime":6500.0,"endTime":6530.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"f31dd62b": {"detail": {"挺赞": 1, "结尾曲": 1}}, "95efbfa2": {"detail": {}}, "cfd21f1d": {"detail": {"2014": 1, "12": 1, "1707": 1}}}}

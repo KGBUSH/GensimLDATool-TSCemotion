@@ -1,0 +1,1 @@
+{"id":256,"startTime":5120.0,"endTime":5150.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"D1a1107e": {"detail": {"还有": 1, "一分钟": 1}}, "16b9b812": {"detail": {"漫长": 1, "几分钟": 1}}, "84ec5b6a": {"detail": {"偷偷": 1, "承包": 1}}, "a36ef6cb": {"detail": {"ED": 1, "任性": 1}}, "Ddfff39d": {"detail": {"23333333333333333": 1}}}}

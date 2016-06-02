@@ -1,0 +1,1 @@
+{"id":222,"startTime":4440.0,"endTime":4470.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"9861aae2": {"detail": {"233333": 1}}, "923396ad": {"detail": {"那枪": 1, "而且": 1, "子弹": 1}}, "c0d899e3": {"detail": {"23333333333": 1}}}}

@@ -1,0 +1,1 @@
+{"id":47,"startTime":940.0,"endTime":970.0,"userAlive":7,"numOfDanmaku":7,"averageLength":1,"userFeature":{"2dc9a897": {"detail": {"受不了": 1, "2333333": 1}}, "50c79f65": {"detail": {"萨克": 1, "迪克": 1}}, "Db880d75": {"detail": {"没人": 1}}, "d397d29e": {"detail": {"23333": 1, "丁日": 1}}, "b4a45131": {"detail": {}}, "6843f0dd": {"detail": {}}, "dd7ebe1d": {"detail": {}}}}

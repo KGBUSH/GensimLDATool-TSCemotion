@@ -1,0 +1,1 @@
+{"id":79,"startTime":1580.0,"endTime":1610.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"648fefa7": {"detail": {"好美": 1}}, "4ce1f34b": {"detail": {"龙虾": 1}}, "Dd7c88a7": {"detail": {"女主好": 1, "苗条": 1}}}}

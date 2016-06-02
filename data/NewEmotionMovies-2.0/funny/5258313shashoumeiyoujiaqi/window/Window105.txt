@@ -1,0 +1,1 @@
+{"id":105,"startTime":2100.0,"endTime":2130.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"f69d8cb4": {"detail": {"迷之笑": 1, "哈哈哈": 1}}, "12886b4b": {"detail": {"同意": 1}}, "ec9dd758": {"detail": {"怎么": 1, "刚才": 1, "人家": 1}}, "f7a8d4c8": {"detail": {"高潮": 1}}}}

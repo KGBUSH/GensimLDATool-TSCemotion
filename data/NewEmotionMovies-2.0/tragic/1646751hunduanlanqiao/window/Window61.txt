@@ -1,0 +1,1 @@
+{"id":61,"startTime":1220.0,"endTime":1250.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"Dc87deff": {"detail": {"卧槽": 1}}, "1ed427f6": {"detail": {"麻小": 1}}, "D493f3eb": {"detail": {"扇贝": 1}}, "648fefa7": {"detail": {"小龙虾": 1, "大闸蟹": 1}}, "ed16bac3": {"detail": {"有钱": 1, "才能": 1}}, "76b9e13f": {"detail": {"我要": 1}}}}

@@ -1,0 +1,1 @@
+{"id":172,"startTime":3440.0,"endTime":3470.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"Dfa3f985": {"detail": {"23333333": 1}}, "670ae559": {"detail": {"爸爸妈妈": 1, "压岁钱": 1, "保管": 1}}, "Dfe56d75": {"detail": {"摇头": 1}}, "9084536e": {"detail": {"神准": 1}}, "D6ac198a": {"detail": {"2016": 1}}, "9f27d7ef": {"detail": {"si": 2, "大叔": 1}}}}

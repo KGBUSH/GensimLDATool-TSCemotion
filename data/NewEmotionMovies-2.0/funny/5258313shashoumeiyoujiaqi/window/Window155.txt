@@ -1,0 +1,1 @@
+{"id":155,"startTime":3100.0,"endTime":3130.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"0bfc5325": {"detail": {"一些": 1, "只是": 1, "滑稽": 1, "面粉": 1, "也许": 1}}, "1ecbf4c7": {"detail": {"面粉": 1}}, "5d78ee11": {"detail": {"吸粉": 1}}, "b599241c": {"detail": {"丝袜": 1}}}}

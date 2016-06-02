@@ -1,0 +1,1 @@
+{"id":147,"startTime":2940.0,"endTime":2970.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"Dbf0cd30": {"detail": {"有点": 1, "BGM": 1}}, "648fefa7": {"detail": {"镜头": 1, "人有": 1, "经典": 1, "悲欢离合": 1, "古难全": 1, "此事": 1}}, "886b86c0": {"detail": {}}, "f3cd7349": {"detail": {"真的": 1, "时不我待": 1}}}}

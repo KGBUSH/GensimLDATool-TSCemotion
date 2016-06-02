@@ -1,0 +1,1 @@
+{"id":90,"startTime":1800.0,"endTime":1830.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"afd1f696": {"detail": {"2333333333": 1}}, "6f6d84f7": {"detail": {"声音": 1, "耳光": 1, "23333333333": 1}}, "941884f6": {"detail": {"大朗": 1}}, "be083ee1": {"detail": {"小栗旬": 1, "border": 1, "上司": 1}}, "1bc1169b": {"detail": {"有点": 1, "大耳雷子": 1, "顺滑": 1}}}}

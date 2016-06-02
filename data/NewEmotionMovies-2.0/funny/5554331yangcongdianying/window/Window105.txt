@@ -1,0 +1,1 @@
+{"id":105,"startTime":2100.0,"endTime":2130.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"74c1526b": {"detail": {"兄弟": 1, "这个": 1, "黑人": 1, "恶搞": 1}}, "516de852": {"detail": {"觉厉": 1, "不明": 1, "忽悠": 1, "玩意": 1, "投钱": 1, "总爱用": 1, "电脑": 1}}, "d8acef6e": {"detail": {"中关村": 1, "骗子": 1}}}}

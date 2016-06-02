@@ -1,0 +1,1 @@
+{"id":279,"startTime":5580.0,"endTime":5610.0,"userAlive":1,"numOfDanmaku":1,"averageLength":4,"userFeature":{"6fa2d6eb": {"detail": {"虐惨": 1, "这个": 1, "嘲笑": 1, "叫声": 1}}}}

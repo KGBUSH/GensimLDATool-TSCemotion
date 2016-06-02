@@ -1,0 +1,1 @@
+{"id":312,"startTime":6240.0,"endTime":6270.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"12e808df": {"detail": {"多年": 1, "罗莽": 1, "武打": 1, "介也": 1, "老师傅": 1}}, "f522522f": {"detail": {"什么": 1, "眼色": 1}}, "Dc2dbd22": {"detail": {"哎呀": 1}}}}

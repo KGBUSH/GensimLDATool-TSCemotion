@@ -1,0 +1,1 @@
+{"id":33,"startTime":660.0,"endTime":690.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"Dd14b63e": {"detail": {"头昏": 1}}, "eb386b63": {"detail": {"小时候": 1, "想起": 1, "打针": 1}}, "D8e9232c": {"detail": {"小孩子": 1}}, "96bfc999": {"detail": {"略长": 1, "可惜": 1}}}}

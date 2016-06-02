@@ -1,0 +1,1 @@
+{"id":305,"startTime":6100.0,"endTime":6130.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D8a66815": {"detail": {}}, "20e9ee75": {"detail": {"女主": 1, "18": 1, "真信": 1}}, "9d7451f1": {"detail": {"ARK": 1}}, "9838815b": {"detail": {"AFk": 1, "前面": 1}}, "277d7350": {"detail": {"等等": 1, "大叔": 1}}}}

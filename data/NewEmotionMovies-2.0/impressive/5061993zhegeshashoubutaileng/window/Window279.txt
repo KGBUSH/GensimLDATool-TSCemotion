@@ -1,0 +1,1 @@
+{"id":279,"startTime":5580.0,"endTime":5610.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"fe933daa": {"detail": {"萌币": 1}}, "14c972d7": {"detail": {"幸亏": 1, "萝莉控": 1}}, "001a688d": {"detail": {"爆表": 1, "演技": 1}}, "92bc6d2e": {"detail": {}}, "b87361d4": {"detail": {"face": 1, "抽搐": 1, "your": 1}}}}

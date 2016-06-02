@@ -1,0 +1,1 @@
+{"id":189,"startTime":3780.0,"endTime":3810.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"d993209e": {"detail": {"投降": 1, "奴隶": 1, "生活": 1, "没有": 1, "免费": 1, "从此": 1}}, "4fef3031": {"detail": {"李莫愁": 1}}, "7442869a": {"detail": {"那个": 1, "后面": 1, "人笑": 1}}}}

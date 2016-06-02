@@ -1,0 +1,1 @@
+{"id":274,"startTime":5480.0,"endTime":5510.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"Db78d890": {"detail": {"2015814": 1}}, "c77e8109": {"detail": {"2015612": 1}}, "696e1bfd": {"detail": {"完结": 1, "背部": 1, "撒花": 1}}, "aa43d1f9": {"detail": {"20151212": 1}}, "274df9ca": {"detail": {"2016": 1}}}}

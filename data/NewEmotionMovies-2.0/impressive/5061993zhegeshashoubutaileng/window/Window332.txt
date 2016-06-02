@@ -1,0 +1,1 @@
+{"id":332,"startTime":6640.0,"endTime":6670.0,"userAlive":6,"numOfDanmaku":7,"averageLength":0,"userFeature":{"12493342": {"detail": {"好帅": 1, "大叔": 1}}, "a6416393": {"detail": {"反派": 1}}, "206bfe07": {"detail": {"woc": 1}}, "fc5c3ad5": {"detail": {"哈哈哈": 1}}, "4225c11f": {"detail": {}}, "09b45dd6": {"detail": {"2333": 1}}}}

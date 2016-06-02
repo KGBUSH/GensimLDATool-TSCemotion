@@ -1,0 +1,1 @@
+{"id":223,"startTime":4460.0,"endTime":4490.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"9526f9ca": {"detail": {"2333": 1, "老公": 1, "思密达": 1}}, "3b8d77f4": {"detail": {"真是": 1, "字幕组": 1}}, "95618b11": {"detail": {"这么": 1, "哈哈": 1, "零食": 1}}, "12e43351": {"detail": {}}, "40462906": {"detail": {"手上": 1, "挥剑": 1, "办法": 1}}}}

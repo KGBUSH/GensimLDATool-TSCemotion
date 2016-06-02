@@ -1,0 +1,1 @@
+{"id":237,"startTime":4740.0,"endTime":4770.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"D7f9021b": {"detail": {"2015622": 1, "一留": 1, "哥到": 1}}}}

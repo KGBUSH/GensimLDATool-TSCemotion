@@ -1,0 +1,1 @@
+{"id":285,"startTime":5700.0,"endTime":5730.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3,"userFeature":{"f22d9b1d": {"detail": {"boss": 1}}, "d512f75f": {"detail": {"闹太套": 1}}, "1713390f": {"detail": {"格斗": 1, "这场": 1, "一眼": 1, "铁粉": 1, "DVD": 1, "现在": 1, "店里": 1, "丹哥": 1, "然后": 1}}, "5dab823e": {"detail": {"打聋": 1, "一只": 1, "耳朵": 1}}, "53b8f9e4": {"detail": {"教主": 1}}}}

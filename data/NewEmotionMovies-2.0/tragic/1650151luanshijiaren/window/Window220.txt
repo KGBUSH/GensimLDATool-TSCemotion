@@ -1,0 +1,1 @@
+{"id":220,"startTime":4400.0,"endTime":4430.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"Df322a33": {"detail": {"想想": 1, "多少": 1}}, "53c0a5af": {"detail": {"可能": 1}}, "D7018052": {"detail": {"大家": 1, "衣服": 1, "擦汗": 1, "不停": 1, "汗渍": 1, "梅兰": 1}}, "2a746ecc": {"detail": {"伙计": 1, "什么": 1, "时代": 1}}}}

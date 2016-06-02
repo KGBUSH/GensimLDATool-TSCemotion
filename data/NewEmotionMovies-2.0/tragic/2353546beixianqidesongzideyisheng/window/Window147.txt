@@ -1,0 +1,1 @@
+{"id":147,"startTime":2940.0,"endTime":2970.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"91cee8fd": {"detail": {"之人": 1, "可怜": 1, "必有": 1, "可恨": 1, "之处": 1}}, "D3e21573": {"detail": {"这才": 1}}, "823267d7": {"detail": {"武田": 1, "哥哥": 1, "袜子": 1}}}}

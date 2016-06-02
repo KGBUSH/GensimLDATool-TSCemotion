@@ -1,0 +1,1 @@
+{"id":351,"startTime":7020.0,"endTime":7050.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"280f953c": {"detail": {"20150907": 1}}, "Da6191b0": {"detail": {"150227": 1, "好看": 1}}, "D8042423": {"detail": {"大赞": 1}}, "Db5fe66d": {"detail": {"好歌": 1}}, "71e146e0": {"detail": {"超级": 1, "硬币": 1}}}}

@@ -1,0 +1,1 @@
+{"id":158,"startTime":3160.0,"endTime":3190.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"Da53fc24": {"detail": {"倒挂金钩": 1}}, "8752cb7c": {"detail": {"这个": 1, "好惨": 1}}, "5980c876": {"detail": {"几个": 1, "切得": 1, "镜头": 1, "真心": 1}}, "D1079652": {"detail": {"黑侠": 1}}}}

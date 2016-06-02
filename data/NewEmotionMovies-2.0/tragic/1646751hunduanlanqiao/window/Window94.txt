@@ -1,0 +1,1 @@
+{"id":94,"startTime":1880.0,"endTime":1910.0,"userAlive":5,"numOfDanmaku":8,"averageLength":1,"userFeature":{"Dbf0cd30": {"detail": {"喜剧": 1, "瞬间": 1}}, "648fefa7": {"detail": {"好大": 1, "女神": 1, "神经": 1, "激动": 1, "淡定": 1, "眼睛": 1}}, "afa3aecf": {"detail": {"太痴汉": 1}}, "1db05f84": {"detail": {"可爱": 1}}, "c242b1ec": {"detail": {"哈哈": 1}}}}

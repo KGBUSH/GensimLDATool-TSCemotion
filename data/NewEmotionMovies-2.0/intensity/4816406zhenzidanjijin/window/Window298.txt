@@ -1,0 +1,1 @@
+{"id":298,"startTime":5960.0,"endTime":5990.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"Db7f101a": {"detail": {}}, "bf5cc797": {"detail": {"十个": 1, "还是": 1}}, "d4debdda": {"detail": {"一个": 1, "板凳": 1, "一堆": 1}}, "9a5a0c74": {"detail": {"背后": 1, "砍成": 1, "这样": 1}}, "3e20461d": {"detail": {"下去": 1, "那个": 1, "脑袋": 1}}}}

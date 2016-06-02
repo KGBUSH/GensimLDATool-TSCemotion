@@ -1,0 +1,1 @@
+{"id":215,"startTime":4300.0,"endTime":4330.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"79438264": {"detail": {"听得出": 1, "专业": 1, "子弹": 1, "里昂": 1, "一个": 1, "杀手": 1, "位置": 1, "作为": 1}}, "D86e7439": {"detail": {"碟子": 1}}, "bb5ea0f4": {"detail": {"不行": 1, "不玩": 1}}, "ee6d58dc": {"detail": {"耳朵": 1}}, "67f331ad": {"detail": {"045": 1, "口径": 1}}}}

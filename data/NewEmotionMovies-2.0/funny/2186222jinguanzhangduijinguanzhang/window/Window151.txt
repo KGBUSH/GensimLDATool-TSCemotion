@@ -1,0 +1,1 @@
+{"id":151,"startTime":3020.0,"endTime":3050.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"De35d139": {"detail": {"特技": 1, "23333333333333333333": 1, "化学": 1}}, "3e3ce1d8": {"detail": {"馒头": 1, "有名": 1, "水饺": 1}}, "3be2a00d": {"detail": {"保剑锋": 1, "看到": 1}}, "320deb23": {"detail": {"刚才": 1, "萌死": 1}}}}

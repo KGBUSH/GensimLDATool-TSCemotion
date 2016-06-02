@@ -1,0 +1,1 @@
+{"id":215,"startTime":4300.0,"endTime":4330.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"d0f2a508": {"detail": {"哈哈哈哈": 1}}, "e3c583d1": {"detail": {"什么": 1, "瞎说": 1, "实话": 1}}, "c0d899e3": {"detail": {"2333333333": 1}}, "20242f8d": {"detail": {"哈哈": 1}}, "9861aae2": {"detail": {"2333333": 1}}, "9048d776": {"detail": {"确实": 1}}}}

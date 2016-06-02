@@ -1,0 +1,1 @@
+{"id":181,"startTime":3620.0,"endTime":3650.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"305392bb": {"detail": {"姑娘": 1}}}}

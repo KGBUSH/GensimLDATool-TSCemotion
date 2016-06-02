@@ -1,0 +1,1 @@
+{"id":185,"startTime":3700.0,"endTime":3730.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"35044222": {"detail": {"选秀": 1, "你们好": 1, "36": 1}}, "96bfc999": {"detail": {"by": 1, "her": 1, "loving": 1}}}}

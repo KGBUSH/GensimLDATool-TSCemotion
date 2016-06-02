@@ -1,0 +1,1 @@
+{"id":300,"startTime":6000.0,"endTime":6030.0,"userAlive":1,"numOfDanmaku":1,"averageLength":4,"userFeature":{"117c36e7": {"detail": {"男神": 1, "好不容易": 1, "新片": 1, "不想": 1}}}}

@@ -1,0 +1,1 @@
+{"id":426,"startTime":8520.0,"endTime":8550.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"76eda045": {"detail": {"存活": 1}}, "d87fbd95": {"detail": {"什么": 1, "富士通": 1, "还是": 1}}, "557e162a": {"detail": {"2333333333": 1}}}}

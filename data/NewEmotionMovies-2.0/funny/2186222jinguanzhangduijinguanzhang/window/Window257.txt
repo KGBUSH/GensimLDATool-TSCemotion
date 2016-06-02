@@ -1,0 +1,1 @@
+{"id":257,"startTime":5140.0,"endTime":5170.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"7ecb3087": {"detail": {"2333333": 1}}, "5e1bbdd7": {"detail": {"一脸": 1, "功夫": 1, "无可": 1, "2333333": 1}}, "a579f2a0": {"detail": {"反间计": 1}}, "D58f4fe4": {"detail": {"23333": 1}}, "D640d1f6": {"detail": {"23333333333333333333": 1}}, "Df9c26ff": {"detail": {"离间计": 1}}}}

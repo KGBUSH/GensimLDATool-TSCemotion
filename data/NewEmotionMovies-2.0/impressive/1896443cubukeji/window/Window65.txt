@@ -1,0 +1,1 @@
+{"id":65,"startTime":1300.0,"endTime":1330.0,"userAlive":2,"numOfDanmaku":2,"averageLength":0,"userFeature":{"9c19fca1": {"detail": {"福利": 1}}, "D051945d": {"detail": {}}}}

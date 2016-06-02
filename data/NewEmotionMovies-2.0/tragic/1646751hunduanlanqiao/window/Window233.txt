@@ -1,0 +1,1 @@
+{"id":233,"startTime":4660.0,"endTime":4690.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"648fefa7": {"detail": {"吓死": 1, "宝宝": 1}}, "e45d07f2": {"detail": {"kitty": 1, "结局": 1, "有没有": 1}}, "1679e38e": {"detail": {"女主": 1, "结婚": 1, "kitty": 1, "哪里": 1}}, "34d8be53": {"detail": {"真实": 1, "存在": 1, "kitty": 1, "这样": 1}}}}

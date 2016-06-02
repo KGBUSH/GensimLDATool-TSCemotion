@@ -1,0 +1,1 @@
+{"id":294,"startTime":5880.0,"endTime":5910.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"4b228772": {"detail": {"李要": 1, "爆发": 1}}, "1c5ed838": {"detail": {"两家": 1, "他俩": 1}}, "980ffab0": {"detail": {"升华": 1, "悲而悲": 1, "疼感": 1}}, "8e2516eb": {"detail": {"专卖店": 1, "自杀": 1}}, "D498cdd6": {"detail": {"卧槽": 1}}, "b5268e55": {"detail": {}}}}

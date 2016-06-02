@@ -1,0 +1,1 @@
+{"id":197,"startTime":3940.0,"endTime":3970.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"7a83fd23": {"detail": {"一声": 1}}, "a92a15a9": {"detail": {"大事不好": 1}}, "4376a409": {"detail": {"好方": 1}}}}

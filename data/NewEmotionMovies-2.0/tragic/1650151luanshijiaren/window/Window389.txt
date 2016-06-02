@@ -1,0 +1,1 @@
+{"id":389,"startTime":7780.0,"endTime":7810.0,"userAlive":2,"numOfDanmaku":2,"averageLength":4,"userFeature":{"D586540f": {"detail": {"彪悍": 1, "斯嘉丽": 1, "QAQ": 1, "这时候": 1}}, "3f6a518e": {"detail": {"有点": 1, "这女": 1, "雪姨": 1, "样子": 1}}}}

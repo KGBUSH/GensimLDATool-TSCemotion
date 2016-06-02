@@ -1,0 +1,1 @@
+{"id":141,"startTime":2820.0,"endTime":2850.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"cede4c2c": {"detail": {"赢家": 1, "人生": 1}}, "37554d47": {"detail": {"同时": 1, "双线": 1, "任务": 1, "进行": 1}}, "9048d776": {"detail": {"现在": 1}}}}

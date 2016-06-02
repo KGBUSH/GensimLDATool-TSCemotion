@@ -1,0 +1,1 @@
+{"id":423,"startTime":8460.0,"endTime":8490.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"d5dc479a": {"detail": {"语气": 1, "斯嘉丽": 1, "瞬间": 1, "表情": 1}}, "De55e669": {"detail": {"好好": 1, "费雯丽": 1, "说话": 1}}, "735b81b7": {"detail": {"结婚": 1, "还生": 1, "小孩": 1, "一个": 1, "他们": 1, "后来": 1, "难以想象": 1}}}}

@@ -1,0 +1,1 @@
+{"id":177,"startTime":3540.0,"endTime":3570.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"312de5f5": {"detail": {"一番": 1, "腥风血雨": 1}}, "Db9ba979": {"detail": {"先去": 1, "微博": 1, "刷个": 1}}, "D6311868": {"detail": {"快进": 1, "这群人": 1, "难熬": 1}}}}

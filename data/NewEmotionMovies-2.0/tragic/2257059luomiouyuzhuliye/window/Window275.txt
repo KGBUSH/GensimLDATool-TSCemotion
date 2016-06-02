@@ -1,0 +1,1 @@
+{"id":275,"startTime":5500.0,"endTime":5530.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"D1c9a8e8": {"detail": {"这么": 1, "效果": 1}}, "Dc6384eb": {"detail": {"逼婚": 1, "你们": 1}}, "13b7e9bd": {"detail": {"相机": 1, "电话": 1}}, "b4b60951": {"detail": {"趁热": 1}}}}

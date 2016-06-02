@@ -1,0 +1,1 @@
+{"id":212,"startTime":4240.0,"endTime":4270.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"d7e55e1c": {"detail": {"嗓音": 1, "太棒了": 1, "拉叔": 1}}, "576d5ddf": {"detail": {"含铅": 1}}, "e9593540": {"detail": {"绝命": 1, "毒师里": 1}}, "e3c583d1": {"detail": {"好好": 1, "dumdum": 1}}, "7b35a55e": {"detail": {"有些": 1, "dumdum": 1}}}}

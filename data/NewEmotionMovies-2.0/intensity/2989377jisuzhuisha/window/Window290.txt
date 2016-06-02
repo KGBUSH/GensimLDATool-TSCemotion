@@ -1,0 +1,1 @@
+{"id":290,"startTime":5800.0,"endTime":5830.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"0362902f": {"detail": {}}, "e740da91": {"detail": {"一出": 1, "反派": 1, "补刀": 1, "片子": 1}}, "160edd97": {"detail": {"彩蛋": 1}}, "c636fe75": {"detail": {"打死": 1, "出来": 1, "彩蛋": 1, "保证": 1}}}}

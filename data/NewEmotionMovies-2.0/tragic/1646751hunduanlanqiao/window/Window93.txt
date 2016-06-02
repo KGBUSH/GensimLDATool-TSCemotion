@@ -1,0 +1,1 @@
+{"id":93,"startTime":1860.0,"endTime":1890.0,"userAlive":4,"numOfDanmaku":6,"averageLength":2,"userFeature":{"Dbf0cd30": {"detail": {"状态": 1, "上尉": 1, "进入": 1, "痴汉": 1}}, "648fefa7": {"detail": {"画面": 1, "好大": 1, "经典": 1, "眼睛": 1, "杨柳": 1}}, "c242b1ec": {"detail": {"哈哈": 1}}, "D2329591": {"detail": {"画面": 1, "经典": 1}}}}

@@ -1,0 +1,1 @@
+{"id":309,"startTime":6180.0,"endTime":6210.0,"userAlive":1,"numOfDanmaku":1,"averageLength":5,"userFeature":{"c9d6043a": {"detail": {"总结": 1, "除了": 1, "独眼": 1, "有种": 1, "比利时人": 1}}}}

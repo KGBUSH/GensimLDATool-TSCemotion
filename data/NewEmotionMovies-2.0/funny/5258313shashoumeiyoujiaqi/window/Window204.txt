@@ -1,0 +1,1 @@
+{"id":204,"startTime":4080.0,"endTime":4110.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"3213e710": {"detail": {"供养": 1, "自杀": 1}}, "caf68e45": {"detail": {"回去": 1, "不会": 1}}, "c5e8f6e6": {"detail": {"好听": 1}}, "b2c000bd": {"detail": {"冲浪板": 1, "那个": 1, "前面": 1, "233": 1}}, "f7a8d4c8": {"detail": {}}}}

@@ -1,0 +1,1 @@
+{"id":48,"startTime":960.0,"endTime":990.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"38638851": {"detail": {"便当": 1, "要来": 1}}, "9588b2af": {"detail": {"进去": 1, "没有": 1, "大衣": 1}}, "7e91f99a": {"detail": {"便当": 1}}}}

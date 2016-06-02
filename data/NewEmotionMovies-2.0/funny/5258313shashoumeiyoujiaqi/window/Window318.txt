@@ -1,0 +1,1 @@
+{"id":318,"startTime":6360.0,"endTime":6390.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"0268d9ce": {"detail": {"好看": 1}}, "c752e486": {"detail": {"天际": 1, "突破": 1, "进度条": 1}}, "d8d2efd7": {"detail": {"精彩": 1, "五分钟": 1}}}}

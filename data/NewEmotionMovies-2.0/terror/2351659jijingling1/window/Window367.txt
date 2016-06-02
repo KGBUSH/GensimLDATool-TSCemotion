@@ -1,0 +1,1 @@
+{"id":367,"startTime":7340.0,"endTime":7370.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"9b95c89a": {"detail": {"201613": 1, "留个": 1, "痕迹": 1}}, "66ae283a": {"detail": {"小伙伴": 1, "最后": 1, "抱紧": 1, "211": 1}}, "a7a7ccfb": {"detail": {"雾草": 1}}, "915e88c9": {"detail": {"没有": 1, "竟然": 1, "彩蛋": 1}}}}

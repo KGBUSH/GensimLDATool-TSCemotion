@@ -1,0 +1,1 @@
+{"id":143,"startTime":2860.0,"endTime":2890.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"952ffde6": {"detail": {"抓根宝": 1}}, "38598e8a": {"detail": {"好瘦": 1, "这会儿": 1}}, "a864f7bc": {"detail": {}}, "2f521afc": {"detail": {"太扯": 1, "犊子": 1}}, "8877758c": {"detail": {"大法": 1, "跑团": 1}}}}

@@ -1,0 +1,1 @@
+{"id":169,"startTime":3380.0,"endTime":3410.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"35044222": {"detail": {"你们": 1, "感动": 1}}, "327a4a12": {"detail": {"放开": 1, "咸猪": 1}}, "6c40c8de": {"detail": {"保护": 1, "为了": 1, "冰女": 1}}, "D0108ec2": {"detail": {"什么": 1, "感动": 1}}}}

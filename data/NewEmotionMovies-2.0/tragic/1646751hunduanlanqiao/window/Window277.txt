@@ -1,0 +1,1 @@
+{"id":277,"startTime":5540.0,"endTime":5570.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"afa3aecf": {"detail": {"一家人": 1}}, "648fefa7": {"detail": {"处女": 1, "一个个": 1}}, "10e8fcd2": {"detail": {}}, "40c7f90d": {"detail": {"女主": 1, "这番话": 1, "自卑": 1}}, "ef9fb19b": {"detail": {"不是": 1, "处不处": 1, "关键": 2}}}}

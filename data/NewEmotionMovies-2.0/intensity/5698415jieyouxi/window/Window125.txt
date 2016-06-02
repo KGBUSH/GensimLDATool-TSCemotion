@@ -1,0 +1,1 @@
+{"id":125,"startTime":2500.0,"endTime":2530.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"7a47d619": {"detail": {"腰力": 1}}, "D0108ec2": {"detail": {"一点": 1, "不沉": 1}}, "8c035795": {"detail": {"卧槽": 1}}}}

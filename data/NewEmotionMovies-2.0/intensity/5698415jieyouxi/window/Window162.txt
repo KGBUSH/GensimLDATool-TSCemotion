@@ -1,0 +1,1 @@
+{"id":162,"startTime":3240.0,"endTime":3270.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"6fa2d6eb": {"detail": {"一脸": 1}}, "a20439e5": {"detail": {"女主": 1, "觉得": 1}}, "81597553": {"detail": {"浑古": 1, "感觉": 1}}}}

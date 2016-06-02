@@ -1,0 +1,1 @@
+{"id":140,"startTime":2800.0,"endTime":2830.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"9048d776": {"detail": {"现在": 1}}, "22aa4e84": {"detail": {"一定": 1, "最后": 1, "对决": 1, "生死": 1}}, "5e41eb20": {"detail": {"别人": 4, "子弹": 1, "眼睛": 1, "女人": 1}}, "3c5320b5": {"detail": {"获得": 1, "子弹": 1}}}}

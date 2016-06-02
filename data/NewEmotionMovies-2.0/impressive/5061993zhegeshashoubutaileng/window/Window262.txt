@@ -1,0 +1,1 @@
+{"id":262,"startTime":5240.0,"endTime":5270.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"f834be80": {"detail": {"不好": 1, "预感": 1, "有种": 1}}, "cf714499": {"detail": {"怎么": 1, "女神": 1}}, "0016656b": {"detail": {"毛孩": 1}}, "7e250695": {"detail": {"这球": 1, "能进": 1}}}}

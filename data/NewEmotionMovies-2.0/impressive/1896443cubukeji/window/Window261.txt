@@ -1,0 +1,1 @@
+{"id":261,"startTime":5220.0,"endTime":5250.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D6332a87": {"detail": {"儿子": 1}}, "2708c279": {"detail": {"基佬": 1, "宣扬": 1}}, "185ae1ec": {"detail": {"小哥": 1, "那么": 1, "哪有": 1}}, "5095e8aa": {"detail": {"脸肿": 1}}, "D3df9e8a": {"detail": {"打脸": 1, "哈哈哈哈": 2}}}}

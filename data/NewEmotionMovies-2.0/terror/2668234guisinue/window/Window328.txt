@@ -1,0 +1,1 @@
+{"id":328,"startTime":6560.0,"endTime":6590.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"7d46a073": {"detail": {"胆子": 1, "果然": 1, "很小": 1}}}}

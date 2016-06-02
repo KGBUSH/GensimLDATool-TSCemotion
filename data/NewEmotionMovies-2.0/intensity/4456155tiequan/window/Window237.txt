@@ -1,0 +1,1 @@
+{"id":237,"startTime":4740.0,"endTime":4770.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"3dfce1aa": {"detail": {"专打": 1, "装逼": 1}}, "Db2305b4": {"detail": {"意思": 1, "白人": 1}}, "8df2f670": {"detail": {"拳击": 1, "刘德华": 1, "妻子": 1, "女儿": 1, "记得": 1, "演过": 1, "当年": 1, "类似": 1}}}}

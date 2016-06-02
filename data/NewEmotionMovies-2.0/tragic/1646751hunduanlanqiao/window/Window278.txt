@@ -1,0 +1,1 @@
+{"id":278,"startTime":5560.0,"endTime":5590.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"886b86c0": {"detail": {"压力": 1}}, "e45d07f2": {"detail": {"补刀": 1}}, "648fefa7": {"detail": {"大陆": 1}}, "10e8fcd2": {"detail": {}}, "40c7f90d": {"detail": {"女主": 1, "这番话": 1, "自卑": 1}}, "ef9fb19b": {"detail": {"不是": 1, "关键": 1, "就算": 1}}}}

@@ -1,0 +1,1 @@
+{"id":149,"startTime":2980.0,"endTime":3010.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"ca43f038": {"detail": {"好好": 1}}, "Dbc7c171": {"detail": {"有点": 1, "这歌": 1, "欢型": 1}}, "b4b60951": {"detail": {"NOW": 1, "CHECK": 1}}}}

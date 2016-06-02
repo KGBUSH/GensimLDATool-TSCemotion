@@ -1,0 +1,1 @@
+{"id":324,"startTime":6480.0,"endTime":6510.0,"userAlive":2,"numOfDanmaku":3,"averageLength":2,"userFeature":{"Dea80c11": {"detail": {"继续": 1, "第二部": 1, "结束": 1, "卡滴": 1}}, "3f809bf0": {"detail": {"喜欢": 1, "谍影": 1, "BGM": 1, "重重的": 1}}}}

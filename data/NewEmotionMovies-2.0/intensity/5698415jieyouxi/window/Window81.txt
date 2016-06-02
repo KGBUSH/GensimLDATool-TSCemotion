@@ -1,0 +1,1 @@
+{"id":81,"startTime":1620.0,"endTime":1650.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"665270b3": {"detail": {"女主好帅": 1}}, "a8a47c88": {"detail": {"重点": 1}}, "a0f7b249": {"detail": {"女主": 1, "23333": 1}}, "61e327ed": {"detail": {"开始": 1, "就帅": 1}}}}

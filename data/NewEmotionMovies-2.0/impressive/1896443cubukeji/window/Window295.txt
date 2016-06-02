@@ -1,0 +1,1 @@
+{"id":295,"startTime":5900.0,"endTime":5930.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"6c9f2389": {"detail": {"鼻影": 1, "深重": 1}}, "56f14a51": {"detail": {"品位": 1, "变得": 1}}, "0dd563da": {"detail": {"菲利普": 1, "改变": 1, "小黑": 1, "许多": 1}}}}

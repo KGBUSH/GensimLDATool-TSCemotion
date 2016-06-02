@@ -1,0 +1,1 @@
+{"id":186,"startTime":3720.0,"endTime":3750.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"db7a3d5d": {"detail": {"十岁": 1, "角度": 1, "这个": 1}}, "D099859e": {"detail": {"烈阳": 1, "钢铁": 1}}, "96bfc999": {"detail": {"by": 1, "her": 1, "loving": 1}}}}

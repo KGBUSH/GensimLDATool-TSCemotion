@@ -1,0 +1,1 @@
+{"id":53,"startTime":1060.0,"endTime":1090.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"Dbf0cd30": {"detail": {"不到": 1}}, "648fefa7": {"detail": {"柱子": 1, "看到": 1, "彩色": 1}}, "2fcd317c": {"detail": {"好好": 1, "好人家": 1, "嫁个": 1, "本来": 1}}, "b445887f": {"detail": {"old": 1, "bitch": 1}}, "136fd500": {"detail": {"漂亮": 1, "CN": 1, "机油": 1}}}}

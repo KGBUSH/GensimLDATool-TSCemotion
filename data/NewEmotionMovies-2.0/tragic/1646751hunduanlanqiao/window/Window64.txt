@@ -1,0 +1,1 @@
+{"id":64,"startTime":1280.0,"endTime":1310.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3,"userFeature":{"Dbf0cd30": {"detail": {"经验": 1, "数十年": 1, "泡妞": 1}}, "8a029be1": {"detail": {"乐观": 1, "男女": 1, "悲观": 1, "一个": 2, "不同": 1, "性格": 1}}, "fbd7ab12": {"detail": {"好像": 1, "丘吉尔": 1}}, "D1ea9619": {"detail": {"电影": 1, "一起": 1, "母上": 1}}, "D13e927f": {"detail": {"郎才女貌": 1}}}}

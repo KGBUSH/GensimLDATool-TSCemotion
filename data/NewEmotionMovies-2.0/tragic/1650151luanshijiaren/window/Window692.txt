@@ -1,0 +1,1 @@
+{"id":692,"startTime":13840.0,"endTime":13870.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"a8497f8a": {"detail": {"只有": 1}}, "bc0ee78d": {"detail": {"还有": 1}}, "2204cb95": {"detail": {"感触": 1, "好深": 1, "20150805": 1}}, "D3982b45": {"detail": {"一个": 1, "只有": 1, "每次": 1}}, "D4d83fdf": {"detail": {"小伙伴": 1}}, "Db0ac69a": {"detail": {"好看": 1}}}}

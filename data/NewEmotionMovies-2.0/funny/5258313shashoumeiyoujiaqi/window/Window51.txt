@@ -1,0 +1,1 @@
+{"id":51,"startTime":1020.0,"endTime":1050.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"5cdc57ba": {"detail": {"承包": 1, "我来": 1}}, "34452d1b": {"detail": {}}, "89c58961": {"detail": {"处于": 1, "状态": 1, "提示": 1, "弹幕": 1, "系统": 1, "开启": 1}}, "5293f355": {"detail": {"好看": 1, "戴眼镜": 1}}, "De72d9c1": {"detail": {"科科": 1}}}}

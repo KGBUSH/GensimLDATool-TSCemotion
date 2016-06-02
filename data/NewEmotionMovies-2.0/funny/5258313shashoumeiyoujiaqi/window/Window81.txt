@@ -1,0 +1,1 @@
+{"id":81,"startTime":1620.0,"endTime":1650.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"Da86af57": {"detail": {"热刺": 1}}, "26e088f2": {"detail": {"笑点": 1, "他俩": 1, "本身": 1, "就是": 1}}, "1e3491ad": {"detail": {"没有": 1, "笑点": 1}}, "49e5b25b": {"detail": {"上帝保佑": 1, "男主": 1, "美国": 1, "确实": 1}}, "Deb1ec1b": {"detail": {"hotspur": 1}}}}

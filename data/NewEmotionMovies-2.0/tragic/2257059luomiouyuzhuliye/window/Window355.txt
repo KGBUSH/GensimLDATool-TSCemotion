@@ -1,0 +1,1 @@
+{"id":355,"startTime":7100.0,"endTime":7130.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"Dc90ad47": {"detail": {"结束": 1}}}}

@@ -1,0 +1,1 @@
+{"id":363,"startTime":7260.0,"endTime":7290.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"b9e12679": {"detail": {"美兰": 1, "不是": 1, "圣母": 1, "心窍": 1}}, "993cff24": {"detail": {"这样": 1}}, "6e55ea7d": {"detail": {"结婚": 1}}}}

@@ -1,0 +1,1 @@
+{"id":241,"startTime":4820.0,"endTime":4850.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"1ecbf4c7": {"detail": {"什么": 1}}, "8aa1bb41": {"detail": {"not": 1, "im": 1, "fighting": 1, "anymorehoney": 1}}, "41f6ced2": {"detail": {"益达": 1}}}}

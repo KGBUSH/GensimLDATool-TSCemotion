@@ -1,0 +1,1 @@
+{"id":147,"startTime":2940.0,"endTime":2970.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"c3eb8d24": {"detail": {}}, "dbb726a2": {"detail": {"瘾君子": 1, "杀手": 1}}, "b10dcab9": {"detail": {"哈哈哈": 1}}}}

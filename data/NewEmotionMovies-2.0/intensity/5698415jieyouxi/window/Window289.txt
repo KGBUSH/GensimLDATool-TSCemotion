@@ -1,0 +1,1 @@
+{"id":289,"startTime":5780.0,"endTime":5810.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"ccaf86e4": {"detail": {"以为": 1, "地雷": 1, "要射": 1}}, "10bca6f0": {"detail": {"牛头人": 1}}, "273a891d": {"detail": {"美如画": 1}}}}

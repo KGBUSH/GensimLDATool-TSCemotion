@@ -1,0 +1,1 @@
+{"id":132,"startTime":2640.0,"endTime":2670.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"Dbf0cd30": {"detail": {"什么": 1, "法律": 1}}, "D7aa8d3c": {"detail": {"神经病": 1, "法律": 1}}}}

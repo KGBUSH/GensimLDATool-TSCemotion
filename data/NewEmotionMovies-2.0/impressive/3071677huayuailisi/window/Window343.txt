@@ -1,0 +1,1 @@
+{"id":343,"startTime":6860.0,"endTime":6890.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"080ba23a": {"detail": {"爱丽丝": 1}}, "220b122e": {"detail": {"还有": 1, "观众": 1}}, "9de6ecbf": {"detail": {"空气": 1, "刘海": 1}}, "737676e2": {"detail": {"意义": 1, "一段": 1}}, "Dddcdcb7": {"detail": {"遮到": 1, "刘海": 1, "眼睛": 1}}, "9b30fd1b": {"detail": {"2333333333": 1}}}}

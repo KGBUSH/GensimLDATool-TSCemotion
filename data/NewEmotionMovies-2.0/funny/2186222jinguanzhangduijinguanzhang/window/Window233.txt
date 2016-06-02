@@ -1,0 +1,1 @@
+{"id":233,"startTime":4660.0,"endTime":4690.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"70a09e45": {"detail": {"wow": 1}}, "bdb0411e": {"detail": {"2002": 1, "世界杯": 1}}}}

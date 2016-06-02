@@ -1,0 +1,1 @@
+{"id":190,"startTime":3800.0,"endTime":3830.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"b0c17058": {"detail": {"23333333": 1}}, "c665e261": {"detail": {"一点": 1, "打起": 1, "丈来": 1, "浪漫": 1}}}}

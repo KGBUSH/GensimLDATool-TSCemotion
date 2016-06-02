@@ -1,0 +1,1 @@
+{"id":179,"startTime":3580.0,"endTime":3610.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2,"userFeature":{"8182df87": {"detail": {"跆拳道": 1, "其实": 1, "就是": 1, "馆长": 1}}, "f1534e8e": {"detail": {"一个": 2, "单眼皮": 1, "双眼皮": 1}}, "a5bd2ca0": {"detail": {"洪吉童": 1, "故事": 1}}, "12e43351": {"detail": {"大叔": 1}}, "41a4455b": {"detail": {"贞德": 1}}, "Da169434": {"detail": {"sakura": 1}}}}

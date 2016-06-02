@@ -1,0 +1,1 @@
+{"id":307,"startTime":6140.0,"endTime":6170.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3,"userFeature":{"3ede2535": {"detail": {"少年": 1}}, "c32decba": {"detail": {"一回": 1, "男主": 1, "男人": 1, "前方": 1}}, "39321d9c": {"detail": {"前方": 1, "男主": 1, "好评": 1}}, "8208d211": {"detail": {"学习": 1, "好好学习": 1, "本来": 1, "不错": 1}}, "Dd3aeda6": {"detail": {"登场": 1, "估计": 1, "女一": 1}}}}

@@ -1,0 +1,1 @@
+{"id":351,"startTime":7020.0,"endTime":7050.0,"userAlive":1,"numOfDanmaku":2,"averageLength":4,"userFeature":{"6575d733": {"detail": {"嗷嗷": 4, "而且": 1, "神曲": 1, "版本": 1, "一个": 1, "不是": 1, "专辑": 1, "电影片": 1}}}}

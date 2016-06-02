@@ -1,0 +1,1 @@
+{"id":109,"startTime":2180.0,"endTime":2210.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"6d668d38": {"detail": {"德普": 1, "波特曼": 1, "女神": 1, "男神": 1}}, "41b9436c": {"detail": {"守卫": 1}}, "c242b1ec": {"detail": {"我要": 1, "结婚": 1, "士兵": 1}}, "Db320ef1": {"detail": {"哈哈": 1}}, "afa3aecf": {"detail": {"男主": 1, "身份": 1}}, "648fefa7": {"detail": {"结婚": 1}}}}

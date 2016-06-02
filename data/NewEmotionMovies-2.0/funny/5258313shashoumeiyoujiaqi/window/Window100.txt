@@ -1,0 +1,1 @@
+{"id":100,"startTime":2000.0,"endTime":2030.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"7ccbf6b9": {"detail": {}}, "6821f7d3": {"detail": {"权力": 1, "小玫瑰": 1, "游戏": 1, "班底": 1}}, "f7a8d4c8": {"detail": {"地域": 1, "老外": 1}}, "9048d776": {"detail": {"脸盲": 1}}}}

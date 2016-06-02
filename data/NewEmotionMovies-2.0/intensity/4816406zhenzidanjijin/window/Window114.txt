@@ -1,0 +1,1 @@
+{"id":114,"startTime":2280.0,"endTime":2310.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"445ecd2c": {"detail": {"虎鹤": 1, "双形": 1}}, "ad4b4882": {"detail": {"手里剑": 1}}, "f22d9b1d": {"detail": {"铁马": 1}}, "e6ed16d1": {"detail": {"老子": 1, "黄飞鸿": 1, "这是": 1}}, "Dd89719f": {"detail": {"杜根": 1}}, "Df75cf4c": {"detail": {"10": 1, "这段": 1}}}}

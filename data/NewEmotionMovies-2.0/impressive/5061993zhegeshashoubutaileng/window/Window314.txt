@@ -1,0 +1,1 @@
+{"id":314,"startTime":6280.0,"endTime":6310.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"fbce876e": {"detail": {"一个": 1, "声音": 1, "只有": 1}}, "e4a42e0e": {"detail": {"18": 1, "12": 1, "hhhhh": 1}}, "768354fa": {"detail": {"来作": 1}}, "e3ceec89": {"detail": {"等等": 1, "声音": 1, "前面": 1}}}}

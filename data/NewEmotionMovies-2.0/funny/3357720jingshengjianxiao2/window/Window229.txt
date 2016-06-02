@@ -1,0 +1,1 @@
+{"id":229,"startTime":4580.0,"endTime":4610.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"3fad3347": {"detail": {"彩蛋": 1}}, "D07dbbb4": {"detail": {"201636": 1}}, "04b0b47e": {"detail": {"红红火火": 1, "恍恍惚惚": 1}}, "f96e1822": {"detail": {"主题曲": 1}}, "afc4830e": {"detail": {"彩蛋": 1, "红字别": 1, "要说": 1, "前面": 1}}, "D0114f61": {"detail": {"好听": 1, "歌挺": 1}}}}

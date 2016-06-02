@@ -1,0 +1,1 @@
+{"id":228,"startTime":4560.0,"endTime":4590.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"7ffd5658": {"detail": {}}, "4e4aebfc": {"detail": {"真爱": 1}}, "e1a356b8": {"detail": {"奈斯": 1}}, "Dd3aeda6": {"detail": {"可怜": 1, "其他": 1, "感觉": 1, "没有": 1, "选角": 1, "扮演": 1, "选得": 1}}, "3a4daa6c": {"detail": {"不是": 1}}}}

@@ -1,0 +1,1 @@
+{"id":119,"startTime":2380.0,"endTime":2410.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D6e1da26": {"detail": {"看臉": 1, "時代": 1}}, "3c54c4f9": {"detail": {"高富帅": 1, "男主": 1}}, "aa7727b2": {"detail": {"嘟嘟": 2}}, "4ab08c1a": {"detail": {"diudiudiudiudiudiu": 1}}, "84fd7cc6": {"detail": {"请假": 1, "好像": 1, "辅导员": 1}}}}

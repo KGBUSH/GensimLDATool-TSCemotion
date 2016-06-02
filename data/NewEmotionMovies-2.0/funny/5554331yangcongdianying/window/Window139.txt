@@ -1,0 +1,1 @@
+{"id":139,"startTime":2780.0,"endTime":2810.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"4d7923ab": {"detail": {"字幕": 1, "乱入": 1, "一直": 1, "为啥": 1, "德语": 1, "哈哈哈": 1}}, "2ae24a0a": {"detail": {"德语": 1, "还有": 1, "字幕": 1}}, "5e312bf6": {"detail": {"真是": 1, "正面": 1, "细节": 1, "全是": 2, "心机": 1}}}}

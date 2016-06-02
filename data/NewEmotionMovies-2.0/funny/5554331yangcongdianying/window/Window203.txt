@@ -1,0 +1,1 @@
+{"id":203,"startTime":4060.0,"endTime":4090.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"e6b56dac": {"detail": {}}, "af7b69ec": {"detail": {"结局": 1}}, "59170ffc": {"detail": {"23333333333333": 1}}, "06349b7b": {"detail": {"外交": 1, "外交活动": 1, "这次": 1, "大麻": 1, "成功": 1, "后世": 1}}, "D9f3ba6f": {"detail": {"垮掉": 1, "一代": 1}}}}

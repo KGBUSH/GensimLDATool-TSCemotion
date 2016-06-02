@@ -1,0 +1,1 @@
+{"id":78,"startTime":1560.0,"endTime":1590.0,"userAlive":6,"numOfDanmaku":8,"averageLength":1,"userFeature":{"a7337263": {"detail": {"女主好": 1}}, "D3c9221a": {"detail": {"杭州": 1, "有没有": 1}}, "Df8e198d": {"detail": {"全劇終": 1}}, "afa3aecf": {"detail": {"你们": 1, "233": 1}}, "648fefa7": {"detail": {"粗来": 1, "好美": 1, "喜欢": 1, "全剧": 1, "这样": 1}}, "6dd662bd": {"detail": {"全剧": 1}}}}

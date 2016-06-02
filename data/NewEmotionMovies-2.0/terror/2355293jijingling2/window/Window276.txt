@@ -1,0 +1,1 @@
+{"id":276,"startTime":5520.0,"endTime":5550.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"a2b1ed41": {"detail": {}}, "88c67173": {"detail": {"没有": 1, "这里": 1}}, "2ecee29d": {"detail": {"没玩过": 1, "肯定": 1, "暴雨": 1, "警察": 1}}}}

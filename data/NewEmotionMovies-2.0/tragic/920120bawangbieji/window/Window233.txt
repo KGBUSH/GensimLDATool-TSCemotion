@@ -1,0 +1,1 @@
+{"id":233,"startTime":4660.0,"endTime":4690.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"c42a2329": {"detail": {"还有": 1, "替身": 1, "张国荣": 1, "相当": 1, "私下": 1, "一段": 1, "敬业": 1, "并非": 1}}, "2752a3e7": {"detail": {"老话": 1, "人开": 1}}, "e448f9a7": {"detail": {}}, "f864d728": {"detail": {"哥哥": 1, "不要": 1}}, "e17839b6": {"detail": {"真美": 1}}}}

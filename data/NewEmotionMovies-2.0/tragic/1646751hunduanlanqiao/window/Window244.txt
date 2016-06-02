@@ -1,0 +1,1 @@
+{"id":244,"startTime":4880.0,"endTime":4910.0,"userAlive":1,"numOfDanmaku":1,"averageLength":6,"userFeature":{"fa3132d6": {"detail": {"但是": 1, "可以": 1, "不是": 1, "欺骗": 1, "接受": 2, "处女": 1}}}}

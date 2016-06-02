@@ -1,0 +1,1 @@
+{"id":151,"startTime":3020.0,"endTime":3050.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"e19c8b12": {"detail": {"What": 1, "shit": 1}}, "3c54c4f9": {"detail": {"花完": 1}}, "f8e09757": {"detail": {"女主": 1, "好好": 1, "真的": 1, "身材": 1}}, "e45d07f2": {"detail": {"太惨": 1}}, "f3cd7349": {"detail": {"老天": 1, "工作": 1, "爱情": 1, "严厉": 1, "嬷嬷": 1}}}}

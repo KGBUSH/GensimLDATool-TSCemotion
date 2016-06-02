@@ -1,0 +1,1 @@
+{"id":172,"startTime":3440.0,"endTime":3470.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"648fefa7": {"detail": {"没钱": 1, "日子": 1}}, "ae60e953": {"detail": {"看到": 1}}, "e45d07f2": {"detail": {"悲观主义": 1, "女主说": 1, "理想主义": 1, "事情": 2}}, "6df41227": {"detail": {"开始": 1, "悲剧": 1}}}}

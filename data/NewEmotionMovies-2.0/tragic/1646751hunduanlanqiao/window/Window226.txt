@@ -1,0 +1,1 @@
+{"id":226,"startTime":4520.0,"endTime":4550.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"69a31f91": {"detail": {"姿势": 1, "物是人非": 1, "真的": 1, "壁咚": 1, "一样": 1}}, "Dd626e24": {"detail": {"费雯丽": 1}}, "648fefa7": {"detail": {"女主": 1, "自己": 1}}, "D99c2b6d": {"detail": {"壁咚": 1}}, "7442869a": {"detail": {}}}}

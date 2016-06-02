@@ -1,0 +1,1 @@
+{"id":165,"startTime":3300.0,"endTime":3330.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"afa3aecf": {"detail": {"写信": 1, "真的": 1, "借点": 1}}, "e45d07f2": {"detail": {"东西": 1, "2333": 1, "凯蒂": 1}}, "c242b1ec": {"detail": {"哈哈": 1}}}}

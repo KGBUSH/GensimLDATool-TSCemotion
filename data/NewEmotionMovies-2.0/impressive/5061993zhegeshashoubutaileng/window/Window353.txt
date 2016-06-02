@@ -1,0 +1,1 @@
+{"id":353,"startTime":7060.0,"endTime":7090.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"01d785ad": {"detail": {"不要": 1, "啊啊啊": 1}}, "D504dc31": {"detail": {"爆炸": 1}}}}

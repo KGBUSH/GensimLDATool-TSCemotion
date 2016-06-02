@@ -1,0 +1,1 @@
+{"id":159,"startTime":3180.0,"endTime":3210.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"25210ab0": {"detail": {}}, "de873caf": {"detail": {"可怕": 1, "也好": 1, "紧张": 1, "卧槽": 1, "一起": 1}}, "561fb99b": {"detail": {"怎么": 1, "俄克拉荷马": 1, "大河": 1, "第二次": 1, "已经": 1, "你们": 1}}}}

@@ -1,0 +1,1 @@
+{"id":257,"startTime":5140.0,"endTime":5170.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3,"userFeature":{"e19c8b12": {"detail": {"怎么": 1, "进度条": 1, "还有": 1, "20": 1, "分钟": 1}}, "13021666": {"detail": {"剧终": 1}}, "2fcd317c": {"detail": {"费雯丽": 1, "好俏": 1}}, "D5e97e8b": {"detail": {"女主": 1, "这个": 1, "什么": 1, "遇不到": 1, "男人": 1, "长成": 1}}, "7f435648": {"detail": {"flag": 1}}}}

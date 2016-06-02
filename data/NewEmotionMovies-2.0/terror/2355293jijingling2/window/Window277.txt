@@ -1,0 +1,1 @@
+{"id":277,"startTime":5540.0,"endTime":5570.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"a2b1ed41": {"detail": {}}, "6c9cb0be": {"detail": {"哥们": 1, "彩蛋": 1, "别跑": 1}}, "2ecee29d": {"detail": {"没玩过": 1, "肯定": 1, "暴雨": 1, "警察": 1}}, "d048bbbd": {"detail": {"彩蛋": 1}}, "ee300684": {"detail": {"一个": 1, "不是": 1, "等待": 1, "彩蛋": 1, "告诉": 1}}}}

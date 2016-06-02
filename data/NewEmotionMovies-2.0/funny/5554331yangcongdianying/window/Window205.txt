@@ -1,0 +1,1 @@
+{"id":205,"startTime":4100.0,"endTime":4130.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"cfed8596": {"detail": {"起来": 1}}, "50556c6f": {"detail": {"西服": 1, "俄语": 1}}, "D588a085": {"detail": {"开打": 1}}, "af7b69ec": {"detail": {"Hhhh": 1, "打仗": 1}}, "070ed92f": {"detail": {"凯斯": 1}}, "266b58a8": {"detail": {"江湖": 1, "地方": 1, "有人": 1}}}}

@@ -1,0 +1,1 @@
+{"id":286,"startTime":5720.0,"endTime":5750.0,"userAlive":7,"numOfDanmaku":7,"averageLength":1,"userFeature":{"3a03d5e0": {"detail": {"无聊": 1}}, "D3caa1fb": {"detail": {}}, "f1aa05df": {"detail": {"園丁長": 1}}, "D051945d": {"detail": {"开始": 1, "想念": 1, "小黑": 1}}, "876f45b1": {"detail": {"真的": 1}}, "154aa0d6": {"detail": {"园丁": 1}}, "aae66abe": {"detail": {"无趣": 1}}}}

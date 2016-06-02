@@ -1,0 +1,1 @@
+{"id":252,"startTime":5040.0,"endTime":5070.0,"userAlive":5,"numOfDanmaku":7,"averageLength":0,"userFeature":{"2ef03f6c": {"detail": {"好像": 1, "冯德伦": 1}}, "2f26c641": {"detail": {"23333333": 1}}, "c89ec4f7": {"detail": {}}, "De6c2bdb": {"detail": {"蛋疼": 1}}, "D51598fe": {"detail": {"呼噜": 1, "2333333333": 1}}}}

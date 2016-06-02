@@ -1,0 +1,1 @@
+{"id":283,"startTime":5660.0,"endTime":5690.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"2f90e841": {"detail": {}}, "D6f09214": {"detail": {"心有余悸": 1}}, "60b13ddc": {"detail": {"最先": 1, "接触": 1, "杰西": 1}}}}

@@ -1,0 +1,1 @@
+{"id":57,"startTime":1140.0,"endTime":1170.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"9347c804": {"detail": {"弟弟": 1, "起来": 1, "我家": 1, "好好": 1, "照顾": 1, "我会": 1, "你们": 1}}, "Daddb289": {"detail": {"内裤": 1, "外穿": 1}}, "56c6e21b": {"detail": {"She": 1, "dead": 1}}, "6f6f0ecc": {"detail": {"凸起": 1}}}}

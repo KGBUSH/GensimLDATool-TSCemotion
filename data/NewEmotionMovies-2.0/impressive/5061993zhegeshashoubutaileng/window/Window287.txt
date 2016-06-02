@@ -1,0 +1,1 @@
+{"id":287,"startTime":5740.0,"endTime":5770.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"cd644856": {"detail": {"233333333": 1}}, "276c288a": {"detail": {"哈哈哈": 1}}, "4ea7d9c0": {"detail": {"果然": 1, "萝莉控": 1}}, "bf81c608": {"detail": {"blood": 1, "老兄": 1}}, "68ede119": {"detail": {"一定": 1, "样子": 1, "借钱": 1, "借到": 1}}}}

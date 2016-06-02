@@ -1,0 +1,1 @@
+{"id":167,"startTime":3340.0,"endTime":3370.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"e6d18199": {"detail": {"准备": 1, "日出": 1}}, "D51724d6": {"detail": {"18": 1}}, "e3c583d1": {"detail": {"杀手": 1, "知道": 1, "直觉": 1}}, "8ccc0f73": {"detail": {"明天": 1, "还要": 1, "快睡吧": 1, "上班": 1}}, "D87106c1": {"detail": {"好看": 1}}, "03fa0119": {"detail": {}}}}

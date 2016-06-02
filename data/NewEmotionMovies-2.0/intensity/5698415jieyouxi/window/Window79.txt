@@ -1,0 +1,1 @@
+{"id":79,"startTime":1580.0,"endTime":1610.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"ac04fddd": {"detail": {"乔伊一": 1, "瞬间": 1, "跳戏": 1, "听到": 1, "joy": 1, "奋斗": 1}}, "1d816ee6": {"detail": {"愿意": 1, "为什么": 1, "女主": 1, "告诉": 2}}, "e025dc2b": {"detail": {"怎么": 1, "说话": 1, "啊啊啊": 1}}}}

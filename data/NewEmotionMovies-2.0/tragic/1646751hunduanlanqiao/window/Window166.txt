@@ -1,0 +1,1 @@
+{"id":166,"startTime":3320.0,"endTime":3350.0,"userAlive":3,"numOfDanmaku":4,"averageLength":1,"userFeature":{"36aca4c9": {"detail": {"卖花": 1, "不切实际": 1, "女主太": 1}}, "e45d07f2": {"detail": {"当然": 1}}, "c242b1ec": {"detail": {"哈哈": 1}}}}

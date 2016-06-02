@@ -1,0 +1,1 @@
+{"id":159,"startTime":3180.0,"endTime":3210.0,"userAlive":1,"numOfDanmaku":1,"averageLength":5,"userFeature":{"6d9e6e6f": {"detail": {"恶魔": 1, "开始": 1, "这会": 1, "看着": 1, "觉得": 1}}}}

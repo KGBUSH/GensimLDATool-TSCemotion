@@ -1,0 +1,1 @@
+{"id":113,"startTime":2260.0,"endTime":2290.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"c085c94c": {"detail": {"连连看": 1, "233333": 1}}, "7cb8e432": {"detail": {"女主超": 1, "孤儿": 1}}, "747a15a2": {"detail": {"最强": 1, "可以": 1, "参加": 1, "大脑": 1}}}}

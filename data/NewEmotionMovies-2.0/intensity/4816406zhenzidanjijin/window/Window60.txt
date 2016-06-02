@@ -1,0 +1,1 @@
+{"id":60,"startTime":1200.0,"endTime":1230.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"36397f78": {"detail": {"静静": 1, "说话": 1, "boss": 1}}, "b244bc9d": {"detail": {"一波兵": 1, "蒙多清": 1, "一样": 1}}, "3e20461d": {"detail": {"卧槽": 1, "镰刀": 1, "摆设": 1}}, "1713390f": {"detail": {"爱看": 1, "强迫": 1}}, "fb5c99cd": {"detail": {"体力": 1, "碉堡": 1, "无限": 1}}}}

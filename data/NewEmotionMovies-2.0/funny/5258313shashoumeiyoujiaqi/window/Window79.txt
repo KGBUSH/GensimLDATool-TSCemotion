@@ -1,0 +1,1 @@
+{"id":79,"startTime":1580.0,"endTime":1610.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"6c4c4aa9": {"detail": {"美人": 1, "这片": 1}}, "ebf5597e": {"detail": {"同步": 1, "你们": 1, "有人": 1}}, "b77f5810": {"detail": {"上帝": 1, "起来": 1, "美国": 1, "不是": 1, "男主": 1, "拯救": 1}}}}

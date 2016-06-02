@@ -1,0 +1,1 @@
+{"id":474,"startTime":9480.0,"endTime":9510.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"7669cdca": {"detail": {"屋子": 1, "影帝": 1, "影后": 1}}, "6884480a": {"detail": {"机智": 1}}, "D9d7044f": {"detail": {}}, "90032f7f": {"detail": {"简直": 1, "梅兰": 1, "机智": 1}}, "9686550d": {"detail": {"鸡汁": 1, "美兰": 1}}, "a1d48d72": {"detail": {}}}}

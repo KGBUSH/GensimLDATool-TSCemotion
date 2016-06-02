@@ -1,0 +1,1 @@
+{"id":110,"startTime":2200.0,"endTime":2230.0,"userAlive":4,"numOfDanmaku":6,"averageLength":2,"userFeature":{"648fefa7": {"detail": {"结婚": 1}}, "287cbbe2": {"detail": {"对方": 1, "名字": 1, "真的": 1, "疯狂": 1, "知道": 1, "双方": 1}}, "c242b1ec": {"detail": {"哈哈": 1}}, "Db320ef1": {"detail": {"这么": 1, "费雯丽": 1, "看到": 1, "好虐": 1, "哈哈": 1, "前面": 1, "后面": 1, "甜蜜": 1, "一生": 1}}}}

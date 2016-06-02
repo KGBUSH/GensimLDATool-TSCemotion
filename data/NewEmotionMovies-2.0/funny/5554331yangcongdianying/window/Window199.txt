@@ -1,0 +1,1 @@
+{"id":199,"startTime":3980.0,"endTime":4010.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"d2031868": {"detail": {"浓浓的": 1, "屌丝": 1, "气息": 1}}, "cea070db": {"detail": {"一个": 1, "真的": 1, "233333": 1, "房间": 1, "领导人": 1}}, "6eaef838": {"detail": {"666": 1, "嬉皮士": 1}}, "D588a085": {"detail": {}}, "06349b7b": {"detail": {"口音": 1}}}}

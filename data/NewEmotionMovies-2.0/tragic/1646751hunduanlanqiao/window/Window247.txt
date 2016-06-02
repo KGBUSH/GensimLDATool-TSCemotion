@@ -1,0 +1,1 @@
+{"id":247,"startTime":4940.0,"endTime":4970.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"Db0cc64f": {"detail": {"认出": 1, "晚上": 1, "不会": 1}}, "dcd62cce": {"detail": {"顾客": 1, "怎么办": 1, "邻居": 1, "万一": 1}}, "4209cd00": {"detail": {"悲剧": 2}}}}

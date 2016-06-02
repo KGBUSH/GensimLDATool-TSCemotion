@@ -1,0 +1,1 @@
+{"id":135,"startTime":2700.0,"endTime":2730.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"10202649": {"detail": {"弹幕": 1, "好少": 1}}, "d11375ce": {"detail": {"大人": 1, "小孩": 1, "区别": 1}}, "19e907de": {"detail": {"韩国": 1, "还是": 1, "郝艳吉好": 1, "编剧": 1, "认识": 1, "演技": 1}}, "4ab40e44": {"detail": {"中国": 1, "功夫": 1}}, "4468ecab": {"detail": {}}}}

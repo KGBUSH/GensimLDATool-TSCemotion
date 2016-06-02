@@ -1,0 +1,1 @@
+{"id":52,"startTime":1040.0,"endTime":1070.0,"userAlive":7,"numOfDanmaku":7,"averageLength":1,"userFeature":{"7afaa1a2": {"detail": {"我忍": 1}}, "34452d1b": {"detail": {}}, "5293f355": {"detail": {"好看": 1, "戴眼镜": 1}}, "5cdc57ba": {"detail": {"承包": 1, "我来": 1}}, "29064dae": {"detail": {"好手": 1}}, "5849e034": {"detail": {"憋死": 1}}, "17bba187": {"detail": {"这个": 1, "隐形眼镜": 1}}}}

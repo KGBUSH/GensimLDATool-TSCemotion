@@ -1,0 +1,1 @@
+{"id":377,"startTime":7540.0,"endTime":7570.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"e503e19a": {"detail": {"这个": 1, "然后": 1, "故事": 1}}, "b1f2c747": {"detail": {"紫衣": 1, "那个": 1, "里面": 1, "这是": 1, "图书馆": 1, "妹子": 1, "披风": 1, "眼罩": 1}}, "D0ec35cf": {"detail": {"不能": 1}}, "4ea7d9c0": {"detail": {"看穿": 1, "一切": 1, "校长": 1}}}}

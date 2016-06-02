@@ -1,0 +1,1 @@
+{"id":257,"startTime":5140.0,"endTime":5170.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"D4d8c453": {"detail": {"悲伤": 1}}, "D1e1f5c0": {"detail": {"已经": 1}}, "068d5afd": {"detail": {"奶妈": 1, "hhhhh": 1}}, "9f64f866": {"detail": {"放逐": 1, "死刑": 1, "等于": 1}}}}

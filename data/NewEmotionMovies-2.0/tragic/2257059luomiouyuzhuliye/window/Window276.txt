@@ -1,0 +1,1 @@
+{"id":276,"startTime":5520.0,"endTime":5550.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D1e1f5c0": {"detail": {"罗密欧": 1}}, "Da612766": {"detail": {"同问": 1}}, "0e173922": {"detail": {"送信": 1, "颜值": 1, "小哥": 1, "平凡": 1}}, "fff75ba5": {"detail": {}}, "Dc6384eb": {"detail": {"逼婚": 1, "你们": 1}}}}

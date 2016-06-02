@@ -1,0 +1,1 @@
+{"id":297,"startTime":5940.0,"endTime":5970.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"c1181c11": {"detail": {}}, "bf5cc797": {"detail": {"十个": 1, "还是": 1}}, "9a5a0c74": {"detail": {"背后": 1, "砍成": 1, "这样": 1}}, "bd540388": {"detail": {"斧头帮": 1, "打过": 1, "你们": 1, "菜刀": 1}}, "Dc2dbd22": {"detail": {"看塔": 1}}}}

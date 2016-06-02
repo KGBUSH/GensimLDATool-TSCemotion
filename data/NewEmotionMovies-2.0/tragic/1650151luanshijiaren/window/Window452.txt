@@ -1,0 +1,1 @@
+{"id":452,"startTime":9040.0,"endTime":9070.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"dcd62cce": {"detail": {"150216": 1, "看到": 1, "一直": 1, "0217": 1, "小伙伴": 1}}, "D2f42bc4": {"detail": {}}, "Dceb573f": {"detail": {"很多": 1, "斯嘉丽": 1, "事书里": 1, "伤天害理": 1, "其实": 1}}, "Dffdae13": {"detail": {"表吓": 1}}, "84af0129": {"detail": {"喜欢": 1, "黑化": 1}}}}

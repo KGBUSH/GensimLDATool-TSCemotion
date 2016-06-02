@@ -1,0 +1,1 @@
+{"id":334,"startTime":6680.0,"endTime":6710.0,"userAlive":2,"numOfDanmaku":2,"averageLength":0,"userFeature":{"c9d36f85": {"detail": {}}, "b89ada53": {"detail": {"存活": 1}}}}

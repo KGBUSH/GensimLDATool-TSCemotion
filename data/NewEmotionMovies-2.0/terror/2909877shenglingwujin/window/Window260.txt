@@ -1,0 +1,1 @@
+{"id":260,"startTime":5200.0,"endTime":5230.0,"userAlive":1,"numOfDanmaku":1,"averageLength":4,"userFeature":{"D5c98a78": {"detail": {"推荐": 1, "没求": 1, "恐怖": 1, "心理": 1}}}}

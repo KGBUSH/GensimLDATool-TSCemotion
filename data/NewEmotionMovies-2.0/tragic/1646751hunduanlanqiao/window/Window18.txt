@@ -1,0 +1,1 @@
+{"id":18,"startTime":360.0,"endTime":390.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"185142d6": {"detail": {"FLAG": 1}}, "6adc0176": {"detail": {"为什么": 1}}, "c016d0e2": {"detail": {"怎么": 1, "不用": 1, "你们": 1}}, "afa3aecf": {"detail": {"吓傻": 1, "妹子": 1, "233": 1}}, "648fefa7": {"detail": {"好险": 1}}, "D00aa386": {"detail": {"女神": 1}}}}

@@ -1,0 +1,1 @@
+{"id":80,"startTime":1600.0,"endTime":1630.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D3c9221a": {"detail": {"特别": 1, "赫本": 1}}, "4ce1f34b": {"detail": {"龙虾": 1}}, "D751cd76": {"detail": {"没有": 1, "苗条": 1, "赫本": 1}}, "1d5b2e4a": {"detail": {"弹幕": 1, "好少": 1}}, "Dd7c88a7": {"detail": {"女主好": 1, "苗条": 1}}}}

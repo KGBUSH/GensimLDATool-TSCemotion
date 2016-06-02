@@ -1,0 +1,1 @@
+{"id":162,"startTime":3240.0,"endTime":3270.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"c3086914": {"detail": {"2333333333": 1}}, "79ff56e1": {"detail": {"八字眉": 1, "第一": 1, "手刀速": 1}}, "c0d899e3": {"detail": {"真是": 1, "23333": 1}}, "c8859fb9": {"detail": {"断掌": 1, "这货": 1}}, "D34e2913": {"detail": {"23333": 1}}, "Dc06b113": {"detail": {"看不懂": 1, "完全": 1}}}}

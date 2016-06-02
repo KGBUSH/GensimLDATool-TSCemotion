@@ -1,0 +1,1 @@
+{"id":276,"startTime":5520.0,"endTime":5550.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"92e629e5": {"detail": {"无言以对": 1}}, "70e47ca1": {"detail": {"65": 1}}, "815c34dc": {"detail": {"今天": 1, "委屈": 1}}}}

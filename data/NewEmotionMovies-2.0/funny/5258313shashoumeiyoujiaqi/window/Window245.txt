@@ -1,0 +1,1 @@
+{"id":245,"startTime":4900.0,"endTime":4930.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"d0f2a508": {"detail": {"有点": 1, "伏地": 1}}, "db8e6e54": {"detail": {"阿瓦": 1, "达喀达瓦": 1}}, "3e3ab042": {"detail": {"阿瓦": 1, "达索": 1}}, "ec9dd758": {"detail": {"胖子": 1, "真是": 1, "朋友": 1}}}}

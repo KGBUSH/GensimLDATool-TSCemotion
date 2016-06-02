@@ -1,0 +1,1 @@
+{"id":278,"startTime":5560.0,"endTime":5590.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"ff306d3c": {"detail": {"孕妇": 1}}, "Dcc32548": {"detail": {"下雪": 1}}, "385dffbe": {"detail": {"迷路": 1, "哈哈哈哈": 1}}, "f92c2d74": {"detail": {"下雪": 1}}}}

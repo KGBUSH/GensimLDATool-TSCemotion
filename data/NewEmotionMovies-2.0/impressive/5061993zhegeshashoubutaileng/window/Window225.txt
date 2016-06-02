@@ -1,0 +1,1 @@
+{"id":225,"startTime":4500.0,"endTime":4530.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"678298fd": {"detail": {"俩个": 1, "花苞": 1}}, "Dfc80c46": {"detail": {"怎么": 1, "声音": 1}}}}

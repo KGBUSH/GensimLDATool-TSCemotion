@@ -1,0 +1,1 @@
+{"id":263,"startTime":5260.0,"endTime":5290.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"1078551b": {"detail": {"家有": 1, "千金": 1, "行止": 1, "由心": 1}}, "0016656b": {"detail": {"毛孩": 1}}, "4ea7d9c0": {"detail": {"注定": 1, "单身": 1}}}}

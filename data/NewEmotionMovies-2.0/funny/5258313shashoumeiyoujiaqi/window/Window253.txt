@@ -1,0 +1,1 @@
+{"id":253,"startTime":5060.0,"endTime":5090.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"4c0deb8d": {"detail": {"23333": 1}}, "576d5ddf": {"detail": {"瘪三": 1}}, "d0f2a508": {"detail": {"还要": 1, "233333333333": 1, "下来": 1}}, "4d5f0d25": {"detail": {"幽默": 1, "确实": 1}}, "56583189": {"detail": {"下楼": 1, "哈哈": 1, "哈哈哈": 1, "还要": 1, "自己": 1, "好惨": 1}}}}

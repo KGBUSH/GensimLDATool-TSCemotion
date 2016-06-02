@@ -1,0 +1,1 @@
+{"id":140,"startTime":2800.0,"endTime":2830.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"Dc0a6f80": {"detail": {"夫人": 1, "反对": 1}}, "9248db35": {"detail": {"尴尬": 1, "结成": 1}}, "cd385d02": {"detail": {"没有": 1, "结婚": 1, "他们": 1}}}}
