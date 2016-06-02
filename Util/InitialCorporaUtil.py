@@ -65,7 +65,7 @@ class InitialCorporaUtil(object):
         self._total_emoword = 0  # 在emotion词典里面出现过得数量，也算上重复
 
         # 载入情感词典
-        dictfolder = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\\CECps_Dictionary'
+        dictfolder = GLOBAL_dictFolder
         self._Emodictionary = ExtractUtil.ExtractEmotionalwordsUtil(dictFolder=dictfolder)
         self._EmowordsList = []  #只装词，不装向量
         for emoword in self._Emodictionary:
@@ -133,6 +133,7 @@ class InitialCorporaUtil(object):
         # 剔除稀有数据
         print 'Eliminating the rare data...'
         self._texts = self.delete_rareWords()
+
         # 情感词汇所占的比重
         # self.count_EmoProportion()
 
@@ -214,7 +215,8 @@ class InitialCorporaUtil(object):
 if __name__ == "__main__":
     # dest = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools\\data\\lzy_severalMovieDanmudata'
     # dest = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools\\data\EmotionMovie'
-    dest = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\\NewEmotionMovies-2.0'
+    dest = GLOBAL_EmotionMovies
+
     dictionaryName = GLOBAL_dictionaryName
     corporaName = GLOBAL_corporaName
 

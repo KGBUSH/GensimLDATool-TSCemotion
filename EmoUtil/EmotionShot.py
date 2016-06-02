@@ -18,7 +18,7 @@ def calculateWordVectorInMaxTopic(maxTopicVector, maxTopicWeight, wordWeightInMa
     shotWordVector = Counter({'surprise':0, 'sorrow':0, 'love':0, 'joy':0,
                               'hate':0, 'expect':0, 'anxiety':0, 'anger':0,})
     for emotion in shotWordVector:
-        shotWordVector[emotion] += maxTopicVector[emotion] * maxTopicWeight * (1 + wordWeightInMaxTopic)
+        shotWordVector[emotion] += round((maxTopicVector[emotion] * maxTopicWeight * (1 + wordWeightInMaxTopic)), 3)
     return shotWordVector
 
 
@@ -30,24 +30,34 @@ class EmotionShot(object):
     根据论文算法计算shot的emotion
     """
 
-    def __init__(self, myDictLocation, myCorporaLocation, myLDALocation, shotLocation):
+    """
+    类属性
+    """
+    print "********************Loading class attributes**********************"
+    print 'Loading TopicInfo'
+    topicFile = GLOBAL_generatedFiles + '\\txtall_t10_it500.txt'
+    et = EmotionTopic(topicFile)
+    _TopicsInfo = et.topicsInfo()
+    print 'Loading the Dictionary, LDA and list_corpora, index ...'
+    # 载入语料库和lda模型
+    myDictLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_dictionaryName
+    myCorporaLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_corporaTfidfName
+    myLDALocation = GLOBAL_generatedFiles + '\\' + 'topics10___iterations500___.lda'
+    _dictionary = corpora.Dictionary.load(myDictLocation)
+    _list_corpus = corpora.MmCorpus(myCorporaLocation)
+    _lda = models.LdaModel.load(myLDALocation)
+
+    print 'Comunicating the index...'
+    # _index是后面检索相似shot用，如果分析单个shot不需要
+    _index = similarities.MatrixSimilarity(_lda[_list_corpus])
+
+
+    def __init__(self, shotLocation):
         """
         参考SimilarityUtil.py
         初始化，dictionanry，LDA
         :return:
         """
-        print 'Loading the Dictionary, LDA and list_corpora...'
-        self._dictionary = corpora.Dictionary.load(myDictLocation)
-        self._list_corpus = corpora.MmCorpus(myCorporaLocation)
-        self._lda = models.LdaModel.load(myLDALocation)
-
-        print 'Comunicating the index...'
-        self._index = similarities.MatrixSimilarity(self._lda[self._list_corpus])
-
-        print 'Loading TopicInfo'
-        topicfile = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\DY-generatedFiles\\txtall_t10_it500.txt'
-        self.et = EmotionTopic(topicfile)
-        self._TopicsInfo = self.et.topicsInfo()
 
         # shot（window）的位置
         self.shotLocation = shotLocation
@@ -81,8 +91,8 @@ class EmotionShot(object):
                 listWindowContent.append(key)
         # 打印shot里words的数量
         print '\nnumbrt of shotwords:',len(listWindowContent)
-        vec_bow = self._dictionary.doc2bow(listWindowContent)
-        vec_lda = self._lda[vec_bow]  # 该文档的主题分布
+        vec_bow = EmotionShot._dictionary.doc2bow(listWindowContent)
+        vec_lda = EmotionShot._lda[vec_bow]  # 该文档的主题分布
 
         self.maxTopicWeight = 0
         maxtopic = -1  # 记录shot的权重最大的topic编号
@@ -97,7 +107,7 @@ class EmotionShot(object):
 
         # 计算该shot的Vector
         print '***************maxTopicInfo*****************'
-        self.et.show_topic(self.numofMaxTopic)
+        EmotionShot.et.show_topic(self.numofMaxTopic)
         self.calculateShotVector(shotWordsList=listWindowContent)
 
 
@@ -112,7 +122,7 @@ class EmotionShot(object):
         """
         print '*********************calculating shotVector**********************'
 
-        maxtopicInfo = self._TopicsInfo[self.numofMaxTopic]
+        maxtopicInfo = EmotionShot._TopicsInfo[self.numofMaxTopic]
         count4shotDictWord = 0  # 在dictionary中出现的词
         count4shotTopicWord = 0  # 没在dictionary中找到但是在maxtopic中找到
         count4for = 0
@@ -122,7 +132,7 @@ class EmotionShot(object):
         for shotword in shotWordsList:  # 遍历shot中的词
             count4for += 1
             flagfind = False
-            for emoword in self.et.Emodictionary:
+            for emoword in EmotionShot.et.Emodictionary:
                 if emoword.word == shotword:
                     flagfind = True
                     count4shotDictWord += 1
@@ -161,10 +171,7 @@ class EmotionShot(object):
 if __name__ == '__main__':
 
     print '******************EmotionShot********************'
-    # 载入语料库和lda模型
-    DictLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_dictionaryName
-    CorporaLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_corporaTfidfName
-    LDALocation = GLOBAL_generatedFiles + '\\' + 'topics10___iterations500___.lda'
+
     # 冒牌家庭
     # shotLocation = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\NewEmotionMovies-2.0' \
     #                '\\funny\\2470338maopaijiating\\window\\Window105.txt'
@@ -175,13 +182,9 @@ if __name__ == '__main__':
     # shotLocation = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\\NewEmotionMovies-2.0' \
     #                '\\terror\\2668234guisinue\\window\\Window145.txt'
     # 魂断蓝桥
-    shotLocation = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\\NewEmotionMovies-2.0' \
-                   '\\tragic\\1646751hunduanlanqiao\\window\\Window210.txt'
+    shotLocation = GLOBAL_EmotionMovies + '\\tragic\\1646751hunduanlanqiao\\window\\Window210.txt'
 
 
-    eShot = EmotionShot(myDictLocation=DictLocation,
-                         myCorporaLocation=CorporaLocation,
-                         myLDALocation=LDALocation,
-                         shotLocation=shotLocation)
+    eShot = EmotionShot(shotLocation=shotLocation)
 
     eShot.emoCalculate4OneShot()
