@@ -37,7 +37,7 @@ def saveTopicsdetails(lda, numTopics, numIterations):
                  + "_it" + str(numIterations) \
                  + ".txt"
     print "\n\nsaving Topics'detail Distribution to " + GLOBAL_generatedFiles + '\\' + saveTopicsName
-    f = open(GLOBAL_generatedFiles + '\\' + saveTopicsName, 'w')
+    f = open(GLOBAL_generatedFiles + '/' + saveTopicsName, 'w')
 
     for i in xrange(numTopics):
         f.write("第" + str(i) + "个topic:\n")
@@ -56,8 +56,8 @@ def saveCorporaTopicsDistribution(corpora_lda):
     """
 
     saveName = 'corpora_themeDistribution.txt'
-    print "\n\nsaving Corpora'topics Distribution to " + GLOBAL_generatedFiles + "\\" + saveName
-    fw = open(GLOBAL_generatedFiles + "\\" + saveName, 'a')
+    print "\n\nsaving Corpora'topics Distribution to: " + GLOBAL_generatedFiles + "/" + saveName
+    fw = open(GLOBAL_generatedFiles + "/" + saveName, 'a')
     fw.truncate()
     docnum = 0
     for doc in corpora_lda:
@@ -112,7 +112,7 @@ class LDAUtil(object):
         """
         print 'doing the "tfidf" for the list_corpora...'
         self._list_corporaTfidf = tfidfTransform(self._list_corpora,
-                                                 GLOBAL_generatedFiles + '\\' + GLOBAL_corporaTfidfName)
+                                                 GLOBAL_generatedFiles + '/' + GLOBAL_corporaTfidfName)
         # 训练LDA模型
         print 'Building LDA model..'
         lda = models.LdaModel(self._list_corporaTfidf, id2word=self._dictionary,
@@ -122,7 +122,7 @@ class LDAUtil(object):
         ldaName = 'topics' + str(numofTopics) + "___" \
               + 'iterations' + str(numofIterations) + "___"\
               + ".lda"
-        lda.save(GLOBAL_generatedFiles + '\\' + ldaName)     # 把lda库写入文件，后面要load
+        lda.save(GLOBAL_generatedFiles + '/' + ldaName)     # 把lda库写入文件，后面要load
 
 
         print "一个一个输出："
@@ -145,12 +145,12 @@ class LDAUtil(object):
 if __name__ == "__main__":
 
     GLOBAL_numofTopics = 10
-    GLOBAL_numofIterations = 500
+    GLOBAL_numofIterations = 100
 
 
     # 字典 和 （编号化）语料库 的存储位置
-    dictionaryLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_dictionaryName
-    list_corporaLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_corporaName
+    dictionaryLocation = GLOBAL_generatedFiles + '/' + GLOBAL_dictionaryName
+    list_corporaLocation = GLOBAL_generatedFiles + '/' + GLOBAL_corporaName
 
     mylda = LDAUtil(dictionaryLocation, list_corporaLocation)
     mylda.ldaprocess(numofTopics=GLOBAL_numofTopics, numofIterations=GLOBAL_numofIterations)

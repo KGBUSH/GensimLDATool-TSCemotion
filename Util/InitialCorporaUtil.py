@@ -51,6 +51,9 @@ def save_LUTofcorpus(f_LUT, numofCorpus, windowName):
 
 
 
+
+
+
 class InitialCorporaUtil(object):
     """
     对 N * windows.txt 中的数据进行读取，生成list_corpora, dictionary.
@@ -65,7 +68,7 @@ class InitialCorporaUtil(object):
         self._total_emoword = 0  # 在emotion词典里面出现过得数量，也算上重复
 
         # 载入情感词典
-        dictfolder = GLOBAL_dictFolder
+        dictfolder = GLOBAL_CECdictFolder
         self._Emodictionary = ExtractUtil.ExtractEmotionalwordsUtil(dictFolder=dictfolder)
         self._EmowordsList = []  #只装词，不装向量
         for emoword in self._Emodictionary:
@@ -87,7 +90,7 @@ class InitialCorporaUtil(object):
         :param dest:  windows.txt所在的文件夹
         :return:
         """
-        f_LUT = open(GLOBAL_generatedFiles +'\\' + GLOBAL_LUTofCorpusName, 'w')  # corpus编号和corpus文件名（含路径）的对照表
+        f_LUT = open(GLOBAL_generatedFiles + "/" + GLOBAL_LUTofCorpusName, 'w')  # corpus编号和corpus文件名（含路径）的对照表
         numofCorpus = 0
 
         print 'Building the _texts...'
@@ -222,6 +225,6 @@ if __name__ == "__main__":
 
     mycorpo = InitialCorporaUtil()
     mycorpo.readWindowsTxt(dest)
-    mycorpo.savetoDisk(GLOBAL_generatedFiles + '\\' + dictionaryName
-                       , GLOBAL_generatedFiles + '\\' + corporaName)
+    mycorpo.savetoDisk(GLOBAL_generatedFiles + '/' + dictionaryName
+                       , GLOBAL_generatedFiles + '/' + corporaName)
 

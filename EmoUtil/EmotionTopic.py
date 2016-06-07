@@ -2,6 +2,7 @@
 
 from collections import *
 from Util.ExtractUtil import *
+from Entity.GlobalValue import *
 
 
 def weight4Topic(alpha):
@@ -102,7 +103,9 @@ class EmotionTopic(object):
         :return:
         """
         # 载入情感词典
-        dictfolder = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\\CECps_Dictionary'
+        # dictfolder = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\\CECps_Dictionary'
+        dictfolder = GLOBAL_CECdictFolder
+
         self.Emodictionary = ExtractUtil.ExtractEmotionalwordsUtil(dictFolder=dictfolder)
         self.EmodictionaryWordList = []  #只装词，不装向量
         for emoword in self.Emodictionary:
@@ -176,6 +179,6 @@ class EmotionTopic(object):
 
 
 if __name__ == '__main__':
-    topicfile = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\DY-generatedFiles\\txtall_t10_it500.txt'
+    topicfile = GLOBAL_generatedFiles + '/txtall_t10_it500.txt'
     et = EmotionTopic(topicfile)
     et.show_topics()
