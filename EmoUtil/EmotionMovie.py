@@ -21,7 +21,7 @@ class EmotionMovie(object):
     DanmukDictionary:list<tuple(classification, [wordsList])>
     计算整部movie的整体情感
 
-    最后返回 allEmoMovie:{movieName1:<Counter>, movieName2:<Counter>}
+    最后返回 allEmoMovie:{movieName1:<Counter>, movieName2:<Counter>}  movieName只有名字不包括路径
     """
     """
     类属性：EmotionClassification
