@@ -1,0 +1,6 @@
+﻿冒牌家庭   C:\Users\KGBUS\PycharmProjects\GensimLDATool-TSCemotion\data\NewEmotionMovies-2.0\funny\2470338maopaijiating\window\Window105.txt
+素媛       C:\Users\KGBUS\PycharmProjects\GensimLDATool-TSCemotion\data\NewEmotionMovies-2.0\tragic\1635770suyuan\window\Window301.txt
+鬼肆虐     C:\Users\KGBUS\PycharmProjects\GensimLDATool-TSCemotion\data\NewEmotionMovies-2.0\terror\2668234guisinue\window\Window145.txt
+魂断蓝桥   C:\Users\KGBUS\PycharmProjects\GensimLDATool-TSCemotion\data\NewEmotionMovies-2.0\tragic\1646751hunduanlanqiao\window\Window296.txt
+热血高校2  C:\Users\KGBUS\PycharmProjects\GensimLDATool-TSCemotion\data\NewEmotionMovies-2.0\intensity\188644rexuegaoxiao2\window\Window190.txt
+
