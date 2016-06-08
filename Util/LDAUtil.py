@@ -5,6 +5,7 @@
 from Entity.GlobalValue import *
 
 from gensim import corpora, models, similarities
+import os
 
 
 
@@ -36,8 +37,9 @@ def saveTopicsdetails(lda, numTopics, numIterations):
     saveTopicsName = "txtall_t" + str(numTopics)\
                  + "_it" + str(numIterations) \
                  + ".txt"
-    print "\n\nsaving Topics'detail Distribution to " + GLOBAL_generatedFiles + '\\' + saveTopicsName
-    f = open(GLOBAL_generatedFiles + '/' + saveTopicsName, 'w')
+    # print "\n\nsaving Topics'detail Distribution to " + GLOBAL_generatedFiles + '\\' + saveTopicsName
+    print "\n\nsaving Topics'detail Distribution to " + os.path.join(GLOBAL_generatedFiles, saveTopicsName)
+    f = open(os.path.join(GLOBAL_generatedFiles, saveTopicsName), 'w')
 
     for i in xrange(numTopics):
         f.write("第" + str(i) + "个topic:\n")
@@ -56,9 +58,9 @@ def saveCorporaTopicsDistribution(corpora_lda):
     """
 
     saveName = 'corpora_themeDistribution.txt'
-    print "\n\nsaving Corpora'topics Distribution to: " + GLOBAL_generatedFiles + "/" + saveName
-    fw = open(GLOBAL_generatedFiles + "/" + saveName, 'a')
-    fw.truncate()
+    print "\n\nsaving Corpora'topics Distribution to: " + os.path.join(GLOBAL_generatedFiles, saveName)
+    fw = open(os.path.join(GLOBAL_generatedFiles, saveName), 'w')
+    # fw.truncate()
     docnum = 0
     for doc in corpora_lda:
         docid = "第" +str(docnum) + "篇："
@@ -112,7 +114,8 @@ class LDAUtil(object):
         """
         print 'doing the "tfidf" for the list_corpora...'
         self._list_corporaTfidf = tfidfTransform(self._list_corpora,
-                                                 GLOBAL_generatedFiles + '/' + GLOBAL_corporaTfidfName)
+                                                 os.path.join(GLOBAL_generatedFiles, GLOBAL_corporaTfidfName)
+                                                 )
         # 训练LDA模型
         print 'Building LDA model..'
         lda = models.LdaModel(self._list_corporaTfidf, id2word=self._dictionary,
@@ -122,7 +125,7 @@ class LDAUtil(object):
         ldaName = 'topics' + str(numofTopics) + "___" \
               + 'iterations' + str(numofIterations) + "___"\
               + ".lda"
-        lda.save(GLOBAL_generatedFiles + '/' + ldaName)     # 把lda库写入文件，后面要load
+        lda.save(os.path.join(GLOBAL_generatedFiles, ldaName))     # 把lda库写入文件，后面要load
 
 
         print "一个一个输出："
@@ -145,12 +148,12 @@ class LDAUtil(object):
 if __name__ == "__main__":
 
     GLOBAL_numofTopics = 10
-    GLOBAL_numofIterations = 100
+    GLOBAL_numofIterations = 500
 
 
     # 字典 和 （编号化）语料库 的存储位置
-    dictionaryLocation = GLOBAL_generatedFiles + '/' + GLOBAL_dictionaryName
-    list_corporaLocation = GLOBAL_generatedFiles + '/' + GLOBAL_corporaName
+    dictionaryLocation = os.path.join(GLOBAL_generatedFiles, GLOBAL_dictionaryName)
+    list_corporaLocation = os.path.join(GLOBAL_generatedFiles, GLOBAL_corporaName)
 
     mylda = LDAUtil(dictionaryLocation, list_corporaLocation)
     mylda.ldaprocess(numofTopics=GLOBAL_numofTopics, numofIterations=GLOBAL_numofIterations)
