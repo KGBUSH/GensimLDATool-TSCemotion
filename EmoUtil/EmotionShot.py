@@ -30,7 +30,10 @@ def extractMovieName(shotLocation):
     """
     # shotLocation = '.../tragic/1646751hunduanlanqiao/window/Window210.txt'
     windowLocation = shotLocation.find('window')
-    begin = shotLocation.rfind('/', 0, windowLocation - 2)
+    if shotLocation.find('/') != -1:  # windows or linux
+        begin = shotLocation.rfind('/', 0, windowLocation - 2)
+    else:
+        begin = shotLocation.rfind('\\', 0, windowLocation - 2)
     movieName = shotLocation[begin + 1: windowLocation - 1]
     return movieName
 
