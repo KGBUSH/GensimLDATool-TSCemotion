@@ -3,9 +3,9 @@
 from EmoUtil.EmotionShot import *
 from Entity.GlobalValue import *
 
-
+import time
 import os
-
+import exceptions
 
 
 """
@@ -55,7 +55,7 @@ def similarityCosine(emotionCounter0, emotionCounter1):
     # # print(result1)
     # # print(result2)
     # # print(result3)
-    # print("result is " + str(result1 / ((result2 * result3) ** 0.5)))  # 结果显示(有错)
+    # print("result is " + str(result1 / ((result2 * result3) ** 0.5)))  # 结果显示(是对的！！)
 
     if len(emotionCounter0) != len(emotionCounter1):
         print('error input in similarityCosine,emotionCounter0 and emotionCounter1 is not in the same space')
@@ -66,9 +66,12 @@ def similarityCosine(emotionCounter0, emotionCounter1):
     for emotion in emotionCounter0:
         result1 += emotionCounter0[emotion] * emotionCounter1[emotion]  # sum(X*Y)
         result2 += emotionCounter0[emotion] ** 2  # sum(X*X)
-        result3 += emotionCounter1[emotion  ] ** 2  # sum(Y*Y)
+        result3 += emotionCounter1[emotion] ** 2  # sum(Y*Y)
 
-    simiC = result1/(result2**0.5 + result3**0.5)
+    try:
+        simiC = result1/((result2 * result3) ** 0.5)
+    except ZeroDivisionError:
+        return 0
     return simiC
 
 
@@ -93,6 +96,8 @@ class ShotSimilarityAnalysis(object):
         :return:
         """
         print "\n\n*****************************ShotSimilarityAnalysis.do_SingleShot*****************************"
+        print "************", shotLocation
+
         thisShot = EmotionShot(shotLocation=shotLocation)  # 已经把moviesVectors加载到EmotionShot.moviesVectors
         thisShot.emoCalculate4OneShot()  # 这里不用算movieVector,比较的时候直接计算来两个shot的movieVector的Jaccard
         # movieVector已经加载到静态属性里了
@@ -100,14 +105,14 @@ class ShotSimilarityAnalysis(object):
 
 
         # 直接从'LUTofCorpus.txt'中读取语料库中符合基本条件的shotLocation
-        f_LUT = open(GLOBAL_generatedFiles + "/" + GLOBAL_LUTofCorpusName, 'r')
+        f_LUT = open(os.path.join(GLOBAL_generatedFiles, GLOBAL_LUTofCorpusName), 'r')
         line = f_LUT.readline()
 
         # 遍历LUTofCorpus.txt
         while line:
             nowNumShot, nowShotLocation = line.split()
-            if int(nowNumShot) % 100 == 0:
-                print nowNumShot
+            # if int(nowNumShot) % 100 == 0:
+            #     print nowNumShot
 
             nowShot = EmotionShot(shotLocation=nowShotLocation)
             nowShot.emoCalculate4OneShot()
@@ -120,21 +125,99 @@ class ShotSimilarityAnalysis(object):
 
             similarity4TwoShots = movieSimilarity * shotSimilarity
             # 加入similarityResultsList
-            similarityResultsList.append((nowNumShot, nowShotLocation, similarity4TwoShots))
+            similarityResultsList.append(
+                (nowNumShot,
+                 nowShotLocation[60:],
+                 round(movieSimilarity,3),
+                 round(shotSimilarity,3),
+                 round(similarity4TwoShots,5)
+                 )
+                                         )
+            if int(nowNumShot) % 100 == 0:  # 观察所需
+                print nowNumShot, nowShotLocation[60:], round(movieSimilarity,3), round(shotSimilarity,3), round(similarity4TwoShots,5)
+            if nowShotLocation == thisShot.shotLocation:
+                print nowNumShot, nowShotLocation[60:], round(movieSimilarity,3), round(shotSimilarity,3), round(similarity4TwoShots,5)
 
             line = f_LUT.readline()
 
 
         # 排序：sort_sims = sorted(enumerate(sims), key=lambda item: -item[1])
-        similarityResultsList = sorted(similarityResultsList, key=lambda tupleResult: -tupleResult[2])
-        # 输出前30个
-        for tupleResult in similarityResultsList[:30]:
-            print tupleResult
+        # key=lambda tupleResult: -tupleResult[*] *是元组的第几个数要确认
+        similarityResultsList = sorted(similarityResultsList, key=lambda tupleResult: -tupleResult[4])
+
+        # 输出前**个
+        print "打印该shot的相似度结果"
+        print2Flie(thisShot=thisShot, similarityResultsList=similarityResultsList)
+
+
+
+
+
+
+
+def print2Flie(thisShot, similarityResultsList):
+    """
+    把该shot的结果输出到文件
+    :param thisShot:
+    :param similarityResultsList:
+    :return:
+    """
+    if thisShot.shotLocation.find('/') != -1:  # windows or linux
+        saveName = thisShot.belongedMovie + "_" + \
+               thisShot.shotLocation[thisShot.shotLocation.rfind('/')+1:]
+    else:
+        saveName = thisShot.belongedMovie + "_" + \
+               thisShot.shotLocation[thisShot.shotLocation.rfind('\\')+1:]
+
+    fw = open(os.path.join(GLOBAL_generatedFiles, saveName), 'w')
+    for tupleResult in similarityResultsList[:1000]:
+        print tupleResult
+        fw.write(tupleResult[0]+"  "+
+                 tupleResult[1]+"  "+
+                 str(tupleResult[2])+"  "+
+                 str(tupleResult[3])+"  "+
+                 str(tupleResult[4])+"  "
+                 )
+        fw.write('\n')
+    fw.close()
+
+
+def getFromFile(fileName):
+    """
+    批量操作
+    :param fileName: 记录specifShots
+    :return:
+    """
+    shotsList = []
+    fr = open(fileName, 'r')
+    line = fr.readline()
+    while line and line != '\n':
+        movieName, specifyShotLocation = line.split()
+        shotsList.append((movieName, specifyShotLocation))
+        line = fr.readline()
+    return shotsList
+
+
+
+
+
 
 
 
 if __name__ == '__main__':
-    shotLocation = GLOBAL_EmotionMovies + '/tragic/1635770suyuan/window/Window301.txt'
-    ShotSimilarityAnalysis.do_SingleShot(shotLocation=shotLocation)
+    # shotLocation = GLOBAL_EmotionMovies + '/tragic/1635770suyuan/window/Window301.txt'
+    # ShotSimilarityAnalysis.do_SingleShot(shotLocation=shotLocation)
+
+    # 可以考虑每一部电影最多推荐x个shot
+
+
+    specifyShotFileName = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATool-TSCemotion\\' \
+                          'data\\someShots.txt'
+
+    specifyShotsLists = getFromFile(fileName = specifyShotFileName)
+    for specifyShot in specifyShotsLists:
+        print '\n\n当前时间', time.strftime('%Y-%m-%d %H:%M:%S'), '\n\n'
+        ShotSimilarityAnalysis.do_SingleShot(shotLocation=specifyShot[1])
+
 
 
