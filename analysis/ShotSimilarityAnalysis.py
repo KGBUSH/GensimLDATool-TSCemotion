@@ -147,15 +147,117 @@ class ShotSimilarityAnalysis(object):
 
         # 输出前**个
         print "打印该shot的相似度结果"
-        print2Flie(thisShot=thisShot, similarityResultsList=similarityResultsList)
+        print2File_all(thisShot=thisShot, similarityResultsList=similarityResultsList)
 
 
 
+    @staticmethod
+    def do_SingleShot_Version2(shotLocation):
+        """
+        给出一个具体的shot
+        计算其相似度列表
+
+        这是Version2，相比较前一个版本把 候选shot 全部放入一个similarityResultsList = []，
+        这里用dict来记录每个电影下面的 候选shot
+        :param shotLocation: 要计算的shot
+        :return:
+        """
+        print "\n\n*****************************ShotSimilarityAnalysis.do_SingleShot*****************************"
+        print "************", shotLocation
+
+        thisShot = EmotionShot(shotLocation=shotLocation)  # 已经把moviesVectors加载到EmotionShot.moviesVectors
+        thisShot.emoCalculate4OneShot()  # 这里不用算movieVector,比较的时候直接计算来两个shot的movieVector的Jaccard
+        # movieVector已经加载到静态属性里了
+        # similarityResultsList = []  # 保存相似度计算结果list<tuple(numShot, shotLocation, similarityFactor)>, 这里的shotLocation不是输入参数
+
+        # 换成Dict方式，目的是为了保存movie名，只记录下每个movie下的排名考前的shot
+        similarityResultsDict = {}  # 保存相似度计算结果Dict{movieName: list<tuple(numShot, shotLocation, similarityFactor)>}, 这里的shotLocation不是输入参数
+
+        # 直接从'LUTofCorpus.txt'中读取语料库中符合基本条件的shotLocation
+        f_LUT = open(os.path.join(GLOBAL_generatedFiles, GLOBAL_LUTofCorpusName), 'r')
+        line = f_LUT.readline()
+
+        # 遍历LUTofCorpus.txt
+        while line:
+            nowNumShot, nowShotLocation = line.split()
+            nowShotMovieName = extractMovieName(shotLocation=nowShotLocation)
+            if nowShotMovieName not in similarityResultsDict.keys():  # 如果还没有这个movie，加入字典
+                similarityResultsDict[nowShotMovieName] = []
+            # if int(nowNumShot) % 100 == 0:
+            #     print nowNumShot
+
+            nowShot = EmotionShot(shotLocation=nowShotLocation)
+            nowShot.emoCalculate4OneShot()
+
+            # 分别计算thisShot和nowShot的 movie-level, shot-level相似度
+            movieSimilarity = similarityJaccard(emotionCounter0=EmotionShot.MoviesVectors[thisShot.belongedMovie],
+                                                emotionCounter1=EmotionShot.MoviesVectors[nowShot.belongedMovie])
+            shotSimilarity = similarityCosine(emotionCounter0=thisShot.shotVector,
+                                              emotionCounter1=nowShot.shotVector)
+            similarity4TwoShots = movieSimilarity * shotSimilarity
+
+            # 加入similarityResultsDist中对应的movie下面
+            similarityResultsDict[nowShotMovieName].append(
+                (nowNumShot,
+                 nowShotLocation[60:],
+                 round(movieSimilarity, 3),
+                 round(shotSimilarity, 3),
+                 round(similarity4TwoShots, 5)
+                 )
+            )
+            if int(nowNumShot) % 100 == 0:  # 观察所需
+                print nowNumShot, nowShotLocation[60:], round(movieSimilarity, 3), \
+                    round(shotSimilarity, 3), round(similarity4TwoShots, 5)
+            if nowShotLocation == thisShot.shotLocation:
+                print nowNumShot, nowShotLocation[60:], round(movieSimilarity, 3), \
+                    round(shotSimilarity, 3), round(similarity4TwoShots, 5)
+
+            line = f_LUT.readline()
+
+        # 排序：sort_sims = sorted(enumerate(sims), key=lambda item: -item[1])
+        # key=lambda tupleResult: -tupleResult[*] *是元组的第几个数要确认
+        for movie in similarityResultsDict.keys():
+            similarityResultsDict[movie] = sorted(similarityResultsDict[movie], key=lambda tupleResult: -tupleResult[4])
+
+        # 输出前**个
+        print "打印该shot的相似度结果"
+        print2File_ByMovie(thisShot=thisShot, similarityResultsDict=similarityResultsDict)
 
 
 
+def print2File_ByMovie(thisShot, similarityResultsDict):
+    """
+    把该shot的结果输出到文件，这个函数用的是similarityResultsDict
+    :param thisShot:
+    :param similarityResultsDict:
+    :return:
+    """
+    if thisShot.shotLocation.find('/') != -1:  # windows or linux
+        saveName = thisShot.belongedMovie + "_" + \
+                   thisShot.shotLocation[thisShot.shotLocation.rfind('/') + 1:]
+    else:
+        saveName = thisShot.belongedMovie + "_" + \
+                   thisShot.shotLocation[thisShot.shotLocation.rfind('\\') + 1:]
+    saveName = 'RankByMovie-' + saveName
+    fw = open(os.path.join(GLOBAL_generatedFiles, saveName), 'w')
+    for movie in similarityResultsDict.keys():
+        print movie
+        fw.write(movie + '\n')
+        for tupleResult in similarityResultsDict[movie][:50]:
+            print tupleResult
+            fw.write(tupleResult[0] + "  " +
+                     tupleResult[1] + "  " +
+                     str(tupleResult[2]) + "  " +
+                     str(tupleResult[3]) + "  " +
+                     str(tupleResult[4]) + "  "
+                     )
+            fw.write('\n')
+        fw.write('\n')
+    fw.close()
 
-def print2Flie(thisShot, similarityResultsList):
+
+
+def print2File_all(thisShot, similarityResultsList):
     """
     把该shot的结果输出到文件
     :param thisShot:
@@ -170,7 +272,7 @@ def print2Flie(thisShot, similarityResultsList):
                thisShot.shotLocation[thisShot.shotLocation.rfind('\\')+1:]
 
     fw = open(os.path.join(GLOBAL_generatedFiles, saveName), 'w')
-    for tupleResult in similarityResultsList[:1000]:
+    for tupleResult in similarityResultsList[:100]:
         print tupleResult
         fw.write(tupleResult[0]+"  "+
                  tupleResult[1]+"  "+
@@ -211,13 +313,14 @@ if __name__ == '__main__':
     # 可以考虑每一部电影最多推荐x个shot
 
 
-    specifyShotFileName = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATool-TSCemotion\\' \
-                          'data\\someShots.txt'
+    # specifyShotFileName = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATool-TSCemotion\\' \
+    #                       'data\\someShots.txt'
+    specifyShotFileName = '/home/test/dypaper/GensimLDATool-TSCemotion/data/someShots-linux.txt'
 
     specifyShotsLists = getFromFile(fileName = specifyShotFileName)
     for specifyShot in specifyShotsLists:
         print '\n\n当前时间', time.strftime('%Y-%m-%d %H:%M:%S'), '\n\n'
-        ShotSimilarityAnalysis.do_SingleShot(shotLocation=specifyShot[1])
+        ShotSimilarityAnalysis.do_SingleShot_Version2(shotLocation=specifyShot[1])
 
 
 
