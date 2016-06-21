@@ -1,0 +1,1 @@
+{"id":34,"startTime":1700.0,"endTime":1760.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"5fddc5a2": {"detail": {"我腐": 1, "不是": 1, "眼看": 1, "人基": 1, "woc": 1}}, "dd073a1b": {"detail": {"哲学": 1}}, "38ba3748": {"detail": {"哈哈哈": 1}}}}

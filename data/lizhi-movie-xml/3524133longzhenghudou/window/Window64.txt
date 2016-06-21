@@ -1,0 +1,1 @@
+{"id":64,"startTime":3200.0,"endTime":3260.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"2a2fc033": {"detail": {"差点": 1, "忘记": 1, "这个": 1}}, "360ac23b": {"detail": {}}, "da5f51bd": {"detail": {"司徒": 1, "貌似": 1, "浩南": 1, "配音": 1, "石斑鱼": 1}}, "d5d2593f": {"detail": {"石班瑜": 1, "233": 1}}}}

@@ -1,0 +1,1 @@
+{"id":38,"startTime":1900.0,"endTime":1960.0,"userAlive":5,"numOfDanmaku":7,"averageLength":2,"userFeature":{"4e6cbe90": {"detail": {"武学奇": 1, "这么": 1, "清奇": 1, "骨骼": 1}}, "c7b4a7f9": {"detail": {"因为": 1, "骑师": 1, "2333": 1, "所以": 1}}, "2f76a9ef": {"detail": {"漂亮": 1}}, "141c256d": {"detail": {"个头": 1, "妹子": 1, "买马": 1, "马师": 1}}, "7286ec17": {"detail": {"tortuga": 1}}}}

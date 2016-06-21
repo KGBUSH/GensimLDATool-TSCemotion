@@ -1,0 +1,1 @@
+{"id":169,"startTime":8450.0,"endTime":8510.0,"userAlive":3,"numOfDanmaku":4,"averageLength":1,"userFeature":{"Dcc2cba0": {"detail": {"insist": 1, "hope": 1}}, "c47c8ecc": {"detail": {"东西": 1, "希望": 1, "美好": 1}}, "c1a61435": {"detail": {"my": 1, "friend": 1}}}}

@@ -1,0 +1,1 @@
+{"id":13,"startTime":650.0,"endTime":710.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"0d3ec7a9": {"detail": {"之王": 1, "功夫": 1, "这个": 1, "男主": 1}}, "aad0ade2": {"detail": {"托比": 1}}, "5fc44ca4": {"detail": {"托比": 1}}, "e85625ef": {"detail": {"Tobey": 1, "小哥": 1, "这个": 1, "young": 1}}}}

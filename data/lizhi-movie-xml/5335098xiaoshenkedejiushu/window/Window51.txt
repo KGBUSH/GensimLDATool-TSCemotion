@@ -1,0 +1,1 @@
+{"id":51,"startTime":2550.0,"endTime":2610.0,"userAlive":3,"numOfDanmaku":5,"averageLength":0,"userFeature":{"c45d3240": {"detail": {"姬旦": 1}}, "2a209706": {"detail": {"卧槽": 1}}, "0c924b00": {"detail": {"弹幕": 1, "以为": 1}}}}

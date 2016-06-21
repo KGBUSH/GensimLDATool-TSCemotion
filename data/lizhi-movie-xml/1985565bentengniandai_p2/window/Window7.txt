@@ -1,0 +1,1 @@
+{"id":7,"startTime":350.0,"endTime":410.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"6c5848fe": {"detail": {"土豪": 1, "就是": 1, "一样": 1}}, "141c256d": {"detail": {"有点": 1, "得意": 1, "骄兵必败": 1, "土豪": 1}}}}

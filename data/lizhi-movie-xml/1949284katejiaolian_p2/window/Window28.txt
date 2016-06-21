@@ -1,0 +1,1 @@
+{"id":28,"startTime":1400.0,"endTime":1460.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"36a88023": {"detail": {"亚裔": 1, "那个": 1, "存在": 1, "感好": 1}}, "2dd0b5d4": {"detail": {}}, "d28cd797": {"detail": {"用心良苦": 1}}}}

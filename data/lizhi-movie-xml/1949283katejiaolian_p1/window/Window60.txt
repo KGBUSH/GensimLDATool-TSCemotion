@@ -1,0 +1,1 @@
+{"id":60,"startTime":3000.0,"endTime":3060.0,"userAlive":3,"numOfDanmaku":5,"averageLength":1,"userFeature":{"Db13e889": {"detail": {"有点": 1, "古板": 1, "教练": 1}}, "Dff04b40": {"detail": {"wwwnigga": 1}}, "bcbc4a9e": {"detail": {"NiggerNiggerNiggerNiggerNigger": 1, "Nigger": 2}}}}

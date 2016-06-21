@@ -1,0 +1,1 @@
+{"id":71,"startTime":3550.0,"endTime":3610.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"5fddc5a2": {"detail": {"真是": 1, "过去": 1, "red": 1, "知道": 1, "好人": 1}}, "097d9e11": {"detail": {"果然": 1, "救赎": 1}}, "e5b9cd8b": {"detail": {"狱服": 1, "好看": 1}}, "95e8eab6": {"detail": {"有点": 1, "怎么": 1, "泪目": 1}}, "dd073a1b": {"detail": {"弹幕": 1}}}}

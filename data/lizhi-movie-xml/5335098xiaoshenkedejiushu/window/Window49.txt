@@ -1,0 +1,1 @@
+{"id":49,"startTime":2450.0,"endTime":2510.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"b90d04b9": {"detail": {"理由": 1, "需要": 1, "出轨": 1}}, "053a722b": {"detail": {"开始": 1}}, "da928e9d": {"detail": {"开始": 1, "一切": 1, "刻字": 1, "这里": 1, "记住": 1}}}}

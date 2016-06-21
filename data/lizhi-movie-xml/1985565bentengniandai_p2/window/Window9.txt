@@ -1,0 +1,1 @@
+{"id":9,"startTime":450.0,"endTime":510.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"27fbe72b": {"detail": {"搞笑": 1, "自己": 1, "BGM": 1}}, "92def11b": {"detail": {"自带": 1, "2333": 1, "BGM": 1}}, "92399e46": {"detail": {"贪心": 1, "好胜": 1, "还有": 1, "虚荣心": 1}}}}

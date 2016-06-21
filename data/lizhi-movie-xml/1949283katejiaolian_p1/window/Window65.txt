@@ -1,0 +1,1 @@
+{"id":65,"startTime":3250.0,"endTime":3310.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"dffc95d1": {"detail": {"老兄": 1, "想法": 1, "还是": 1}}, "Da99267e": {"detail": {"three": 1}}, "cd761bcc": {"detail": {"变成": 1, "两个": 1, "六个": 1}}}}

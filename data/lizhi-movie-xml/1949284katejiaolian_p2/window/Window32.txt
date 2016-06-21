@@ -1,0 +1,1 @@
+{"id":32,"startTime":1600.0,"endTime":1660.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"D18d7651": {"detail": {}}, "fe94eb0e": {"detail": {"jJIMMY": 1}}, "36a88023": {"detail": {"高中": 1, "稍微": 1, "只要": 1, "学学": 1, "美国": 1}}, "5c4df3d0": {"detail": {"如果": 1, "无言以对": 1, "更加": 1, "家长": 1}}}}

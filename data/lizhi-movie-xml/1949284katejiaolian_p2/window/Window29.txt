@@ -1,0 +1,1 @@
+{"id":29,"startTime":1450.0,"endTime":1510.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"2f44a179": {"detail": {"专业": 1, "体校": 1, "打脸": 1, "天朝": 1, "我们": 1}}, "2dd0b5d4": {"detail": {}}}}

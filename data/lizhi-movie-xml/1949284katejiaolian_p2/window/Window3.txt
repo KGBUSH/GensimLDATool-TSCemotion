@@ -1,0 +1,1 @@
+{"id":3,"startTime":150.0,"endTime":210.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"776af55a": {"detail": {"带套": 1}}, "f4709758": {"detail": {"何必": 1}}, "D09700f5": {"detail": {"说话": 1, "时头": 1, "黑妞": 1, "带感": 1}}}}

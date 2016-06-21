@@ -1,0 +1,1 @@
+{"id":45,"startTime":2250.0,"endTime":2310.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"7764f5a9": {"detail": {"一生": 1, "基友": 1}}, "0462b047": {"detail": {"眼熟": 1, "蜘蛛侠": 1, "这个": 1}}, "141c256d": {"detail": {"TAT": 1, "撒谎": 1, "基友": 1, "一顿": 1, "贴心": 1}}, "f50bceca": {"detail": {"专业": 1, "托比": 1, "吸壕": 1}}}}

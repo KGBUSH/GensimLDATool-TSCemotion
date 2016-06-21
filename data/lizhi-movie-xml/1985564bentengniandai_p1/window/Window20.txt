@@ -1,0 +1,1 @@
+{"id":20,"startTime":1000.0,"endTime":1060.0,"userAlive":2,"numOfDanmaku":3,"averageLength":1,"userFeature":{"e85625ef": {"detail": {"上线": 1, "即将": 1, "托比": 1}}, "0d3ec7a9": {"detail": {"maieirizi": 1, "儿子": 1}}}}

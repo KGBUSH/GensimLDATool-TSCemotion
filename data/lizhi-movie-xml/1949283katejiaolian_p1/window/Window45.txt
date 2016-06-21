@@ -1,0 +1,1 @@
+{"id":45,"startTime":2250.0,"endTime":2310.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"932ae70d": {"detail": {"奶爸": 1, "辛苦": 1}}, "Dc49c217": {"detail": {"多少": 1}}, "Da4a5ecd": {"detail": {"迈尔斯": 1, "CJ": 1}}}}

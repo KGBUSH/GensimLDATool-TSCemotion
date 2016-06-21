@@ -1,0 +1,1 @@
+{"id":79,"startTime":3950.0,"endTime":4010.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"097d9e11": {"detail": {"老布": 1, "可惜": 1, "看不到": 1}}, "d9a0696a": {"detail": {"天惹": 1, "做到": 1}}}}

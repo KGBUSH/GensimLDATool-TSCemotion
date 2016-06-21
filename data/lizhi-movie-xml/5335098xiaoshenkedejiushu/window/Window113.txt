@@ -1,0 +1,1 @@
+{"id":113,"startTime":5650.0,"endTime":5710.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"De2a8bc9": {"detail": {"天啦鲁": 1}}, "a53ce853": {"detail": {"这个": 1, "长镜头": 1, "好棒": 1}}, "b90d04b9": {"detail": {"19": 1}}}}

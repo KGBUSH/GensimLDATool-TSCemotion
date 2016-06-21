@@ -1,0 +1,1 @@
+{"id":24,"startTime":1200.0,"endTime":1260.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"9329c4ec": {"detail": {"格里芬": 1}}}}

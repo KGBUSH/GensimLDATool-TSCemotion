@@ -1,0 +1,1 @@
+{"id":139,"startTime":6950.0,"endTime":7010.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"92427b0d": {"detail": {"学霸": 1, "吃得开": 1}}, "b49eb94a": {"detail": {"不怕": 1, "开始": 1, "海报": 1, "狱长": 1, "时候": 1}}}}

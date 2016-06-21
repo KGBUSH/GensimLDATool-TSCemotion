@@ -1,0 +1,1 @@
+{"id":45,"startTime":2250.0,"endTime":2310.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"2a209706": {"detail": {"眼神": 1, "和善": 1}}}}

@@ -1,0 +1,1 @@
+{"id":23,"startTime":1150.0,"endTime":1210.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"f50bceca": {"detail": {"实在": 1, "QAQ": 1, "跑得快": 1, "太漂亮": 1, "眼睛": 1, "托比": 1}}, "141c256d": {"detail": {"不是": 1, "条件反射": 1}}, "a2c5de99": {"detail": {"大家": 1, "可爱": 1}}}}

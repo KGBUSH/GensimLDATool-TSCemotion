@@ -1,0 +1,1 @@
+{"id":61,"startTime":3050.0,"endTime":3110.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"4a801d18": {"detail": {"操坏": 1, "托比": 1}}, "De4e0e04": {"detail": {}}, "f50bceca": {"detail": {"秘制": 1, "感动": 1}}, "141c256d": {"detail": {"beat": 1, "打坏": 1, "听到": 1}}, "2899beca": {"detail": {"翻译": 1, "丧失": 1}}}}

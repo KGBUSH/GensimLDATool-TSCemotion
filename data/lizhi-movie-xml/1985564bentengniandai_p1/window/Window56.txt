@@ -1,0 +1,1 @@
+{"id":56,"startTime":2800.0,"endTime":2860.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"20e7404a": {"detail": {"马好": 1, "演技": 1}}, "a6d1e37d": {"detail": {"体型": 1, "饼干": 1}}, "141c256d": {"detail": {"等等": 1, "怎么": 1, "8000": 1, "记得": 1, "美金": 1}}}}

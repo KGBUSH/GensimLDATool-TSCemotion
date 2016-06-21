@@ -1,0 +1,1 @@
+{"id":155,"startTime":7750.0,"endTime":7810.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"097d9e11": {"detail": {"习惯": 1}}, "0bbe7df0": {"detail": {"不是": 1, "囚犯": 1}}, "b90d04b9": {"detail": {"那个": 1, "房间": 1}}, "7523b9de": {"detail": {}}}}

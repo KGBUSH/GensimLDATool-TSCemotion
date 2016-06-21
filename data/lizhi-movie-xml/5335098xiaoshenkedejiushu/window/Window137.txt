@@ -1,0 +1,1 @@
+{"id":137,"startTime":6850.0,"endTime":6910.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"097d9e11": {"detail": {}}, "f7dc7fb5": {"detail": {"用刚": 1, "地道": 1, "那个": 1, "19": 1, "开始": 1, "原来": 1}}, "b90d04b9": {"detail": {"真是": 1, "而且": 1, "深藏不露": 1, "毅力": 1}}, "d9a0696a": {"detail": {"卧槽": 1}}}}

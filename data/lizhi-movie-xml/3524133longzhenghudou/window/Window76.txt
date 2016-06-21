@@ -1,0 +1,1 @@
+{"id":76,"startTime":3800.0,"endTime":3860.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"f659fa7d": {"detail": {"有人": 1, "上面": 1}}, "92524735": {"detail": {"事人": 1, "报警": 1, "哈哈哈": 1}}, "28fb19b0": {"detail": {"出来": 1, "现在": 1, "周星驰": 1, "配音": 1, "无误": 1}}}}

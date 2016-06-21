@@ -1,0 +1,1 @@
+{"id":52,"startTime":2600.0,"endTime":2660.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"D0267139": {"detail": {}}, "aacbf021": {"detail": {"卧槽": 1, "什么": 1, "展开": 1}}, "2a209706": {"detail": {"卧槽": 1, "咬断": 1}}, "dbb790b5": {"detail": {"智商": 1, "压制": 1}}}}

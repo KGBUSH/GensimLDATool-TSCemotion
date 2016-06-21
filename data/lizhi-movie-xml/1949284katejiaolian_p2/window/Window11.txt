@@ -1,0 +1,1 @@
+{"id":11,"startTime":550.0,"endTime":610.0,"userAlive":2,"numOfDanmaku":3,"averageLength":1,"userFeature":{"bcaf456b": {"detail": {"科鲁兹": 2, "绝杀": 1, "看来": 1}}, "D70e3b00": {"detail": {}}}}

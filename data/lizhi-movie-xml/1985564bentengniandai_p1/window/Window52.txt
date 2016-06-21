@@ -1,0 +1,1 @@
+{"id":52,"startTime":2600.0,"endTime":2660.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2,"userFeature":{"e85625ef": {"detail": {"马碎": 1, "shi": 1, "碎念萌": 1}}, "943b49de": {"detail": {"找到": 1, "騎師": 1, "訓練師": 1}}, "4cd968d4": {"detail": {}}, "4a801d18": {"detail": {"托比": 1, "男孩": 1, "可爱": 1}}, "D98180d2": {"detail": {"三人要": 1, "结帮": 1}}, "d397ceda": {"detail": {"会师": 1}}}}

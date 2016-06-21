@@ -1,0 +1,1 @@
+{"id":36,"startTime":1800.0,"endTime":1860.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"28ce42ed": {"detail": {}}, "D6b33aa5": {"detail": {"燃烧": 1, "激情": 1}}}}

@@ -1,0 +1,1 @@
+{"id":63,"startTime":3150.0,"endTime":3210.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"28691230": {"detail": {"无知": 1}}, "67c13e6d": {"detail": {"眼神": 1, "麦蒂": 1}}, "e068adb0": {"detail": {"浮夸": 1, "演技": 1}}, "e60944af": {"detail": {"露个面": 1}}, "20cd5117": {"detail": {"没有": 1, "前面": 1, "年轻": 1, "无知": 1}}}}

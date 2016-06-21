@@ -1,0 +1,1 @@
+{"id":48,"startTime":2400.0,"endTime":2460.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"833fb9ad": {"detail": {"中国": 1, "教育": 1, "莫名": 1}}}}

@@ -1,0 +1,1 @@
+{"id":86,"startTime":4300.0,"endTime":4360.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"38ba3748": {"detail": {"使人": 1, "自由": 1, "希望": 1}}, "59e13b7b": {"detail": {"再次": 1}}, "07eff1c1": {"detail": {"监狱": 2, "他们": 2, "感觉": 2, "好吃": 2}}}}

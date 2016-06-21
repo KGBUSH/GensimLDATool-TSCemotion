@@ -1,0 +1,1 @@
+{"id":16,"startTime":800.0,"endTime":860.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"De2051c2": {"detail": {}}, "141c256d": {"detail": {"两边": 1, "台词": 1}}, "7286ec17": {"detail": {}}, "3610a726": {"detail": {"历史": 1, "书上": 1, "图片": 1}}, "4a801d18": {"detail": {"是不是": 1, "开车": 1, "儿子": 1}}, "D98180d2": {"detail": {"要来": 1, "萧条": 1}}}}

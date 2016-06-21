@@ -1,0 +1,1 @@
+{"id":4,"startTime":200.0,"endTime":260.0,"userAlive":4,"numOfDanmaku":6,"averageLength":3,"userFeature":{"De4e0e04": {"detail": {"一个": 1, "还有": 1, "高潮": 1}}, "92def11b": {"detail": {"高富帅": 1, "觉得": 1}}, "a6d1e37d": {"detail": {"燃点": 1, "还有": 1, "三个": 1}}, "f50bceca": {"detail": {"这匹": 1, "一米": 1, "拿下": 1, "没关系": 1, "马儿": 2, "高富帅": 2, "本能": 1, "自带": 1, "托比": 1, "吸壕": 1}}}}

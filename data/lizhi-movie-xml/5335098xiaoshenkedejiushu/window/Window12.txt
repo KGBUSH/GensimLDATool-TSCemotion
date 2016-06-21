@@ -1,0 +1,1 @@
+{"id":12,"startTime":600.0,"endTime":660.0,"userAlive":3,"numOfDanmaku":3,"averageLength":5,"userFeature":{"b2ddeb6f": {"detail": {"印象": 1, "没什么": 1, "只是": 1, "有没有": 1, "记得": 1, "看过": 1, "原来": 1}}, "26927ca8": {"detail": {"没见": 1, "监狱": 1, "那么": 1}}, "ead60f0f": {"detail": {"监狱": 1, "所有": 1, "去过": 1, "全世界": 1, "前面": 1}}}}

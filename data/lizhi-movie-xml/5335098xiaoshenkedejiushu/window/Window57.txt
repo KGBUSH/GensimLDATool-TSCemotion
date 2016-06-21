@@ -1,0 +1,1 @@
+{"id":57,"startTime":2850.0,"endTime":2910.0,"userAlive":3,"numOfDanmaku":3,"averageLength":4,"userFeature":{"bc092586": {"detail": {"这女": 1, "有点像": 1, "老婆": 1}}, "b49eb94a": {"detail": {"改变": 1, "喜欢": 1, "容貌": 1, "只会": 1, "岁月流逝": 1, "增加": 1, "聪明人": 1, "智慧": 1}}, "6b64126c": {"detail": {"真的": 1, "很漂亮": 1}}}}

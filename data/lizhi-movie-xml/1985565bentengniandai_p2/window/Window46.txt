@@ -1,0 +1,1 @@
+{"id":46,"startTime":2300.0,"endTime":2360.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"f50bceca": {"detail": {"卧槽": 1, "好虐": 1}}, "2899beca": {"detail": {"哈哈哈哈": 1}}, "d0f1911f": {"detail": {"无耻之徒": 2, "frank": 2, "卧槽": 2, "不会": 2}}, "86d7f9a2": {"detail": {"就是": 1}}}}

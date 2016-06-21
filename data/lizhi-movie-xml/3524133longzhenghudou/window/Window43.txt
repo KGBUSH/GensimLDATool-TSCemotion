@@ -1,0 +1,1 @@
+{"id":43,"startTime":2150.0,"endTime":2210.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"7ad77020": {"detail": {"干什么": 1, "南哥": 1, "大事": 1, "确实": 1, "感觉": 1}}, "8acae303": {"detail": {"py": 1, "交易": 1, "肮脏": 1}}, "931a4dcc": {"detail": {"负责": 1}}, "D62cb74d": {"detail": {"力气": 1}}, "cfe6bd4b": {"detail": {"阿坤": 1, "收拾": 1}}}}

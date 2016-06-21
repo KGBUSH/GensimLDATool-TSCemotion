@@ -1,0 +1,1 @@
+{"id":11,"startTime":550.0,"endTime":610.0,"userAlive":1,"numOfDanmaku":1,"averageLength":5,"userFeature":{"7764f5a9": {"detail": {"小天使": 1, "两只": 1, "不大一样": 1, "颜色": 1, "托比": 1}}}}

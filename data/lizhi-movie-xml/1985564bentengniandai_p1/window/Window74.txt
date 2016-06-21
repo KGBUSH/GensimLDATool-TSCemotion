@@ -1,0 +1,1 @@
+{"id":74,"startTime":3700.0,"endTime":3760.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"e85625ef": {"detail": {"托比": 1}}, "f50bceca": {"detail": {"马儿": 1, "情侣装": 1, "兴奋": 1}}, "Def69e80": {"detail": {"停不下来": 1, "现在": 1, "怎么办": 1, "下药": 1, "2333": 1}}, "9cecffb2": {"detail": {"基佬": 1}}}}

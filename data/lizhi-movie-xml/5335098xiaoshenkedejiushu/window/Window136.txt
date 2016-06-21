@@ -1,0 +1,1 @@
+{"id":136,"startTime":6800.0,"endTime":6860.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"42603923": {"detail": {"照片": 1, "背后": 1, "什么": 1, "不会": 1}}, "250cd5d8": {"detail": {}}, "cefdbe5d": {"detail": {"知道": 1}}, "0d721c20": {"detail": {"没错": 1, "海报": 1, "后面": 1}}}}

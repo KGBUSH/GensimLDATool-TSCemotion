@@ -1,0 +1,1 @@
+{"id":59,"startTime":2950.0,"endTime":3010.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"f50bceca": {"detail": {"逗比": 1, "23333333": 1}}, "7764f5a9": {"detail": {"可能": 1, "房间": 1, "土豪": 2, "托比": 1, "儿子": 2}}, "2899beca": {"detail": {"红红火火": 1, "恍恍惚惚": 1}}}}

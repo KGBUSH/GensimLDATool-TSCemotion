@@ -1,0 +1,1 @@
+{"id":138,"startTime":6900.0,"endTime":6960.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"92427b0d": {"detail": {"学霸": 1, "吃得开": 1}}, "8fe961af": {"detail": {"知识": 1, "佩服": 1}}, "afe2928c": {"detail": {"文化": 1, "重要": 1, "告诉": 1, "我们": 1}}, "ce818d68": {"detail": {"豆腐渣": 1}}}}

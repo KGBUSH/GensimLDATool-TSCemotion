@@ -1,0 +1,1 @@
+{"id":64,"startTime":3200.0,"endTime":3260.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"f7d63dcf": {"detail": {"一定": 1, "所长": 1, "所以": 1}}}}

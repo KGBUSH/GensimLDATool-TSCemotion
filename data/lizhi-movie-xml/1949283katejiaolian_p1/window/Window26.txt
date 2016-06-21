@@ -1,0 +1,1 @@
+{"id":26,"startTime":1300.0,"endTime":1360.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"932ae70d": {"detail": {"开始": 1, "最难": 1, "总是": 1}}, "D73533af": {"detail": {"哥们": 1, "华裔": 1}}, "9b444482": {"detail": {"虎父无犬": 1}}, "D09700f5": {"detail": {"争气": 1, "儿子": 1}}, "D85016ad": {"detail": {"晨光": 1, "最帅": 1}}}}

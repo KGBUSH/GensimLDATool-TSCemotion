@@ -1,0 +1,1 @@
+{"id":114,"startTime":5700.0,"endTime":5760.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"097d9e11": {"detail": {}}, "9ff2dc32": {"detail": {"TAT": 1}}, "a1f531b5": {"detail": {"预警": 1, "高能": 1}}, "b90d04b9": {"detail": {"危险": 1}}, "5872397e": {"detail": {"小哥": 1}}, "afe2928c": {"detail": {"这个": 1, "不会": 1}}}}

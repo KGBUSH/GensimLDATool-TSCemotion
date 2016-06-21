@@ -1,0 +1,1 @@
+{"id":49,"startTime":2450.0,"endTime":2510.0,"userAlive":2,"numOfDanmaku":2,"averageLength":6,"userFeature":{"5c4df3d0": {"detail": {"身体": 1, "脑子": 1, "虽然": 1, "重要": 2, "无论": 1, "什么": 1, "其实": 1, "打球": 1}}, "4fda527b": {"detail": {"时候": 1, "透露": 1, "局长": 1, "霸气": 1, "任何": 1}}}}

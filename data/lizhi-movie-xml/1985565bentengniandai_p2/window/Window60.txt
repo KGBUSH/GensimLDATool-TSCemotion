@@ -1,0 +1,1 @@
+{"id":60,"startTime":3000.0,"endTime":3060.0,"userAlive":3,"numOfDanmaku":4,"averageLength":3,"userFeature":{"f50bceca": {"detail": {"愿意": 1, "喜欢": 1, "这马": 1, "明显": 1, "唇红齿白": 1, "不是": 1, "托比": 3}}, "a6d1e37d": {"detail": {"饼干": 1, "太好了": 1, "基友": 1}}, "Dc3581d7": {"detail": {"蜘蛛侠": 1, "感情": 1, "还是": 1}}}}

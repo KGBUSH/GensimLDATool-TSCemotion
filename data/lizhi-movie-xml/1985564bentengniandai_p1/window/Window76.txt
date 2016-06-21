@@ -1,0 +1,1 @@
+{"id":76,"startTime":3800.0,"endTime":3860.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"e85625ef": {"detail": {"真是": 1, "一毛": 1, "这马": 1, "托比": 1, "一样": 1}}, "f50bceca": {"detail": {"蜘蛛": 1, "臀控": 1, "福利": 1}}, "2f76a9ef": {"detail": {}}, "88eeb6e4": {"detail": {"一点": 1}}}}

@@ -1,0 +1,1 @@
+{"id":66,"startTime":3300.0,"endTime":3360.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"cdd9ace6": {"detail": {"声音": 1, "托比": 1, "好听": 1}}, "D46eea41": {"detail": {"泪目": 1, "QAQ": 1}}, "141c256d": {"detail": {"真是": 1, "夫妇": 1, "土豪": 1, "儿子": 1}}}}

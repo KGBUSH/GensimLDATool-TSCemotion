@@ -1,0 +1,1 @@
+{"id":44,"startTime":2200.0,"endTime":2260.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"73fec3bb": {"detail": {"知识": 1, "力量": 1, "就是": 1}}, "59e13b7b": {"detail": {"小伙伴": 1, "蒙逼": 1, "实力": 1}}}}

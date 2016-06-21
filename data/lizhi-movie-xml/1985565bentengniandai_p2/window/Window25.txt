@@ -1,0 +1,1 @@
+{"id":25,"startTime":1250.0,"endTime":1310.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"7764f5a9": {"detail": {"碎念": 1, "托比": 1}}, "41546a0d": {"detail": {"为了": 1, "默契": 1, "他们": 1}}}}

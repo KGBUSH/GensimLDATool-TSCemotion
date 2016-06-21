@@ -1,0 +1,1 @@
+{"id":15,"startTime":750.0,"endTime":810.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"4a801d18": {"detail": {"是不是": 1, "开车": 1, "儿子": 1}}, "D98180d2": {"detail": {"要来": 1, "萧条": 1}}, "141c256d": {"detail": {"两边": 1, "台词": 1}}, "De2051c2": {"detail": {}}}}

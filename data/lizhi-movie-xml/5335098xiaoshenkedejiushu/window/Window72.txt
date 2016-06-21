@@ -1,0 +1,1 @@
+{"id":72,"startTime":3600.0,"endTime":3660.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"95e8eab6": {"detail": {"有点": 1, "怎么": 1, "泪目": 1}}, "5fddc5a2": {"detail": {"可怜": 1}}, "dd073a1b": {"detail": {"弹幕": 1}}, "a1f531b5": {"detail": {"难过": 1}}, "Dca426f6": {"detail": {"体制": 1}}, "446013c9": {"detail": {"无期徒刑": 1, "可以": 1, "不是": 1, "缓刑": 1}}}}

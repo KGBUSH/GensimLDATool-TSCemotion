@@ -1,0 +1,1 @@
+{"id":10,"startTime":500.0,"endTime":560.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"e85625ef": {"detail": {"不好": 1, "怎么": 1, "未来": 1, "冲向": 1, "前面": 1}}, "92399e46": {"detail": {"好胜": 1, "还有": 1, "虚荣心": 1}}, "D46eea41": {"detail": {"不妙": 1, "感觉": 1}}, "41546a0d": {"detail": {"肯定": 1}}, "141c256d": {"detail": {"驯马师": 1, "好强": 1}}}}

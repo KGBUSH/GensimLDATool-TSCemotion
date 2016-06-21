@@ -1,0 +1,1 @@
+{"id":10,"startTime":500.0,"endTime":560.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"1e9f79c2": {"detail": {"深夜": 1, "一刷": 1}}, "b850ef5a": {"detail": {"1949": 2}}, "30a5d981": {"detail": {"一脸": 1, "看得": 1}}, "2a1e664d": {"detail": {"看不懂": 1, "科普": 1}}, "80acdcb2": {"detail": {"静静": 1, "懂得": 1}}, "2cd935a0": {"detail": {"几遍": 1}}}}

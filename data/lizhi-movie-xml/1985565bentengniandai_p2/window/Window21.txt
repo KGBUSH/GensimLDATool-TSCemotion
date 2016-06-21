@@ -1,0 +1,1 @@
+{"id":21,"startTime":1050.0,"endTime":1110.0,"userAlive":4,"numOfDanmaku":4,"averageLength":4,"userFeature":{"ef8cf12c": {"detail": {"安静": 1, "一个": 1, "美男子": 1, "好好": 1, "什么": 1, "托比": 1}}, "b93d371f": {"detail": {"危险": 1, "要虐": 1, "感觉": 1, "进度条": 1}}, "1e4dfd5c": {"detail": {"宫娘娘": 1, "干嘛": 1, "hhhh": 1, "老公": 1, "别烦": 1}}, "D71e45d5": {"detail": {"估计": 1}}}}

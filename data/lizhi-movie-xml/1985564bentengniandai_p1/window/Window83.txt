@@ -1,0 +1,1 @@
+{"id":83,"startTime":4150.0,"endTime":4210.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"De4e0e04": {"detail": {"白鸡": 1}}, "dace1978": {"detail": {"声音": 1, "好像": 1, "nucky": 1}}, "D825ed02": {"detail": {"兰克": 1}}, "f50bceca": {"detail": {"颜值": 1}}}}

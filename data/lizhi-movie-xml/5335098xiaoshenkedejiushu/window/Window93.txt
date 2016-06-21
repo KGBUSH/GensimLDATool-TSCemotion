@@ -1,0 +1,1 @@
+{"id":93,"startTime":4650.0,"endTime":4710.0,"userAlive":3,"numOfDanmaku":4,"averageLength":1,"userFeature":{"097d9e11": {"detail": {"标准": 1, "印刷体": 1}}, "42603923": {"detail": {"哈哈哈哈": 2}}, "95e8eab6": {"detail": {"23333": 1}}}}

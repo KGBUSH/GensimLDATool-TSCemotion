@@ -1,0 +1,1 @@
+{"id":35,"startTime":1750.0,"endTime":1810.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"c3c64a8e": {"detail": {"孩子": 1, "毕竟": 1}}, "28ce42ed": {"detail": {}}, "9a84ce82": {"detail": {"伟大": 1, "这么": 1, "思考": 1, "事情": 1, "高中": 1}}, "a77b8c1d": {"detail": {"智商": 1, "压制": 1}}}}

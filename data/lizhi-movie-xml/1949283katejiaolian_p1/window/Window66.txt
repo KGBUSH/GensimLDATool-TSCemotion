@@ -1,0 +1,1 @@
+{"id":66,"startTime":3300.0,"endTime":3360.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"dffc95d1": {"detail": {"老兄": 1, "想法": 1, "还是": 1}}, "5c4df3d0": {"detail": {"可怜": 1, "哎哟": 1}}, "Da99267e": {"detail": {"一个": 1, "开始": 1, "以为": 1, "只有": 1, "小时": 1}}, "D79a9ec8": {"detail": {"韦德": 1}}}}

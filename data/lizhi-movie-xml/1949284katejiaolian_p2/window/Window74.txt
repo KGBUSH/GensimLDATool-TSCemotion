@@ -1,0 +1,1 @@
+{"id":74,"startTime":3700.0,"endTime":3760.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"cef49a34": {"detail": {"开始": 1, "反杀": 1}}, "9f853f7d": {"detail": {"控制": 1, "十分": 1}}, "Dae329ae": {"detail": {"卧槽": 1, "反杀": 1}}, "cd53ab55": {"detail": {"帅炸": 1}}, "e2bd0b0f": {"detail": {"大扇": 1}}}}

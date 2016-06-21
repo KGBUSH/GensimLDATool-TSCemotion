@@ -1,0 +1,1 @@
+{"id":112,"startTime":5600.0,"endTime":5660.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"097d9e11": {"detail": {}}, "2a209706": {"detail": {"好惨": 1}}, "879e73ec": {"detail": {"真是": 1, "典狱长": 1}}, "5872397e": {"detail": {"那个": 1, "小哥": 1}}, "91c6cb0e": {"detail": {"2016620": 1}}}}

@@ -1,0 +1,1 @@
+{"id":16,"startTime":800.0,"endTime":860.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"a2c5de99": {"detail": {"MAX": 1, "演讲": 1, "能力": 1}}}}

@@ -1,0 +1,1 @@
+{"id":37,"startTime":1850.0,"endTime":1910.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"d830da11": {"detail": {"BGM": 1}}, "5fc44ca4": {"detail": {"上线": 1}}, "141c256d": {"detail": {"买马": 1}}}}

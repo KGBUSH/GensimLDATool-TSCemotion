@@ -1,0 +1,1 @@
+{"id":105,"startTime":5250.0,"endTime":5310.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"95e8eab6": {"detail": {"漂亮": 1, "棋子": 1}}, "38ba3748": {"detail": {"姿势": 1, "拿笔": 1}}, "814d9b72": {"detail": {"辣妹": 1, "喜欢": 1}}}}

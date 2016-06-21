@@ -1,0 +1,1 @@
+{"id":0,"startTime":0,"endTime":60.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"9bdb0ae4": {"detail": {"没有": 1, "父子": 1, "相认": 1}}, "D9e84bdb": {"detail": {"精神支柱": 1}}, "77d964d7": {"detail": {}}, "141c256d": {"detail": {"历史": 1, "消息": 1, "似乎": 1, "猝不及防": 1, "之后": 1, "知道": 1, "怎样": 1}}, "f50bceca": {"detail": {"多嫩": 1, "少年": 1}}}}

@@ -1,0 +1,1 @@
+{"id":135,"startTime":6750.0,"endTime":6810.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"097d9e11": {"detail": {"爱因斯坦": 1, "吐舌头": 1}}, "cb996fb7": {"detail": {"照片": 1, "23333": 1, "注意": 1, "上面": 1}}, "36112be1": {"detail": {"爱因斯坦": 1}}, "b6ea6181": {"detail": {"爱因斯坦": 1, "后面": 1, "吐舌头": 1, "哈哈哈": 1}}, "30a5d981": {"detail": {"爱因斯坦": 1}}}}

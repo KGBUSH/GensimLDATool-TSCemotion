@@ -1,0 +1,1 @@
+{"id":12,"startTime":600.0,"endTime":660.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"f50bceca": {"detail": {"紧张": 1}}, "20e7404a": {"detail": {"现在": 1, "紧张": 1}}}}

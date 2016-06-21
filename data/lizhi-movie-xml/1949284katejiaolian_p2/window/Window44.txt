@@ -1,0 +1,1 @@
+{"id":44,"startTime":2200.0,"endTime":2260.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"5c4df3d0": {"detail": {"不怕": 1, "打到": 1, "自己": 1, "老二": 1}}, "6000b8d7": {"detail": {"冤枉": 1}}, "08314955": {"detail": {"怎么": 1, "可能": 1, "打到": 1, "保险": 1, "jj": 1}}, "17ad97ce": {"detail": {"小哥": 1, "难道": 1, "要死": 1}}}}

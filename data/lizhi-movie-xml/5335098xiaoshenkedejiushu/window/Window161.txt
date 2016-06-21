@@ -1,0 +1,1 @@
+{"id":161,"startTime":8050.0,"endTime":8110.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"b453514f": {"detail": {"其实": 1, "救赎": 1}}, "38ba3748": {"detail": {"money": 1}}, "73a11545": {"detail": {"口琴": 1}}, "dd073a1b": {"detail": {"四包": 1}}, "b90d04b9": {"detail": {"船票": 1, "真的": 1, "机票": 1, "or": 1}}, "9597a8a4": {"detail": {"里面": 1, "神作": 1, "一包": 1}}}}

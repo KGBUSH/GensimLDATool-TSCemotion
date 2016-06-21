@@ -1,0 +1,1 @@
+{"id":77,"startTime":3850.0,"endTime":3910.0,"userAlive":3,"numOfDanmaku":4,"averageLength":2,"userFeature":{"f50bceca": {"detail": {"QAQ": 1}}, "77d964d7": {"detail": {}}, "141c256d": {"detail": {"果然": 1, "那个": 2, "直接": 1, "之前": 2, "打人": 1, "难道": 1, "就是": 1, "马主": 1, "然后": 1, "好人": 1}}}}

@@ -1,0 +1,1 @@
+{"id":25,"startTime":1250.0,"endTime":1310.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"Df007151": {"detail": {"啊啊啊": 1}}, "D59a6d5a": {"detail": {"查宁": 1, "家长": 1}}}}

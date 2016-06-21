@@ -1,0 +1,1 @@
+{"id":14,"startTime":700.0,"endTime":760.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"e85625ef": {"detail": {"Tobey": 1, "小哥": 1, "这个": 1, "young": 1}}, "aad0ade2": {"detail": {"托比": 1}}}}

@@ -1,0 +1,1 @@
+{"id":67,"startTime":3350.0,"endTime":3410.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"04d901bf": {"detail": {"以前": 1, "爸爸": 1, "回来": 1, "现在": 1, "这里": 1}}, "41291f15": {"detail": {"习惯": 1}}, "d830da11": {"detail": {"一个": 2, "草地": 1, "马厩": 1}}, "253e25de": {"detail": {"hhhhhhhh": 1, "这俩": 1}}, "141c256d": {"detail": {"房间": 1, "两个": 1, "哈哈哈": 1}}}}

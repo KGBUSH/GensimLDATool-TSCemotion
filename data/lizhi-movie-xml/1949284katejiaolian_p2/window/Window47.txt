@@ -1,0 +1,1 @@
+{"id":47,"startTime":2350.0,"endTime":2410.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"594c0f84": {"detail": {"后妈": 1, "哈哈哈": 3}}, "833fb9ad": {"detail": {"中国": 1, "教育": 1, "莫名": 1}}, "111fff89": {"detail": {"三井": 1}}, "f4709758": {"detail": {"三井": 1}}, "51231f03": {"detail": {"wtf": 1, "儿子": 1}}, "3ef70ec2": {"detail": {"教练": 1, "打篮球": 1}}}}

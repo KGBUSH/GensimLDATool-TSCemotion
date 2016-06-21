@@ -1,0 +1,1 @@
+{"id":74,"startTime":3700.0,"endTime":3760.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"5fddc5a2": {"detail": {"归宿": 1, "不到": 1}}, "097d9e11": {"detail": {"老爷爷": 1, "心疼": 1}}, "ec445b6d": {"detail": {"半个世纪": 1}}, "b90d04b9": {"detail": {"可怜": 1}}, "cd7df6ac": {"detail": {"半个世纪": 1, "见到": 1, "人生": 1, "整个": 1, "所剩无几": 1, "亲朋好友": 1, "再难": 1, "同辈": 1}}}}

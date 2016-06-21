@@ -1,0 +1,1 @@
+{"id":57,"startTime":2850.0,"endTime":2910.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"f50bceca": {"detail": {"变化": 1, "细微": 1}}, "1e4dfd5c": {"detail": {"骑师": 1, "辛苦": 1}}, "141c256d": {"detail": {"减肥": 1, "准备": 1}}}}

@@ -1,0 +1,1 @@
+{"id":14,"startTime":700.0,"endTime":760.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"D70e3b00": {"detail": {"kobe": 1, "好像": 1, "黄衣服": 1}}, "8446aa99": {"detail": {}}, "e081a882": {"detail": {"故事": 1, "单身": 1, "变成": 1, "是不是": 1, "后来": 1, "老公": 1}}}}

@@ -1,0 +1,1 @@
+{"id":6,"startTime":300.0,"endTime":360.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"bcaf456b": {"detail": {"先用": 1, "转为": 1, "表姐": 2, "然后": 1, "战术": 2}}, "932ae70d": {"detail": {"球馆": 1, "之前": 1, "好多": 1}}, "bf13cd00": {"detail": {"湾区": 1, "地方": 1, "勇士": 1}}}}

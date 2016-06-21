@@ -1,0 +1,1 @@
+{"id":53,"startTime":2650.0,"endTime":2710.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"14d69ff6": {"detail": {"请举手": 1, "什么": 1, "知道": 1}}, "f50bceca": {"detail": {"和谐": 1}}, "e85625ef": {"detail": {"那马": 1, "时候": 1, "还亲": 1, "一下": 1, "上去": 1, "抱马": 1, "托比": 1}}, "86d7f9a2": {"detail": {"七条": 1, "明明": 1}}}}

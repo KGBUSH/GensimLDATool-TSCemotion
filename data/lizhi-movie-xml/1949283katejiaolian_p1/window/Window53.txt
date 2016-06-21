@@ -1,0 +1,1 @@
+{"id":53,"startTime":2650.0,"endTime":2710.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"Db13e889": {"detail": {"燃爆": 1}}, "8a86b153": {"detail": {"那个": 1, "皮诺": 1, "哪个": 1, "爆炸": 1, "好像": 1, "真的": 1}}, "2dd0b5d4": {"detail": {"哈哈": 1}}}}

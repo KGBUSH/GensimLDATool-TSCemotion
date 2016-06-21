@@ -1,0 +1,1 @@
+{"id":85,"startTime":4250.0,"endTime":4310.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"097d9e11": {"detail": {"长得": 1, "金宇彬": 1}}, "38ba3748": {"detail": {"you": 1, "哈哈哈": 1, "are": 1, "now": 1, "mine": 1}}}}

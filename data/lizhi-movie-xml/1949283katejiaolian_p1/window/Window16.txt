@@ -1,0 +1,1 @@
+{"id":16,"startTime":800.0,"endTime":860.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"D9fe4d71": {"detail": {"那个": 1, "舞出": 1, "人生": 1, "演过": 1, "好像": 1, "白人": 1}}, "d28cd797": {"detail": {"动手": 1, "局长": 1, "嗖样": 1}}, "D6f2054d": {"detail": {"3216549870": 1}}}}

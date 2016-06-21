@@ -1,0 +1,1 @@
+{"id":104,"startTime":5200.0,"endTime":5260.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"2a209706": {"detail": {"23333": 1}}, "b90d04b9": {"detail": {"学校": 1, "安迪": 1, "辅导": 1, "可以": 1, "不错": 1, "出狱": 1}}, "30a5d981": {"detail": {"好吃": 1, "样子": 1}}}}

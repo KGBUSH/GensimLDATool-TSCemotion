@@ -1,0 +1,1 @@
+{"id":178,"startTime":8900.0,"endTime":8960.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"27b18d71": {"detail": {"有毒": 1, "进度条": 1}}}}

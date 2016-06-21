@@ -1,0 +1,1 @@
+{"id":10,"startTime":500.0,"endTime":560.0,"userAlive":4,"numOfDanmaku":6,"averageLength":1,"userFeature":{"8be7e186": {"detail": {"1500": 1, "干满": 1, "必须": 1, "每月": 1}}, "D876b3d9": {"detail": {"1500": 1}}, "D85016ad": {"detail": {"船电": 3}}, "1a3958ff": {"detail": {"那会": 1, "1500": 1, "不得了": 1}}}}

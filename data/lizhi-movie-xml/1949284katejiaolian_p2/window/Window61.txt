@@ -1,0 +1,1 @@
+{"id":61,"startTime":3050.0,"endTime":3110.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D4478231": {"detail": {"坐坐": 1, "意思": 1}}, "5c4df3d0": {"detail": {"这位": 1, "不是": 1, "成绩": 1, "不错": 1, "那位": 1}}, "D876b3d9": {"detail": {"bgm": 1}}, "6fcb87fa": {"detail": {"自行": 1, "听歌": 1, "识曲": 1}}, "7eace01c": {"detail": {"孩子": 1, "卧槽": 1, "以为": 1}}}}

@@ -1,0 +1,1 @@
+{"id":29,"startTime":1450.0,"endTime":1510.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"0462b047": {"detail": {"托比": 1, "好好看": 1}}}}

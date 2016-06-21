@@ -1,0 +1,1 @@
+{"id":22,"startTime":1100.0,"endTime":1160.0,"userAlive":5,"numOfDanmaku":8,"averageLength":1,"userFeature":{"e85625ef": {"detail": {"哈哈哈": 2, "托比": 1}}, "f50bceca": {"detail": {"跑得快": 1, "高富帅": 1, "真的": 1, "QAQ": 1}}, "92def11b": {"detail": {"die": 1, "23333": 1}}, "4e6cbe90": {"detail": {"壕马": 1, "普通": 1, "区别": 1}}, "0a890918": {"detail": {"高富帅": 1, "马中": 1}}}}

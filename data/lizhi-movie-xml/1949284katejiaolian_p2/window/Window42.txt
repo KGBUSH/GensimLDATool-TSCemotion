@@ -1,0 +1,1 @@
+{"id":42,"startTime":2100.0,"endTime":2160.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"D4478231": {"detail": {"教练": 1, "感觉": 1, "带劲": 1, "运动服": 1}}, "8e22db08": {"detail": {"出事": 1}}}}

@@ -1,0 +1,1 @@
+{"id":72,"startTime":3600.0,"endTime":3660.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"Df007151": {"detail": {"damn": 1, "it": 1}}}}

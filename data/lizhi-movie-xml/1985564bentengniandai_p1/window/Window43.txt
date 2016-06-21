@@ -1,0 +1,1 @@
+{"id":43,"startTime":2150.0,"endTime":2210.0,"userAlive":5,"numOfDanmaku":5,"averageLength":3,"userFeature":{"e85625ef": {"detail": {"不是": 1, "小姨子": 1}}, "4a801d18": {"detail": {"不是": 1, "小姨子": 1}}, "46494fd2": {"detail": {"一炮": 1}}, "c7b4a7f9": {"detail": {"原来": 1, "小姨子": 1}}, "141c256d": {"detail": {"朋友": 1, "姐姐": 1, "一个": 1, "不是": 1, "嫁给": 1, "or": 1, "亲戚": 1, "霍华德": 1}}}}

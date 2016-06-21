@@ -1,0 +1,1 @@
+{"id":60,"startTime":3000.0,"endTime":3060.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"0d721c20": {"detail": {"心理素质": 1}}, "e5b9cd8b": {"detail": {"没人": 1}}, "2a209706": {"detail": {"一个": 1, "拿走": 1}}, "b49eb94a": {"detail": {}}, "053a722b": {"detail": {"镇定": 1}}}}

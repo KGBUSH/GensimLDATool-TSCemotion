@@ -1,0 +1,1 @@
+{"id":142,"startTime":7100.0,"endTime":7160.0,"userAlive":6,"numOfDanmaku":6,"averageLength":2,"userFeature":{"ea6ef862": {"detail": {"好想哭": 1}}, "38ba3748": {"detail": {"巧克力": 1, "哈哈哈": 1, "据说": 1, "这里": 1}}, "5d6eebb1": {"detail": {"聪明": 1, "真的": 1, "这种": 1}}, "4f60e41f": {"detail": {"怎么": 1, "进去": 1}}, "bce796aa": {"detail": {"20": 1}}, "b90d04b9": {"detail": {"天时地利人和": 1}}}}

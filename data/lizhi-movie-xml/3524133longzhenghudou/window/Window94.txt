@@ -1,0 +1,1 @@
+{"id":94,"startTime":4700.0,"endTime":4760.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"be647e38": {"detail": {"集会": 1, "非法": 1}}, "D262e0ef": {"detail": {"情与义": 1, "bgm": 1}}, "Df7bba78": {"detail": {"警局": 1, "负责": 1}}}}

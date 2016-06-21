@@ -1,0 +1,1 @@
+{"id":67,"startTime":3350.0,"endTime":3410.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"ab7b2c7c": {"detail": {"帅爆": 1}}, "Da99267e": {"detail": {"基本": 1, "后面": 1, "看头": 1}}, "932ae70d": {"detail": {"不好过": 1, "代价": 1, "就是": 1}}, "1f50238f": {"detail": {"大学": 1, "不想": 1, "学校": 1, "好好": 1, "学生": 1, "毕业考": 1}}, "ac7c59de": {"detail": {}}}}

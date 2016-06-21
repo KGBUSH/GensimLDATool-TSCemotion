@@ -1,0 +1,1 @@
+{"id":55,"startTime":2750.0,"endTime":2810.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"932ae70d": {"detail": {"教练": 1}}, "7df0fb2b": {"detail": {"他们": 1, "保持": 1, "风度": 1}}, "f4709758": {"detail": {"开始": 1, "自负": 1}}, "9803178b": {"detail": {"教练": 1, "233333333": 1, "机智": 1}}}}

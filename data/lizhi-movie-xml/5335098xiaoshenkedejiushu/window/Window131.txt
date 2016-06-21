@@ -1,0 +1,1 @@
+{"id":131,"startTime":6550.0,"endTime":6610.0,"userAlive":6,"numOfDanmaku":6,"averageLength":1,"userFeature":{"64b4ebbb": {"detail": {"开始": 1}}, "38ba3748": {"detail": {"开始": 1, "正片": 1}}, "250cd5d8": {"detail": {"开始": 1, "装逼": 1}}, "b9aa9e4a": {"detail": {"LL": 1, "别以为": 1, "大法": 1}}, "2ed14d56": {"detail": {"精彩": 1}}, "9b7ad1bc": {"detail": {"HiHiHi": 1}}}}

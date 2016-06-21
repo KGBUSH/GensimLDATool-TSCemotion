@@ -1,0 +1,1 @@
+{"id":53,"startTime":2650.0,"endTime":2710.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"D4ba9820": {"detail": {"伯乐相马": 1}}, "5fc44ca4": {"detail": {"泪目": 1}}, "141c256d": {"detail": {"重要性": 1, "眼光": 1}}, "D98180d2": {"detail": {"三人要": 1, "结帮": 1}}, "253e25de": {"detail": {}}, "d397ceda": {"detail": {"会师": 1}}}}

@@ -1,0 +1,1 @@
+{"id":122,"startTime":6100.0,"endTime":6160.0,"userAlive":1,"numOfDanmaku":1,"averageLength":5,"userFeature":{"465dca77": {"detail": {"为什么": 1, "擅长": 1, "只是": 1, "表达": 1, "离开": 1}}}}

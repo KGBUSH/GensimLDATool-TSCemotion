@@ -1,0 +1,1 @@
+{"id":9,"startTime":450.0,"endTime":510.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"097d9e11": {"detail": {"关系": 1, "还是": 2, "要塞": 1}}, "bc092586": {"detail": {"不是": 1, "这个": 1}}, "f7dc7fb5": {"detail": {"这么": 1, "原来": 1, "草率": 1, "出来": 2}}, "afa2f772": {"detail": {"哪里": 1, "出来": 1}}, "0648f1ff": {"detail": {"摩根": 1, "声音": 1, "弗里": 1, "性感": 1}}}}

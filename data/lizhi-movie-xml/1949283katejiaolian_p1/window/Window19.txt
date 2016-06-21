@@ -1,0 +1,1 @@
+{"id":19,"startTime":950.0,"endTime":1010.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"D7d0dece": {"detail": {"美国": 1}}, "17ad97ce": {"detail": {"孩子": 1, "妈呀": 1, "就生": 1, "高中": 1}}}}

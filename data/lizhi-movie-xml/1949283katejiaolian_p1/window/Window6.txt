@@ -1,0 +1,1 @@
+{"id":6,"startTime":300.0,"endTime":360.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"b6aac906": {"detail": {"学校": 1, "一点": 1}}}}

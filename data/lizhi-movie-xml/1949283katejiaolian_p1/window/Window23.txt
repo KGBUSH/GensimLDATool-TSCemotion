@@ -1,0 +1,1 @@
+{"id":23,"startTime":1150.0,"endTime":1210.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"dd4ce0d4": {"detail": {"巴特尔": 1}}, "1b6d4b25": {"detail": {"罗斯": 1, "打劫": 1, "带人": 1, "科比": 1, "格里芬": 1}}, "e081a882": {"detail": {"毕竟": 1, "黑人区": 1}}, "2f44a179": {"detail": {"果然": 1, "美的": 1}}, "021003fa": {"detail": {"crips": 1}}}}

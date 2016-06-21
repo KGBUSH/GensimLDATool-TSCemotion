@@ -1,0 +1,1 @@
+{"id":6,"startTime":300.0,"endTime":360.0,"userAlive":2,"numOfDanmaku":2,"averageLength":4,"userFeature":{"903680c1": {"detail": {"八发": 1, "弹巢": 1, "奇怪": 1, "左轮": 1}}, "67e2aba5": {"detail": {"没有": 1, "为什么": 1, "音乐": 1, "说话声": 1, "只有": 1}}}}

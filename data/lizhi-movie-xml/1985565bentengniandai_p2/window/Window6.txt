@@ -1,0 +1,1 @@
+{"id":6,"startTime":300.0,"endTime":360.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"2899beca": {"detail": {"刚刚": 1}}}}

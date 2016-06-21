@@ -1,0 +1,1 @@
+{"id":88,"startTime":4400.0,"endTime":4460.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"aacbf021": {"detail": {"这么": 1, "原来": 1}}, "68f7d01a": {"detail": {"刘青云": 1}}, "f7dc7fb5": {"detail": {"说辞": 1, "出去": 1, "一样": 1, "不想": 1, "每次": 1}}, "D27c01d7": {"detail": {"什么": 1}}, "b4f67426": {"detail": {"这么": 1}}}}

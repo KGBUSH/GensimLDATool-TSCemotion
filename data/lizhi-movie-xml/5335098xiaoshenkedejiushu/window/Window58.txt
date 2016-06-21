@@ -1,0 +1,1 @@
+{"id":58,"startTime":2900.0,"endTime":2960.0,"userAlive":2,"numOfDanmaku":2,"averageLength":5,"userFeature":{"018512f3": {"detail": {"查房": 1, "宿管": 1}}, "b49eb94a": {"detail": {"改变": 1, "喜欢": 1, "容貌": 1, "只会": 1, "岁月流逝": 1, "增加": 1, "聪明人": 1, "智慧": 1}}}}

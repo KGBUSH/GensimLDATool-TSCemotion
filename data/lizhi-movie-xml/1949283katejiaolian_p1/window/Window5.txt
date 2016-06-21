@@ -1,0 +1,1 @@
+{"id":5,"startTime":250.0,"endTime":310.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"6d5d8efe": {"detail": {"教练": 1, "球员": 1, "观赏": 1, "办公室": 1, "洗澡": 1}}, "D4a52de1": {"detail": {"发现": 1, "看过": 1, "重温": 1, "突然": 1}}, "da50485f": {"detail": {"发现": 1, "老板": 1}}, "D01bccc5": {"detail": {"老板": 1}}}}

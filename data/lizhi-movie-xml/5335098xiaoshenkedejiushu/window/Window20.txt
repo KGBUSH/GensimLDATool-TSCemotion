@@ -1,0 +1,1 @@
+{"id":20,"startTime":1000.0,"endTime":1060.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"5fddc5a2": {"detail": {"真是": 1}}, "b90d04b9": {"detail": {"好像": 1, "坐过": 1, "一样": 1}}, "d9b86f28": {"detail": {"单间": 1, "集体": 1, "更惨": 1}}, "5156c897": {"detail": {"666": 1, "前面": 1}}, "6fe226dd": {"detail": {"三年": 1}}}}

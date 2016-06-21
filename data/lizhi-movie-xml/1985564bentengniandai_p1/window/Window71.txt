@@ -1,0 +1,1 @@
+{"id":71,"startTime":3550.0,"endTime":3610.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"f50bceca": {"detail": {"好帅": 1, "燃了": 1}}, "D46eea41": {"detail": {"BGM": 1}}, "141c256d": {"detail": {"欢乐": 1, "BGM": 1, "233333": 1}}, "9121e94d": {"detail": {"一脸": 1}}}}

@@ -1,0 +1,1 @@
+{"id":126,"startTime":6300.0,"endTime":6360.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"8fe961af": {"detail": {"心塞": 1}}}}

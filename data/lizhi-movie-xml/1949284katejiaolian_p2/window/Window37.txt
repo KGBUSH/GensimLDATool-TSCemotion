@@ -1,0 +1,1 @@
+{"id":37,"startTime":1850.0,"endTime":1910.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"16b7c203": {"detail": {"233333333": 1}}, "bcaf456b": {"detail": {"男女搭配": 1, "干活不累": 1}}, "9f853f7d": {"detail": {"这么": 1, "科学": 1, "绝壁": 1, "弹幕": 1}}, "D79c81b7": {"detail": {"这招": 1}}, "d72b2ac1": {"detail": {"美人计": 1}}}}

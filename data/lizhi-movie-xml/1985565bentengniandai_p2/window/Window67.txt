@@ -1,0 +1,1 @@
+{"id":67,"startTime":3350.0,"endTime":3410.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"14d69ff6": {"detail": {"时候": 1, "需要": 1, "是不是": 1, "下马": 1}}, "4cd968d4": {"detail": {"没有": 1, "紧张": 1}}}}

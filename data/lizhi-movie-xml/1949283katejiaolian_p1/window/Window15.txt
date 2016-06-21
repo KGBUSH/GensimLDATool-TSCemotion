@@ -1,0 +1,1 @@
+{"id":15,"startTime":750.0,"endTime":810.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"dcc9d74f": {"detail": {"真是": 1, "局长": 1, "图森": 1, "图样": 1}}, "e081a882": {"detail": {"看虐": 1, "喜欢": 1}}, "51231f03": {"detail": {"不怕": 1, "联盟": 1, "局长": 1, "复仇者": 1}}, "d28cd797": {"detail": {"动手": 1, "局长": 1, "嗖样": 1}}}}

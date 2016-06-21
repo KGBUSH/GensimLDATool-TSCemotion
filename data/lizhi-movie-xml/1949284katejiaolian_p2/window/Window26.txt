@@ -1,0 +1,1 @@
+{"id":26,"startTime":1300.0,"endTime":1360.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"D79c81b7": {"detail": {}}, "D876b3d9": {"detail": {"冠军": 1, "教练": 1, "只是": 1, "长远": 1, "高中": 1}}, "854c435b": {"detail": {"补课": 1, "集体": 1}}, "D6332a87": {"detail": {"hhh": 1, "帽子": 1, "老板": 1}}}}

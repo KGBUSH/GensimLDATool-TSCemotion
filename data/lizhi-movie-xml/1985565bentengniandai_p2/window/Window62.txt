@@ -1,0 +1,1 @@
+{"id":62,"startTime":3100.0,"endTime":3160.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"d897228f": {"detail": {"瑞德": 1, "老板": 1, "儿子": 1}}, "5e12a52f": {"detail": {"进度条": 1}}}}

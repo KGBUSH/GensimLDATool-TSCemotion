@@ -1,0 +1,1 @@
+{"id":27,"startTime":1350.0,"endTime":1410.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"ccd9ebea": {"detail": {"老师": 1, "好像": 1, "保罗": 1, "皮尔斯": 1}}, "7a5219fa": {"detail": {"這哥們": 1, "肯定": 1, "回來": 1}}, "4f3879f3": {"detail": {"哥们": 1}}, "D3788c6f": {"detail": {}}}}

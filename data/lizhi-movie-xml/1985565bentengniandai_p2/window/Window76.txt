@@ -1,0 +1,1 @@
+{"id":76,"startTime":3800.0,"endTime":3860.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"De4e0e04": {"detail": {"奔腾": 1}}, "20e7404a": {"detail": {"坚持": 1}}, "1d0e1199": {"detail": {"BGM": 1}}}}

@@ -1,0 +1,1 @@
+{"id":44,"startTime":2200.0,"endTime":2260.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"b8fa96e3": {"detail": {"山鸡": 1, "可能": 1, "本来": 1, "浩南": 1}}, "2cdd8db1": {"detail": {"南哥": 1, "什么": 1}}, "cfe6bd4b": {"detail": {"阿坤": 1, "收拾": 1}}, "5265531d": {"detail": {"好帅": 1, "南哥": 1, "西装": 1}}}}

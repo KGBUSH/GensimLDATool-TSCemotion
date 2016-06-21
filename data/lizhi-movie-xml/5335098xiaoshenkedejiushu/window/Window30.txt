@@ -1,0 +1,1 @@
+{"id":30,"startTime":1500.0,"endTime":1560.0,"userAlive":1,"numOfDanmaku":1,"averageLength":2,"userFeature":{"e48b310f": {"detail": {"真糟糕": 1, "台词": 1}}}}

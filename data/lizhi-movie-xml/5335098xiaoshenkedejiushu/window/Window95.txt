@@ -1,0 +1,1 @@
+{"id":95,"startTime":4750.0,"endTime":4810.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"097d9e11": {"detail": {"各州": 1, "2333": 1, "美国": 1, "wtf": 1, "如果": 1, "家长会": 1}}, "b49eb94a": {"detail": {"天下乌鸦一般黑": 1}}, "4dad82f7": {"detail": {"这么": 1, "典狱长": 1}}, "8a17eae2": {"detail": {"果然": 1, "国家": 1, "一样": 1, "哪个": 1}}}}

@@ -1,0 +1,1 @@
+{"id":73,"startTime":3650.0,"endTime":3710.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"cef49a34": {"detail": {"开始": 1, "反杀": 1}}, "2dd0b5d4": {"detail": {"燃了": 1}}, "51231f03": {"detail": {"联盟": 1, "复仇者": 1, "队员": 1}}}}

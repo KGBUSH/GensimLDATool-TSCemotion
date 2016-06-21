@@ -1,0 +1,1 @@
+{"id":101,"startTime":5050.0,"endTime":5110.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"097d9e11": {"detail": {"哈哈": 1, "莫名": 1, "觉得": 1, "可爱": 1}}, "e4487238": {"detail": {"好帅": 1}}, "D0745fb0": {"detail": {"猫王": 1}}, "c40edbe2": {"detail": {"包括": 1, "颜值": 1, "配角": 1, "长官": 1}}}}

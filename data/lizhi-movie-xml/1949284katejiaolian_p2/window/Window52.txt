@@ -1,0 +1,1 @@
+{"id":52,"startTime":2600.0,"endTime":2660.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"Db13e889": {"detail": {"同意": 1, "委员": 1, "家长": 1}}, "833fb9ad": {"detail": {"场景": 1, "高兴": 1, "到时候": 1, "反而": 1, "教练": 1, "他们": 1, "觉得": 1}}, "Dff04b40": {"detail": {"AWWWWWWW": 1, "难过": 1}}, "e068adb0": {"detail": {"球员": 1, "问问": 1, "意见": 1}}}}

@@ -1,0 +1,1 @@
+{"id":67,"startTime":3350.0,"endTime":3410.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"a1aed15f": {"detail": {"奇迹": 1, "大哥": 1, "那么": 1, "能活": 1, "黑社会": 1, "做生意": 1}}, "D415ebd9": {"detail": {"生番": 1}}, "92524735": {"detail": {"总要": 1, "砍死": 1}}, "Df7bba78": {"detail": {"快点": 1}}}}

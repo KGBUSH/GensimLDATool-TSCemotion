@@ -1,0 +1,1 @@
+{"id":55,"startTime":2750.0,"endTime":2810.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"67d01324": {"detail": {"大粪": 1}}}}

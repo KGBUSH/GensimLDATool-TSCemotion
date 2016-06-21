@@ -1,0 +1,1 @@
+{"id":94,"startTime":4700.0,"endTime":4760.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"097d9e11": {"detail": {"有毒": 1, "bgm": 1}}, "918b8287": {"detail": {"劳改": 1, "哈哈哈哈": 1}}}}

@@ -1,0 +1,1 @@
+{"id":61,"startTime":3050.0,"endTime":3110.0,"userAlive":2,"numOfDanmaku":2,"averageLength":4,"userFeature":{"D45a5214": {"detail": {"体育台": 1, "东方": 1, "ESPN": 1, "字幕组": 1}}, "1315e425": {"detail": {"少年队": 1, "不是": 1, "龙虎": 1, "眼熟": 1, "这么": 1}}}}

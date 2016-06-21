@@ -1,0 +1,1 @@
+{"id":18,"startTime":900.0,"endTime":960.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"7286ec17": {"detail": {"有点": 1, "眼熟": 1, "小伙": 1}}, "4e6cbe90": {"detail": {"好儿": 1}}, "f50bceca": {"detail": {"儿子": 1}}, "141c256d": {"detail": {"败落": 1, "那个": 1, "少年": 1, "刚刚": 1, "骑马": 1, "就是": 1, "他家": 1}}, "Db3dc2ab": {"detail": {"少年": 1, "帅呆了": 1}}}}

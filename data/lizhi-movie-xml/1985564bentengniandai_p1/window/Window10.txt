@@ -1,0 +1,1 @@
+{"id":10,"startTime":500.0,"endTime":560.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"e85625ef": {"detail": {"这个": 1, "就是": 1, "托比": 1, "小东西": 1}}, "de40f023": {"detail": {"就是": 1, "托比": 1, "小东西": 1}}, "0ab39f06": {"detail": {"2333": 1, "两个": 1, "前面": 1}}, "141c256d": {"detail": {"改成": 1, "车库": 1}}}}

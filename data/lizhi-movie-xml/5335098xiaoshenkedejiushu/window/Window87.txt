@@ -1,0 +1,1 @@
+{"id":87,"startTime":4350.0,"endTime":4410.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"38ba3748": {"detail": {"使人": 1, "自由": 1, "希望": 1}}}}

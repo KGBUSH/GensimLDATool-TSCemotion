@@ -1,0 +1,1 @@
+{"id":39,"startTime":1950.0,"endTime":2010.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"60dea73d": {"detail": {"非常": 1, "表现手法": 1, "喜欢": 1, "一段": 1}}, "23cfd2c2": {"detail": {"紧张": 1}}}}

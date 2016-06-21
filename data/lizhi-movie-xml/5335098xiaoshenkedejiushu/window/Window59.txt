@@ -1,0 +1,1 @@
+{"id":59,"startTime":2950.0,"endTime":3010.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"cfa2a8ca": {"detail": {"好帅": 1}}, "3db3e71b": {"detail": {"吓死": 1, "安迪": 1, "这时候": 1, "觉得": 1}}, "da928e9d": {"detail": {"已经": 1, "男主": 1, "这里": 1, "觉得": 1, "紧张": 1}}}}

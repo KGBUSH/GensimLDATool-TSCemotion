@@ -1,0 +1,1 @@
+{"id":19,"startTime":950.0,"endTime":1010.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"f50bceca": {"detail": {"儿子": 1}}, "7d5c04eb": {"detail": {"赌马": 1, "萧条": 1}}, "141c256d": {"detail": {"没钱": 1, "不了": 1, "QAQ": 1}}}}

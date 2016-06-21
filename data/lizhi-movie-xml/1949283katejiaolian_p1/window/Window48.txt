@@ -1,0 +1,1 @@
+{"id":48,"startTime":2400.0,"endTime":2460.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"bcaf456b": {"detail": {"不是": 1, "战术": 1, "合同": 1}}, "594c0f84": {"detail": {}}, "d948a955": {"detail": {"助教": 1, "有个": 1}}, "da50485f": {"detail": {"教练": 1, "尽责": 1}}}}

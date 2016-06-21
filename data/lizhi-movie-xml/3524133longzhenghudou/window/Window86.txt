@@ -1,0 +1,1 @@
+{"id":86,"startTime":4300.0,"endTime":4360.0,"userAlive":4,"numOfDanmaku":4,"averageLength":1,"userFeature":{"f659fa7d": {"detail": {"出事": 1}}, "c9df7448": {"detail": {"刚才": 1, "官员": 1, "拿督": 1}}, "Df7bba78": {"detail": {"玩意儿": 1}}, "D17d5f2a": {"detail": {}}}}

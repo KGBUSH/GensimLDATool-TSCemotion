@@ -1,0 +1,1 @@
+{"id":50,"startTime":2500.0,"endTime":2560.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"c45d3240": {"detail": {"姬旦": 1, "这女": 1, "鸡蛋": 1}}, "2a209706": {"detail": {}}, "b49eb94a": {"detail": {"这女": 1, "好看": 1}}, "0c924b00": {"detail": {"弹幕": 1, "以为": 1}}, "D0745fb0": {"detail": {"哈哈": 1, "哈哈哈": 1}}, "bd668e75": {"detail": {"2333": 1}}}}

@@ -1,0 +1,1 @@
+{"id":156,"startTime":7800.0,"endTime":7860.0,"userAlive":4,"numOfDanmaku":4,"averageLength":3,"userFeature":{"b90d04b9": {"detail": {"体会": 1, "感觉": 1, "还是": 1, "那种": 1, "不能": 1, "什么": 1, "内心深处": 1, "体制": 1, "化是": 1}}, "0c924b00": {"detail": {"不要": 1, "啊啊啊": 1}}, "91d4eede": {"detail": {"lakdjencnvha": 1}}, "7523b9de": {"detail": {}}}}

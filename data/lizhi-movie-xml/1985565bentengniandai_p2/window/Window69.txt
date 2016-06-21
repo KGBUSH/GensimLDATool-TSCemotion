@@ -1,0 +1,1 @@
+{"id":69,"startTime":3450.0,"endTime":3510.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"5c962a83": {"detail": {"土豪": 1, "担心": 1, "儿子": 1}}, "a6d1e37d": {"detail": {"如此": 1, "你们": 1, "托比": 1, "基友": 1}}, "f50bceca": {"detail": {"基友": 1}}}}

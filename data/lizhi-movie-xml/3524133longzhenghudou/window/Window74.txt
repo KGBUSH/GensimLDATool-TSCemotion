@@ -1,0 +1,1 @@
+{"id":74,"startTime":3700.0,"endTime":3760.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"Dad5752c": {"detail": {"嘴唇": 1, "脸皮厚": 1, "不光": 1}}, "2cdd8db1": {"detail": {"浩南": 1}}, "173f6351": {"detail": {"声音": 1, "蜡笔小新": 1, "那么": 1, "妈妈": 1}}, "4a167cf5": {"detail": {"怎么": 1, "打戏": 1}}}}

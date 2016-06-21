@@ -1,0 +1,1 @@
+{"id":78,"startTime":3900.0,"endTime":3960.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"9970bd12": {"detail": {"QAQ": 1}}, "95e8eab6": {"detail": {"泪目": 1}}, "cb996fb7": {"detail": {"卧槽": 1, "好想哭": 1}}, "d9b86f28": {"detail": {"主角": 1, "已经": 1, "这时候": 1, "萌发": 1, "念头": 1}}, "2f2c352c": {"detail": {"泪奔": 1}}, "b49eb94a": {"detail": {"啊啊啊": 2}}}}

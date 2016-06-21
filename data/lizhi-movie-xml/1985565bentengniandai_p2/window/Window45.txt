@@ -1,0 +1,1 @@
+{"id":45,"startTime":2250.0,"endTime":2310.0,"userAlive":2,"numOfDanmaku":2,"averageLength":4,"userFeature":{"f50bceca": {"detail": {"要虐": 1, "卧槽": 1, "QAQ": 1}}, "D8895ca6": {"detail": {"付出": 1, "这么": 1, "享受": 1, "努力": 1, "风光": 1, "不是": 1}}}}

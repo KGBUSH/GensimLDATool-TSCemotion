@@ -1,0 +1,1 @@
+{"id":33,"startTime":1650.0,"endTime":1710.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"e85625ef": {"detail": {"这次": 1, "这位": 1, "叔叔": 1, "选中": 1, "土豪": 1}}, "5e12a52f": {"detail": {"盖茨": 1}}, "77d964d7": {"detail": {"盖茨": 1, "禁酒令": 1, "就是": 1}}}}
