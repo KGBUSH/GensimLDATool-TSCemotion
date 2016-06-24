@@ -24,14 +24,14 @@ def saveCorpusSimiResults(numCorpus, lenofCorpora, sort_sims, simi_resultpath):
     :return:
     """
     fsim = open(simi_resultpath, 'w')
-    if numCorpus % 100 == 0:
+    if numCorpus % 100 == 0:  #只用来观察
         print 'Saving the simiResults of the ' + str(numCorpus) + '/' + str(lenofCorpora) + ' corpus'
     fsim.write('the similarityResults of the ' + str(numCorpus) + ' corpus:' + '\n')
-    fsim.write(linecache.getline(GLOBAL_generatedFiles + '\\' + GLOBAL_LUTofCorpusName, numCorpus+1) + '\n\n\n\n\n')
+    fsim.write(linecache.getline(os.path.join(GLOBAL_generatedFiles, GLOBAL_LUTofCorpusName), numCorpus+1) + '\n\n\n\n\n')
     simnum = 0
     for tup in sort_sims:
         fsim.write(str(tup) + '\n')
-        fsim.write(linecache.getline(GLOBAL_generatedFiles + '\\' + GLOBAL_LUTofCorpusName, tup[0]+1) + '\n\n')
+        fsim.write(linecache.getline(os.path.join(GLOBAL_generatedFiles, GLOBAL_LUTofCorpusName), tup[0]+1) + '\n\n')
         simnum += 1
         if simnum >= GLOBAL_simioutputnum:
             break
@@ -106,7 +106,7 @@ class SimilarityUtil(object):
         sims = self._index[vec_lda]
         sort_sims = sorted(enumerate(sims), key=lambda item: -item[1])
 
-        simi_resultpath = GLOBAL_simiresultsFolder + '\\sims_corpus' + str(numofCorpus) + '.txt'
+        simi_resultpath = GLOBAL_simiresultsFolder + '/sims_corpus' + str(numofCorpus) + '.txt'
         # 存入文件
         saveCorpusSimiResults(numofCorpus, len(self._list_corpus), sort_sims, simi_resultpath)
 
@@ -154,9 +154,9 @@ class SimilarityUtil(object):
 if __name__ == "__main__":
 
     # 载入语料库和lda模型
-    DictLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_dictionaryName
-    CorporaLocation = GLOBAL_generatedFiles + '\\' + GLOBAL_corporaTfidfName
-    LDALocation = GLOBAL_generatedFiles + '\\' + 'topics10___iterations500___.lda'
+    DictLocation = os.path.join(GLOBAL_generatedFiles, GLOBAL_dictionaryName)
+    CorporaLocation = os.path.join(GLOBAL_generatedFiles, GLOBAL_corporaTfidfName)
+    LDALocation = os.path.join(GLOBAL_generatedFiles, 'topics10___iterations500___.lda')
     mysimi = SimilarityUtil(myDictLocation=DictLocation,
                             myCorporaLocation=CorporaLocation,
                             myLDALocation=LDALocation)
