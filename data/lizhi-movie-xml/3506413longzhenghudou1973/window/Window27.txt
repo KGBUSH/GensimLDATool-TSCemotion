@@ -1,0 +1,1 @@
+{"id":27,"startTime":1350.0,"endTime":1410.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"8a58d149": {"detail": {"女佣": 1, "非洲": 1}}, "36b5696a": {"detail": {"捡球": 1, "什么": 1}}, "81035ada": {"detail": {"胖子": 1, "那个": 1, "神盾": 1, "他爸": 1, "特工": 1, "局里": 1}}}}

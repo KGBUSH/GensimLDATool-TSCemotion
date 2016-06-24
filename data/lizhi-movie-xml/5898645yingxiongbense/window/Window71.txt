@@ -1,0 +1,1 @@
+{"id":71,"startTime":3550.0,"endTime":3610.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"97e27660": {"detail": {"guangan": 1}}, "ea601e97": {"detail": {"很快": 1, "大哥": 1}}, "6da3c0fb": {"detail": {}}, "d0cc50c1": {"detail": {}}, "2be0d368": {"detail": {"哥哥": 1, "大哥": 1, "喜欢": 1, "明明": 1, "就是": 1}}}}

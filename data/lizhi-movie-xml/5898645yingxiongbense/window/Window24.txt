@@ -1,0 +1,1 @@
+{"id":24,"startTime":1200.0,"endTime":1260.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"7ab420a7": {"detail": {"拙计": 1, "max": 1, "智商": 1, "武力": 1}}, "187ab8be": {"detail": {"PPT": 1}}, "33869cb2": {"detail": {"这女": 1, "添乱": 1}}, "cd824d0d": {"detail": {"2333": 1, "配合": 1}}, "D796fa81": {"detail": {"大新张": 1}}, "b4a1d910": {"detail": {"哈哈哈": 2}}}}

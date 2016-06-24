@@ -1,0 +1,1 @@
+{"id":21,"startTime":1050.0,"endTime":1110.0,"userAlive":5,"numOfDanmaku":6,"averageLength":2,"userFeature":{"9fca0bf8": {"detail": {"厉害": 1, "台湾人": 1, "普通话": 1}}, "Dca95682": {"detail": {"台湾人": 1, "诡异": 1, "讲信": 1}}, "e2891b11": {"detail": {"干坏事": 1, "显眼": 1, "衣服": 1}}, "3f0a6795": {"detail": {"假币": 1}}, "37ef9bc9": {"detail": {"55555": 1, "龙叔": 1}}}}

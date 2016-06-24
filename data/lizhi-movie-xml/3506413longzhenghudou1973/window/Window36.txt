@@ -1,0 +1,1 @@
+{"id":36,"startTime":1800.0,"endTime":1860.0,"userAlive":4,"numOfDanmaku":5,"averageLength":2,"userFeature":{"D0f14ebd": {"detail": {"螳螂拳": 1}}, "Dd7558aa": {"detail": {"猴山": 1}}, "Dca2e14f": {"detail": {"活人": 1, "有没有": 2}}, "37b7a6c0": {"detail": {"还有": 1, "人连": 1, "这个": 1, "看过": 1, "知道": 1, "电影": 1, "觉得": 1}}}}

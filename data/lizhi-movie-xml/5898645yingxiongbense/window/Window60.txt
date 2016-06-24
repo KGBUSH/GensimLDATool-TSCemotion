@@ -1,0 +1,1 @@
+{"id":60,"startTime":3000.0,"endTime":3060.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"cd824d0d": {"detail": {"时代": 1}}, "3f0a6795": {"detail": {"现在": 1, "老大": 1}}}}

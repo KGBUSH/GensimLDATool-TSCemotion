@@ -1,0 +1,1 @@
+{"id":34,"startTime":1700.0,"endTime":1760.0,"userAlive":3,"numOfDanmaku":5,"averageLength":2,"userFeature":{"7fe76eb7": {"detail": {"变相": 1, "怪杰": 1}}, "81035ada": {"detail": {"翻译": 1, "一点": 1, "配音": 1, "没有": 1, "好赞": 1, "接地": 1}}, "9e2b58d8": {"detail": {"最强": 1, "世界": 1, "本来": 1, "不错": 2}}}}

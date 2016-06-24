@@ -1,0 +1,1 @@
+{"id":62,"startTime":3100.0,"endTime":3160.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"19c1b5d0": {"detail": {"二五仔": 1}}, "64b3e119": {"detail": {"全家": 1}}, "39d86c86": {"detail": {"好受": 1, "发哥": 1}}}}

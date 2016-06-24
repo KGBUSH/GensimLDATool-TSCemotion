@@ -1,0 +1,1 @@
+{"id":114,"startTime":5700.0,"endTime":5760.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"b80ac8f8": {"detail": {"哥哥": 1, "纪念": 1, "201645": 1}}, "6ed7fe01": {"detail": {"哥哥": 1, "20160401": 1, "来看": 1}}, "49932d23": {"detail": {"哥哥": 1, "为什么": 1, "要死": 1}}}}

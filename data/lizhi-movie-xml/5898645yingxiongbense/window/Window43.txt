@@ -1,0 +1,1 @@
+{"id":43,"startTime":2150.0,"endTime":2210.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"130fbea1": {"detail": {"起来": 1, "好看": 1}}, "e0e4dc92": {"detail": {"起来": 1, "狄龙": 1}}, "ba93d67c": {"detail": {"由奢入俭": 1}}, "a7185b3d": {"detail": {"弹幕": 1, "测试": 1}}, "cab5d109": {"detail": {"龙哥": 1, "白牙": 1}}}}

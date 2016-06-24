@@ -1,0 +1,1 @@
+{"id":43,"startTime":2150.0,"endTime":2210.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"52fe4f8c": {"detail": {"这胸": 1, "好评": 1}}, "52cfce23": {"detail": {}}, "d1f0e7b4": {"detail": {"竞赛": 1, "无赖": 1, "热血": 1, "黄道带": 1, "有种": 1, "视感": 1}}, "81035ada": {"detail": {"广播体操": 1, "第八": 1}}, "a623c0e3": {"detail": {"狗叫": 1}}}}

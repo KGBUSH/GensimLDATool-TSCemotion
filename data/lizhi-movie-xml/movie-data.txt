@@ -2,9 +2,6 @@ http://www.ibilibili.com/video/av1206074/
 2835798aganzhengzhuan.xml
 阿甘正传
 
-http://www.ibilibili.com/video/av2261803/
-3524133longzhenghudou.xml
-98古惑仔之龙争虎斗
 
 http://www.ibilibili.com/video/av1346727/
 2040057yangguangxiaomeinv.xml
@@ -14,7 +11,7 @@ http://www.ibilibili.com/video/av1281473/index_1.html
 1949283katejiaolian_p1.xml
 卡特教练p1
 
-http://www.ibilibili.com/video/av1281473/index_2.html
+
 1949284katejiaolian_p2.xml
 卡特教练p2
 
@@ -44,8 +41,14 @@ http://www.ibilibili.com/video/av2035222/
 3148889wenxiangshinvren.xml
 闻香识女人
 
+http://www.ibilibili.com/video/av3684208/index_1.html
+5898645yingxiongbense.xml
+英雄本色
 
 
+http://www.ibilibili.com/video/av2251267/
+3506413longzhenghudou1973.xml
+龙争虎斗1973
 
 
 

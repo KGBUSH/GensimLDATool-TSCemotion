@@ -1,0 +1,1 @@
+{"id":63,"startTime":3150.0,"endTime":3210.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"cfecd5c6": {"detail": {"那个": 1, "卧槽": 1, "恐怖": 1, "表情": 1}}, "56d06b76": {"detail": {"不是": 1, "难道": 1, "教主": 1}}, "39d86c86": {"detail": {"好受": 1, "发哥": 1}}, "3f0a6795": {"detail": {"发哥": 1}}}}

@@ -1,0 +1,1 @@
+{"id":96,"startTime":4800.0,"endTime":4860.0,"userAlive":5,"numOfDanmaku":5,"averageLength":2,"userFeature":{"1f05af0e": {"detail": {"自带": 1, "美瞳": 1}}, "dfb42ecd": {"detail": {"假币": 1}}, "6751ca8e": {"detail": {"又系": 1, "炸弹": 1, "现场": 1, "过去": 1, "自己": 1, "咆疾": 1, "甘顺摊": 1}}, "9373a854": {"detail": {"赌神": 1, "23333333333333333": 1}}, "3f0a6795": {"detail": {}}}}

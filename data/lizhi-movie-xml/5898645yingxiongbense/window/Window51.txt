@@ -1,0 +1,1 @@
+{"id":51,"startTime":2550.0,"endTime":2610.0,"userAlive":1,"numOfDanmaku":1,"averageLength":1,"userFeature":{"0f972acc": {"detail": {"宇文化及": 1}}}}

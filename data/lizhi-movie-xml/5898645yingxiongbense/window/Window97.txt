@@ -1,0 +1,1 @@
+{"id":97,"startTime":4850.0,"endTime":4910.0,"userAlive":5,"numOfDanmaku":5,"averageLength":1,"userFeature":{"8a18e1e4": {"detail": {"神跑位": 1}}, "dfb42ecd": {"detail": {"假币": 1}}, "ba93d67c": {"detail": {"冲锋枪": 1, "乌兹": 1}}, "a7d191d5": {"detail": {}}, "b4d2f4d9": {"detail": {"丢雷楼": 1}}}}

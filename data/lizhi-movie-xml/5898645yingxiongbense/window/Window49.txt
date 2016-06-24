@@ -1,0 +1,1 @@
+{"id":49,"startTime":2450.0,"endTime":2510.0,"userAlive":2,"numOfDanmaku":2,"averageLength":3,"userFeature":{"68e2b570": {"detail": {"哥哥": 1, "当时": 1, "青涩": 1}}, "7ab420a7": {"detail": {"枪射断": 1, "确定": 1, "人用": 1}}}}
