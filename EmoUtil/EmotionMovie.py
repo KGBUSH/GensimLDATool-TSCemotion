@@ -33,6 +33,7 @@ class EmotionMovie(object):
         """
 
         """
+        # 文科生弹幕词典的总况
         self.damakDictionaryList = DanmukDictionary.load(danmukDictFolder=GLOBAL_DanmukDict)
 
         xml_folder = GLOBAL_EmotionMovies

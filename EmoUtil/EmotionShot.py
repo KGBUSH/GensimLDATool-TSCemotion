@@ -75,7 +75,7 @@ class EmotionShot(object):
 
     print '\nCommunicating the index...'
     # _index是后面检索相似shot用，如果分析单个shot不需要
-    # _index = similarities.MatrixSimilarity(_lda[_list_corpus])
+    _index = similarities.MatrixSimilarity(_lda[_list_corpus])
 
     print "\nCalculating all Movie Emotion Vectors...."
     em = EmotionMovie()
@@ -207,9 +207,9 @@ class EmotionShot(object):
         # print 'shotBelongedMovie:', self.belongedMovie
         # print 'shotVector:', self.shotVector
 
-
-
-
+    @property
+    def list_corpus(self):
+        return self._list_corpus
 
 
 if __name__ == '__main__':
@@ -226,7 +226,8 @@ if __name__ == '__main__':
     # shotLocation = 'C:\\Users\\KGBUS\\PycharmProjects\\GensimLDATools2.0\\data\\NewEmotionMovies-2.0' \
     #                '\\terror\\2668234guisinue\\window\\Window145.txt'
     # 魂断蓝桥
-    shotLocation = GLOBAL_EmotionMovies + '/tragic/1646751hunduanlanqiao/window/Window1.txt'
+    shotLocation = '/home/test/dypaper/GensimLDATool-TSCemotion/data' \
+                   '/lizhi-movie-xml/3989920shaolinzuqiu/window/Window25.txt'
 
 
     eShot = EmotionShot(shotLocation=shotLocation)
