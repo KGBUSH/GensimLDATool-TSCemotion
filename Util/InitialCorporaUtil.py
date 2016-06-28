@@ -97,7 +97,7 @@ class InitialCorporaUtil(object):
         for root, dirs, files in os.walk(dest):
             windowCount4movie = len(files)  # 统计这个电影的window数量
             # 把前三个后三个window排除掉
-            headendWindowNum = [0,1,2,windowCount4movie-3, windowCount4movie-2, windowCount4movie-1]
+            headendWindowNum = [0,1,   windowCount4movie-2, windowCount4movie-1]
             numInheadend = 0
 
             for OneFileName in files:
