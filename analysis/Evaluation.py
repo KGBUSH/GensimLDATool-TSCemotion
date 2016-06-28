@@ -81,7 +81,7 @@ class Evaluation(object):
         """
         evaluation indicator
         """
-        file4ObjShots = '/home/test/dypaper/GensimLDATool-TSCemotion/data/objectiveShots.txt'
+        file4ObjShots = GLOBAL_objectiveShotsFilePath
         self.objShotsList = getObjShotsFromFile(fileName=file4ObjShots)  # list<shotLocation>
 
         self.indicatorD = {'precision':0, 'recall':0, 'f1':0}
@@ -172,7 +172,8 @@ if __name__ == '__main__':
     if not os.path.isdir(GLOBAL_evaluationFolder):
         os.makedirs(GLOBAL_evaluationFolder)
     e = Evaluation()
-    # e.evaluation(method='MTER', do_SingleShot_func=ShotSimilarityAnalysis.do_SingleShot_Version2_MTER)
+    # e.evaluation(method='LDA', do_SingleShot_func=ShotSimilarityAnalysis.do_SingleShot_Version2_LDA)
+    e.evaluation(method='MTER', do_SingleShot_func=ShotSimilarityAnalysis.do_SingleShot_Version2_MTER)
     # e.evaluation(method='CosEV', do_SingleShot_func=ShotSimilarityAnalysis.do_SingleShot_Version2_CosEV)
 
-    e.evaluation(method='LDA', do_SingleShot_func=ShotSimilarityAnalysis.do_SingleShot_Version2_LDA)
+
