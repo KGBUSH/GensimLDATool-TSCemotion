@@ -60,7 +60,11 @@ class EmotionShot(object):
     """
     print "*****************************Loading class attributes**********************************"
     print 'Loading TopicInfo'
-    topicFile = GLOBAL_generatedFiles + '/txtall_t10_it500.txt'
+
+    ldaParameter = {'topicNum':20, 'iteration':500}
+    print 'ldaParameter:', ldaParameter
+
+    topicFile = GLOBAL_generatedFiles + '/txtall_t'+ str(ldaParameter['topicNum']) +'_it' + str(ldaParameter['iteration']) + '.txt'
     et = EmotionTopic(topicFile)
     _TopicsInfo = et.topicsInfo()
 
@@ -68,7 +72,7 @@ class EmotionShot(object):
     # 载入语料库和lda模型
     myDictLocation = GLOBAL_generatedFiles + '/' + GLOBAL_dictionaryName
     myCorporaLocation = GLOBAL_generatedFiles + '/' + GLOBAL_corporaTfidfName
-    myLDALocation = GLOBAL_generatedFiles + '/' + 'topics10___iterations500___.lda'
+    myLDALocation = GLOBAL_generatedFiles + '/' + 'topics'+ str(ldaParameter['topicNum']) +'___iterations' + str(ldaParameter['iteration']) +'___.lda'
     _dictionary = corpora.Dictionary.load(myDictLocation)
     _list_corpus = corpora.MmCorpus(myCorporaLocation)
     _lda = models.LdaModel.load(myLDALocation)
