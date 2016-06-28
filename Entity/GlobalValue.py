@@ -12,7 +12,10 @@ GLOBAL_generatedFiles = GLOBAL_projectpath + '/DY-generatedFiles-hunjian'
 GLOBAL_simiresultsFolder = GLOBAL_generatedFiles + '/similarityResults'
 GLOBAL_CECdictFolder = GLOBAL_projectpath + '/data/CECps_Dictionary'
 # GLOBAL_EmotionMovies = GLOBAL_projectpath + '/data/NewEmotionMovies-2.0'
-GLOBAL_EmotionMovies = GLOBAL_projectpath + '/data/lizhi-movie-xml'
+
+
+GLOBAL_EmotionMovies = GLOBAL_projectpath + '/data/lizhi-movie-xml-2minShot'
+
 
 GLOBAL_DanmukDict = GLOBAL_projectpath + '/data/DanmukDict'
 
@@ -23,8 +26,12 @@ GLOBAL_windowWordsLimit = 5
 # 训练LDA的两个参数  # 放在LDAUtil.py
 # GLOBAL_numofTopics = 20
 # GLOBAL_numofIterations = 200
+
+
 # 主题输出词个数
-GLOBAL_topn = 300
+GLOBAL_topn = 100
+
+
 
 # 输出相似片段的个数
 GLOBAL_simioutputnum = 30
@@ -38,8 +45,11 @@ GLOBAL_corporaTfidfName = 'danmakuCorporaTfidf.mm'
 
 #################ShotSimilarityAnaltsis.py
 # 每部电影下面的最大推荐 shot 数量
-GLOBAL_count4RecommendFromEachMovie = 20
+GLOBAL_count4RecommendFromEachMovie = 15
 #################存储evaluation结果
-GLOBAL_evaluationFolder = GLOBAL_generatedFiles + '/624-eachMovie' + str(GLOBAL_count4RecommendFromEachMovie) + '-MTER&CosEV'
+GLOBAL_evaluationFolder = GLOBAL_generatedFiles + '/628-eachMovie' + str(GLOBAL_count4RecommendFromEachMovie) + '-MTER'
 # LDA算法下的推荐数目,这个是从全局推荐,所以要单独设置,建议是GLOBAL_count4RecommendFromEachMovie * movie数量
-GLOBA_LDARecommendShotsCount = 300
+GLOBA_LDARecommendShotsCount = 150
+
+# objectiveShots,txt 路径 '/home/test/dypaper/GensimLDATool-TSCemotion/data/objectiveShots.txt'
+GLOBAL_objectiveShotsFilePath = GLOBAL_projectpath + '/data/objectiveShots-2minShot.txt'
