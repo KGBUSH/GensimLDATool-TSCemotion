@@ -1,0 +1,1 @@
+{"id":54,"startTime":5400.0,"endTime":5520.0,"userAlive":3,"numOfDanmaku":3,"averageLength":1,"userFeature":{"446013c9": {"detail": {"转折点": 1}}, "2a209706": {"detail": {"卧槽": 1}}, "70e4ebbf": {"detail": {"woc": 1}}}}

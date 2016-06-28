@@ -1,0 +1,1 @@
+{"id":63,"startTime":6300.0,"endTime":6420.0,"userAlive":4,"numOfDanmaku":4,"averageLength":0,"userFeature":{"2a209706": {"detail": {"野合": 1}}, "8fe961af": {"detail": {"心塞": 1}}, "86c250b7": {"detail": {}}, "4cddce4a": {"detail": {"野战": 1}}}}

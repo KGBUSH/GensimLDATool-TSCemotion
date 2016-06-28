@@ -1,0 +1,1 @@
+{"id":48,"startTime":4800.0,"endTime":4920.0,"userAlive":3,"numOfDanmaku":4,"averageLength":1,"userFeature":{"50b27c4a": {"detail": {}}, "b49eb94a": {"detail": {"天下乌鸦一般黑": 1}}, "b90d04b9": {"detail": {"帮忙": 1, "真成了": 1, "罪犯": 1, "犯罪": 1, "结果": 1}}}}

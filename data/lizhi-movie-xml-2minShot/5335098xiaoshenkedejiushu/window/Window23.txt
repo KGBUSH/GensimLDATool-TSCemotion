@@ -1,0 +1,1 @@
+{"id":23,"startTime":2300.0,"endTime":2420.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"4c3aa319": {"detail": {"233333333": 1, "字幕组": 1}}, "5872397e": {"detail": {"重温": 1, "自由": 1}}}}

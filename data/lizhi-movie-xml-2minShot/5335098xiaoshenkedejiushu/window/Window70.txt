@@ -1,0 +1,1 @@
+{"id":70,"startTime":7000.0,"endTime":7120.0,"userAlive":5,"numOfDanmaku":6,"averageLength":1,"userFeature":{"bc092586": {"detail": {"厉害": 2}}, "D09d9d8f": {"detail": {"校服": 1, "一样": 1}}, "ee5fdf8a": {"detail": {}}, "38ba3748": {"detail": {"因为": 1, "典狱长": 1, "没有": 1, "所以": 1, "确认": 1, "回家": 1}}, "73a11545": {"detail": {"典狱长": 1}}}}

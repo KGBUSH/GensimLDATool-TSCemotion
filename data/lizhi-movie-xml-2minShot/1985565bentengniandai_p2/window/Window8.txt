@@ -1,0 +1,1 @@
+{"id":8,"startTime":800.0,"endTime":920.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"e85625ef": {"detail": {"托比": 1, "趴在": 1, "你好": 1}}, "7764f5a9": {"detail": {"真是": 1, "可惜": 1, "土豪": 1, "不去": 1, "从政": 1}}, "a2c5de99": {"detail": {"MAX": 1, "演讲": 1, "能力": 1}}}}

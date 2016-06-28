@@ -1,0 +1,1 @@
+{"id":30,"startTime":3000.0,"endTime":3120.0,"userAlive":4,"numOfDanmaku":4,"averageLength":2,"userFeature":{"D662d107": {"detail": {"发际": 1}}, "cd824d0d": {"detail": {"时代": 1}}, "3f0a6795": {"detail": {"现在": 1, "老大": 1}}, "cab5d109": {"detail": {"打死": 1, "回旋": 1, "龙哥": 1, "拳头": 1}}}}

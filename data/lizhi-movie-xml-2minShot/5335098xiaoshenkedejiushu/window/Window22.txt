@@ -1,0 +1,1 @@
+{"id":22,"startTime":2200.0,"endTime":2320.0,"userAlive":3,"numOfDanmaku":3,"averageLength":2,"userFeature":{"2a209706": {"detail": {"眼神": 1, "和善": 1}}, "73fec3bb": {"detail": {"知识": 1, "力量": 1, "就是": 1}}, "59e13b7b": {"detail": {"小伙伴": 1, "蒙逼": 1, "实力": 1}}}}

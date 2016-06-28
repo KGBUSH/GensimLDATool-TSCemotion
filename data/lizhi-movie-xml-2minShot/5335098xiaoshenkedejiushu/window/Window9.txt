@@ -1,0 +1,1 @@
+{"id":9,"startTime":900.0,"endTime":1020.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"d9b86f28": {"detail": {"单间": 1, "集体": 1, "更惨": 1}}}}

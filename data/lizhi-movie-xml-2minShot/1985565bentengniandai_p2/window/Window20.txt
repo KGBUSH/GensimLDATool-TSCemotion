@@ -1,0 +1,1 @@
+{"id":20,"startTime":2000.0,"endTime":2120.0,"userAlive":2,"numOfDanmaku":2,"averageLength":2,"userFeature":{"19221b70": {"detail": {"没有": 1, "然而": 1, "弹幕": 1, "乱用": 1}}, "D46eea41": {"detail": {"紧张": 1}}}}

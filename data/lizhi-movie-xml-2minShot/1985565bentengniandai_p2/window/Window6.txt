@@ -1,0 +1,1 @@
+{"id":6,"startTime":600.0,"endTime":720.0,"userAlive":4,"numOfDanmaku":5,"averageLength":1,"userFeature":{"f50bceca": {"detail": {"QAQ": 1, "紧张": 1}}, "20e7404a": {"detail": {"现在": 1, "紧张": 1}}, "141c256d": {"detail": {"一只": 1, "少年": 1, "看不见": 1, "眼睛": 1}}, "7764f5a9": {"detail": {"紧张": 1}}}}

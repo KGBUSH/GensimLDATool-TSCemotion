@@ -1,0 +1,1 @@
+{"id":15,"startTime":1500.0,"endTime":1620.0,"userAlive":3,"numOfDanmaku":3,"averageLength":3,"userFeature":{"2bc9edbd": {"detail": {"明白": 1, "原因": 1, "研究": 1, "现在": 1, "知道": 1, "之前": 1, "石头": 1}}, "0d721c20": {"detail": {"性趣": 1}}, "e48b310f": {"detail": {"真糟糕": 1, "台词": 1}}}}

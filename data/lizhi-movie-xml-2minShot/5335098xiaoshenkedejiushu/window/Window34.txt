@@ -1,0 +1,1 @@
+{"id":34,"startTime":3400.0,"endTime":3520.0,"userAlive":6,"numOfDanmaku":7,"averageLength":1,"userFeature":{"b438fc61": {"detail": {"心疼": 1, "老爷子": 1}}, "b453514f": {"detail": {"伤感": 1}}, "ead60f0f": {"detail": {"233333": 1}}, "3106b006": {"detail": {"释放": 1, "不敢": 1, "社会": 1, "面对": 1}}, "5fddc5a2": {"detail": {"2333": 1, "心疼": 1}}, "5872397e": {"detail": {"心疼": 1}}}}

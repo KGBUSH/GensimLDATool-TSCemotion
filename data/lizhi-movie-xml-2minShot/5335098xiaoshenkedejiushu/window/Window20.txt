@@ -1,0 +1,1 @@
+{"id":20,"startTime":2000.0,"endTime":2120.0,"userAlive":2,"numOfDanmaku":2,"averageLength":1,"userFeature":{"097d9e11": {"detail": {}}, "d9b86f28": {"detail": {"反抗": 1, "默不作声": 1}}}}

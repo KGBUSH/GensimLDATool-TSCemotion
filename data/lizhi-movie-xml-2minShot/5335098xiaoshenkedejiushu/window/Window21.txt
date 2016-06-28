@@ -1,0 +1,1 @@
+{"id":21,"startTime":2100.0,"endTime":2220.0,"userAlive":1,"numOfDanmaku":1,"averageLength":3,"userFeature":{"02c118e4": {"detail": {"黑钱": 1, "开始": 1, "ing": 1}}}}
